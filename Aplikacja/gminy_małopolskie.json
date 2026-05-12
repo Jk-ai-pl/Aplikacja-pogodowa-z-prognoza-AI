@@ -1,0 +1,642 @@
+[
+  {
+    "id": 207,
+    "name": "Alwernia",
+    "type": "city",
+    "commune": "Alwernia",
+    "district": "chrzanowski",
+    "province": "małopolskie",
+    "lat": 50.05978105884065,
+    "lng": 19.539570530283562
+  },
+  {
+    "id": 226,
+    "name": "Andrychów",
+    "type": "city",
+    "commune": "Andrychów",
+    "district": "wadowicki",
+    "province": "małopolskie",
+    "lat": 49.855164574297184,
+    "lng": 19.337462980263588
+  },
+  {
+    "id": 1266,
+    "name": "Biecz",
+    "type": "city",
+    "commune": "Biecz",
+    "district": "gorlicki",
+    "province": "małopolskie",
+    "lat": 49.731033103285775,
+    "lng": 21.253770161980388
+  },
+  {
+    "id": 1681,
+    "name": "Bobowa",
+    "type": "city",
+    "commune": "Bobowa",
+    "district": "gorlicki",
+    "province": "małopolskie",
+    "lat": 49.70888658065288,
+    "lng": 20.945097854835492
+  },
+  {
+    "id": 1751,
+    "name": "Bochnia",
+    "type": "city",
+    "commune": "Bochnia",
+    "district": "bocheński",
+    "province": "małopolskie",
+    "lat": 49.9693214638359,
+    "lng": 20.4325996298721
+  },
+  {
+    "id": 2898,
+    "name": "Brzesko",
+    "type": "city",
+    "commune": "Brzesko",
+    "district": "brzeski",
+    "province": "małopolskie",
+    "lat": 49.96833333,
+    "lng": 20.60777778
+  },
+  {
+    "id": 2900,
+    "name": "Brzeszcze",
+    "type": "city",
+    "commune": "Brzeszcze",
+    "district": "oświęcimski",
+    "province": "małopolskie",
+    "lat": 49.9829518912234,
+    "lng": 19.1440681224315
+  },
+  {
+    "id": 3624,
+    "name": "Bukowno",
+    "type": "city",
+    "commune": "Bukowno",
+    "district": "olkuski",
+    "province": "małopolskie",
+    "lat": 50.267596362461404,
+    "lng": 19.462759213138586
+  },
+  {
+    "id": 4294,
+    "name": "Chełmek",
+    "type": "city",
+    "commune": "Chełmek",
+    "district": "oświęcimski",
+    "province": "małopolskie",
+    "lat": 50.10055556,
+    "lng": 19.25833333
+  },
+  {
+    "id": 4780,
+    "name": "Chrzanów",
+    "type": "city",
+    "commune": "Chrzanów",
+    "district": "chrzanowski",
+    "province": "małopolskie",
+    "lat": 50.1416174606686,
+    "lng": 19.4113417586863
+  },
+  {
+    "id": 5292,
+    "name": "Ciężkowice",
+    "type": "city",
+    "commune": "Ciężkowice",
+    "district": "tarnowski",
+    "province": "małopolskie",
+    "lat": 49.78638954,
+    "lng": 20.97417018
+  },
+  {
+    "id": 5571,
+    "name": "Czarny Dunajec",
+    "type": "city",
+    "commune": "Czarny Dunajec",
+    "district": "nowotarski",
+    "province": "małopolskie",
+    "lat": 49.4400534189212,
+    "lng": 19.85301640731913
+  },
+  {
+    "id": 5641,
+    "name": "Czchów",
+    "type": "city",
+    "commune": "Czchów",
+    "district": "brzeski",
+    "province": "małopolskie",
+    "lat": 49.833781366524,
+    "lng": 20.6735388218675
+  },
+  {
+    "id": 6193,
+    "name": "Dobczyce",
+    "type": "city",
+    "commune": "Dobczyce",
+    "district": "myślenicki",
+    "province": "małopolskie",
+    "lat": 49.88070865392998,
+    "lng": 20.092757512684194
+  },
+  {
+    "id": 7437,
+    "name": "Dąbrowa Tarnowska",
+    "type": "city",
+    "commune": "Dąbrowa Tarnowska",
+    "district": "dąbrowski",
+    "province": "małopolskie",
+    "lat": 50.1744884522989,
+    "lng": 20.9864359397439
+  },
+  {
+    "id": 9130,
+    "name": "Gorlice",
+    "type": "city",
+    "commune": "Gorlice",
+    "district": "gorlicki",
+    "province": "małopolskie",
+    "lat": 49.65485180786568,
+    "lng": 21.159828439018764
+  },
+  {
+    "id": 10021,
+    "name": "Grybów",
+    "type": "city",
+    "commune": "Grybów",
+    "district": "nowosądecki",
+    "province": "małopolskie",
+    "lat": 49.62427737568878,
+    "lng": 20.947717822681017
+  },
+  {
+    "id": 12881,
+    "name": "Jordanów",
+    "type": "city",
+    "commune": "Jordanów",
+    "district": "suski",
+    "province": "małopolskie",
+    "lat": 49.64915277849944,
+    "lng": 19.829946356704077
+  },
+  {
+    "id": 13407,
+    "name": "Kalwaria Zebrzydowska",
+    "type": "city",
+    "commune": "Kalwaria Zebrzydowska",
+    "district": "wadowicki",
+    "province": "małopolskie",
+    "lat": 49.86683721880465,
+    "lng": 19.676764774789916
+  },
+  {
+    "id": 15776,
+    "name": "Koszyce",
+    "type": "city",
+    "commune": "Koszyce",
+    "district": "proszowicki",
+    "province": "małopolskie",
+    "lat": 50.168507463442,
+    "lng": 20.577707784657
+  },
+  {
+    "id": 16368,
+    "name": "Kraków",
+    "type": "city",
+    "commune": "Kraków",
+    "district": "Kraków",
+    "province": "małopolskie",
+    "lat": 50.061781182988,
+    "lng": 19.9373697234367
+  },
+  {
+    "id": 16770,
+    "name": "Krynica-Zdrój",
+    "type": "city",
+    "commune": "Krynica-Zdrój",
+    "district": "nowosądecki",
+    "province": "małopolskie",
+    "lat": 49.421559278136414,
+    "lng": 20.95949546919575
+  },
+  {
+    "id": 16899,
+    "name": "Krzeszowice",
+    "type": "city",
+    "commune": "Krzeszowice",
+    "district": "krakowski",
+    "province": "małopolskie",
+    "lat": 50.1351067812604,
+    "lng": 19.6366331173838
+  },
+  {
+    "id": 17241,
+    "name": "Książ Wielki",
+    "type": "city",
+    "commune": "Książ Wielki",
+    "district": "miechowski",
+    "province": "małopolskie",
+    "lat": 50.443151935764845,
+    "lng": 20.139718489831523
+  },
+  {
+    "id": 17985,
+    "name": "Kęty",
+    "type": "city",
+    "commune": "Kęty",
+    "district": "oświęcimski",
+    "province": "małopolskie",
+    "lat": 49.88371075,
+    "lng": 19.22235607
+  },
+  {
+    "id": 18623,
+    "name": "Libiąż",
+    "type": "city",
+    "commune": "Libiąż",
+    "district": "chrzanowski",
+    "province": "małopolskie",
+    "lat": 50.1066087459903,
+    "lng": 19.3298316218081
+  },
+  {
+    "id": 18693,
+    "name": "Limanowa",
+    "type": "city",
+    "commune": "Limanowa",
+    "district": "limanowski",
+    "province": "małopolskie",
+    "lat": 49.7064541376476,
+    "lng": 20.422694496528
+  },
+  {
+    "id": 19801,
+    "name": "Maków Podhalański",
+    "type": "city",
+    "commune": "Maków Podhalański",
+    "district": "suski",
+    "province": "małopolskie",
+    "lat": 49.72963541430245,
+    "lng": 19.676373634938216
+  },
+  {
+    "id": 20733,
+    "name": "Miechów",
+    "type": "city",
+    "commune": "Miechów",
+    "district": "miechowski",
+    "province": "małopolskie",
+    "lat": 50.35583333,
+    "lng": 20.02861111
+  },
+  {
+    "id": 21873,
+    "name": "Mszana Dolna",
+    "type": "city",
+    "commune": "Mszana Dolna",
+    "district": "limanowski",
+    "province": "małopolskie",
+    "lat": 49.674032101311276,
+    "lng": 20.079840378089436
+  },
+  {
+    "id": 21942,
+    "name": "Muszyna",
+    "type": "city",
+    "commune": "Muszyna",
+    "district": "nowosądecki",
+    "province": "małopolskie",
+    "lat": 49.35478826187759,
+    "lng": 20.89597182866206
+  },
+  {
+    "id": 22016,
+    "name": "Myślenice",
+    "type": "city",
+    "commune": "Myślenice",
+    "district": "myślenicki",
+    "province": "małopolskie",
+    "lat": 49.83323460179406,
+    "lng": 19.938956653994552
+  },
+  {
+    "id": 22735,
+    "name": "Niepołomice",
+    "type": "city",
+    "commune": "Niepołomice",
+    "district": "wielicki",
+    "province": "małopolskie",
+    "lat": 50.03305556,
+    "lng": 20.21638889
+  },
+  {
+    "id": 23308,
+    "name": "Nowe Brzesko",
+    "type": "city",
+    "commune": "Nowe Brzesko",
+    "district": "proszowicki",
+    "province": "małopolskie",
+    "lat": 50.13111111,
+    "lng": 20.37444444
+  },
+  {
+    "id": 23909,
+    "name": "Nowy Sącz",
+    "type": "city",
+    "commune": "Nowy Sącz",
+    "district": "Nowy Sącz",
+    "province": "małopolskie",
+    "lat": 49.62025418126497,
+    "lng": 20.702143165766966
+  },
+  {
+    "id": 23911,
+    "name": "Nowy Targ",
+    "type": "city",
+    "commune": "Nowy Targ",
+    "district": "nowotarski",
+    "province": "małopolskie",
+    "lat": 49.4775165233993,
+    "lng": 20.0320809717973
+  },
+  {
+    "id": 23924,
+    "name": "Nowy Wiśnicz",
+    "type": "city",
+    "commune": "Nowy Wiśnicz",
+    "district": "bocheński",
+    "province": "małopolskie",
+    "lat": 49.9151580913859,
+    "lng": 20.4620681414769
+  },
+  {
+    "id": 24386,
+    "name": "Olkusz",
+    "type": "city",
+    "commune": "Olkusz",
+    "district": "olkuski",
+    "province": "małopolskie",
+    "lat": 50.27897483,
+    "lng": 19.56004316
+  },
+  {
+    "id": 25348,
+    "name": "Oświęcim",
+    "type": "city",
+    "commune": "Oświęcim",
+    "district": "oświęcimski",
+    "province": "małopolskie",
+    "lat": 50.0379802596036,
+    "lng": 19.220875497991
+  },
+  {
+    "id": 26445,
+    "name": "Piwniczna-Zdrój",
+    "type": "city",
+    "commune": "Piwniczna-Zdrój",
+    "district": "nowosądecki",
+    "province": "małopolskie",
+    "lat": 49.43983202663632,
+    "lng": 20.713607085477413
+  },
+  {
+    "id": 27810,
+    "name": "Proszowice",
+    "type": "city",
+    "commune": "Proszowice",
+    "district": "proszowicki",
+    "province": "małopolskie",
+    "lat": 50.19249801,
+    "lng": 20.28999524
+  },
+  {
+    "id": 28854,
+    "name": "Rabka-Zdrój",
+    "type": "city",
+    "commune": "Rabka-Zdrój",
+    "district": "nowotarski",
+    "province": "małopolskie",
+    "lat": 49.610026028566,
+    "lng": 19.9527566526988
+  },
+  {
+    "id": 29177,
+    "name": "Radłów",
+    "type": "city",
+    "commune": "Radłów",
+    "district": "tarnowski",
+    "province": "małopolskie",
+    "lat": 50.08305556,
+    "lng": 20.84777778
+  },
+  {
+    "id": 30608,
+    "name": "Ryglice",
+    "type": "city",
+    "commune": "Ryglice",
+    "district": "tarnowski",
+    "province": "małopolskie",
+    "lat": 49.87916667,
+    "lng": 21.13833333
+  },
+  {
+    "id": 31957,
+    "name": "Skawina",
+    "type": "city",
+    "commune": "Skawina",
+    "district": "krakowski",
+    "province": "małopolskie",
+    "lat": 49.9749704187233,
+    "lng": 19.8264206147209
+  },
+  {
+    "id": 31962,
+    "name": "Skała",
+    "type": "city",
+    "commune": "Skała",
+    "district": "krakowski",
+    "province": "małopolskie",
+    "lat": 50.2303609498968,
+    "lng": 19.854138766092
+  },
+  {
+    "id": 33610,
+    "name": "Stary Sącz",
+    "type": "city",
+    "commune": "Stary Sącz",
+    "district": "nowosądecki",
+    "province": "małopolskie",
+    "lat": 49.56413825887368,
+    "lng": 20.634921803299193
+  },
+  {
+    "id": 34390,
+    "name": "Sucha Beskidzka",
+    "type": "city",
+    "commune": "Sucha Beskidzka",
+    "district": "suski",
+    "province": "małopolskie",
+    "lat": 49.74171067995851,
+    "lng": 19.592128007695543
+  },
+  {
+    "id": 34671,
+    "name": "Sułkowice",
+    "type": "city",
+    "commune": "Sułkowice",
+    "district": "myślenicki",
+    "province": "małopolskie",
+    "lat": 49.84215682626823,
+    "lng": 19.802491185096688
+  },
+  {
+    "id": 34898,
+    "name": "Szczawnica",
+    "type": "city",
+    "commune": "Szczawnica",
+    "district": "nowotarski",
+    "province": "małopolskie",
+    "lat": 49.4252277125261,
+    "lng": 20.4828056510719
+  },
+  {
+    "id": 35016,
+    "name": "Szczucin",
+    "type": "city",
+    "commune": "Szczucin",
+    "district": "dąbrowski",
+    "province": "małopolskie",
+    "lat": 50.3092505677444,
+    "lng": 21.0763781364456
+  },
+  {
+    "id": 35699,
+    "name": "Słomniki",
+    "type": "city",
+    "commune": "Słomniki",
+    "district": "krakowski",
+    "province": "małopolskie",
+    "lat": 50.2399239707738,
+    "lng": 20.0820865871797
+  },
+  {
+    "id": 35999,
+    "name": "Tarnów",
+    "type": "city",
+    "commune": "Tarnów",
+    "district": "Tarnów",
+    "province": "małopolskie",
+    "lat": 50.0125044210521,
+    "lng": 20.9883644616795
+  },
+  {
+    "id": 36585,
+    "name": "Trzebinia",
+    "type": "city",
+    "commune": "Trzebinia",
+    "district": "chrzanowski",
+    "province": "małopolskie",
+    "lat": 50.1584288954488,
+    "lng": 19.4728842672691
+  },
+  {
+    "id": 36741,
+    "name": "Tuchów",
+    "type": "city",
+    "commune": "Tuchów",
+    "district": "tarnowski",
+    "province": "małopolskie",
+    "lat": 49.895,
+    "lng": 21.05444444
+  },
+  {
+    "id": 37400,
+    "name": "Wadowice",
+    "type": "city",
+    "commune": "Wadowice",
+    "district": "wadowicki",
+    "province": "małopolskie",
+    "lat": 49.88341112106999,
+    "lng": 19.491884337594858
+  },
+  {
+    "id": 37870,
+    "name": "Wieliczka",
+    "type": "city",
+    "commune": "Wieliczka",
+    "district": "wielicki",
+    "province": "małopolskie",
+    "lat": 49.9843940961719,
+    "lng": 20.06111327101976
+  },
+  {
+    "id": 38883,
+    "name": "Wojnicz",
+    "type": "city",
+    "commune": "Wojnicz",
+    "district": "tarnowski",
+    "province": "małopolskie",
+    "lat": 49.95777778,
+    "lng": 20.8375
+  },
+  {
+    "id": 39336,
+    "name": "Wolbrom",
+    "type": "city",
+    "commune": "Wolbrom",
+    "district": "olkuski",
+    "province": "małopolskie",
+    "lat": 50.38527837,
+    "lng": 19.76000098
+  },
+  {
+    "id": 41074,
+    "name": "Zakliczyn",
+    "type": "city",
+    "commune": "Zakliczyn",
+    "district": "tarnowski",
+    "province": "małopolskie",
+    "lat": 49.85611111,
+    "lng": 20.80972222
+  },
+  {
+    "id": 41080,
+    "name": "Zakopane",
+    "type": "city",
+    "commune": "Zakopane",
+    "district": "tatrzański",
+    "province": "małopolskie",
+    "lat": 49.29694444,
+    "lng": 19.95
+  },
+  {
+    "id": 41581,
+    "name": "Zator",
+    "type": "city",
+    "commune": "Zator",
+    "district": "oświęcimski",
+    "province": "małopolskie",
+    "lat": 49.99611111,
+    "lng": 19.43694444
+  },
+  {
+    "id": 43974,
+    "name": "Świątniki Górne",
+    "type": "city",
+    "commune": "Świątniki Górne",
+    "district": "krakowski",
+    "province": "małopolskie",
+    "lat": 49.9342880082057,
+    "lng": 19.9536336486599
+  },
+  {
+    "id": 44092,
+    "name": "Żabno",
+    "type": "city",
+    "commune": "Żabno",
+    "district": "tarnowski",
+    "province": "małopolskie",
+    "lat": 50.1333333534418,
+    "lng": 20.8861586194098
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1791,
+    "name": "Bodzentyn",
+    "type": "city",
+    "commune": "Bodzentyn",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.9410480085562,
+    "lng": 20.9569594442055
+  },
+  {
+    "id": 1841,
+    "name": "Bogoria",
+    "type": "city",
+    "commune": "Bogoria",
+    "district": "staszowski",
+    "province": "świętokrzyskie",
+    "lat": 50.65132426901142,
+    "lng": 21.260549484348907
+  },
+  {
+    "id": 3692,
+    "name": "Busko-Zdrój",
+    "type": "city",
+    "commune": "Busko-Zdrój",
+    "district": "buski",
+    "province": "świętokrzyskie",
+    "lat": 50.47067099469573,
+    "lng": 20.719744280822376
+  },
+  {
+    "id": 4396,
+    "name": "Chmielnik",
+    "type": "city",
+    "commune": "Chmielnik",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.6143257611973,
+    "lng": 20.7517803568395
+  },
+  {
+    "id": 4946,
+    "name": "Chęciny",
+    "type": "city",
+    "commune": "Chęciny",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.8004928317237,
+    "lng": 20.4623148934968
+  },
+  {
+    "id": 6008,
+    "name": "Daleszyce",
+    "type": "city",
+    "commune": "Daleszyce",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.80138889,
+    "lng": 20.80666667
+  },
+  {
+    "id": 7012,
+    "name": "Działoszyce",
+    "type": "city",
+    "commune": "Działoszyce",
+    "district": "pińczowski",
+    "province": "świętokrzyskie",
+    "lat": 50.36563223675428,
+    "lng": 20.35166746512099
+  },
+  {
+    "id": 9302,
+    "name": "Gowarczów",
+    "type": "city",
+    "commune": "Gowarczów",
+    "district": "konecki",
+    "province": "świętokrzyskie",
+    "lat": 51.278394078861595,
+    "lng": 20.438017395239765
+  },
+  {
+    "id": 11460,
+    "name": "Iwaniska",
+    "type": "city",
+    "commune": "Iwaniska",
+    "district": "opatowski",
+    "province": "świętokrzyskie",
+    "lat": 50.73153117276509,
+    "lng": 21.281054362500544
+  },
+  {
+    "id": 13158,
+    "name": "Jędrzejów",
+    "type": "city",
+    "commune": "Jędrzejów",
+    "district": "jędrzejowski",
+    "province": "świętokrzyskie",
+    "lat": 50.6402937460701,
+    "lng": 20.303595451544
+  },
+  {
+    "id": 14079,
+    "name": "Kazimierza Wielka",
+    "type": "city",
+    "commune": "Kazimierza Wielka",
+    "district": "kazimierski",
+    "province": "świętokrzyskie",
+    "lat": 50.26554663491667,
+    "lng": 20.493312743466966
+  },
+  {
+    "id": 14196,
+    "name": "Kielce",
+    "type": "city",
+    "commune": "Kielce",
+    "district": "Kielce",
+    "province": "świętokrzyskie",
+    "lat": 50.8717373465681,
+    "lng": 20.6314934949156
+  },
+  {
+    "id": 14523,
+    "name": "Klimontów",
+    "type": "city",
+    "commune": "Klimontów",
+    "district": "sandomierski",
+    "province": "świętokrzyskie",
+    "lat": 50.65664448161547,
+    "lng": 21.450930080153682
+  },
+  {
+    "id": 15444,
+    "name": "Koprzywnica",
+    "type": "city",
+    "commune": "Koprzywnica",
+    "district": "sandomierski",
+    "province": "świętokrzyskie",
+    "lat": 50.59301250011232,
+    "lng": 21.584017547056558
+  },
+  {
+    "id": 16225,
+    "name": "Końskie",
+    "type": "city",
+    "commune": "Końskie",
+    "district": "konecki",
+    "province": "świętokrzyskie",
+    "lat": 51.1915978574134,
+    "lng": 20.4071400579161
+  },
+  {
+    "id": 17495,
+    "name": "Kunów",
+    "type": "city",
+    "commune": "Kunów",
+    "district": "ostrowiecki",
+    "province": "świętokrzyskie",
+    "lat": 50.9547264247603,
+    "lng": 21.279374940429
+  },
+  {
+    "id": 20451,
+    "name": "Małogoszcz",
+    "type": "city",
+    "commune": "Małogoszcz",
+    "district": "jędrzejowski",
+    "province": "świętokrzyskie",
+    "lat": 50.8120644711271,
+    "lng": 20.2642114494318
+  },
+  {
+    "id": 21613,
+    "name": "Morawica",
+    "type": "city",
+    "commune": "Morawica",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.7451240475927,
+    "lng": 20.6202948067032
+  },
+  {
+    "id": 23073,
+    "name": "Nowa Słupia",
+    "type": "city",
+    "commune": "Nowa Słupia",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.863799895751,
+    "lng": 21.0899159655
+  },
+  {
+    "id": 23832,
+    "name": "Nowy Korczyn",
+    "type": "city",
+    "commune": "Nowy Korczyn",
+    "district": "buski",
+    "province": "świętokrzyskie",
+    "lat": 50.3010573152732,
+    "lng": 20.807359789687244
+  },
+  {
+    "id": 24366,
+    "name": "Oleśnica",
+    "type": "city",
+    "commune": "Oleśnica",
+    "district": "staszowski",
+    "province": "świętokrzyskie",
+    "lat": 50.45053562840269,
+    "lng": 21.065016798978586
+  },
+  {
+    "id": 24568,
+    "name": "Opatowiec",
+    "type": "city",
+    "commune": "Opatowiec",
+    "district": "kazimierski",
+    "province": "świętokrzyskie",
+    "lat": 50.24225322479049,
+    "lng": 20.723751535023204
+  },
+  {
+    "id": 24571,
+    "name": "Opatów",
+    "type": "city",
+    "commune": "Opatów",
+    "district": "opatowski",
+    "province": "świętokrzyskie",
+    "lat": 50.80143886262868,
+    "lng": 21.42395276992418
+  },
+  {
+    "id": 24800,
+    "name": "Osiek",
+    "type": "city",
+    "commune": "Osiek",
+    "district": "staszowski",
+    "province": "świętokrzyskie",
+    "lat": 50.52047433019864,
+    "lng": 21.442791962957266
+  },
+  {
+    "id": 25008,
+    "name": "Ostrowiec Świętokrzyski",
+    "type": "city",
+    "commune": "Ostrowiec Świętokrzyski",
+    "district": "ostrowiecki",
+    "province": "świętokrzyskie",
+    "lat": 50.943947590216,
+    "lng": 21.3898881074338
+  },
+  {
+    "id": 25357,
+    "name": "Ożarów",
+    "type": "city",
+    "commune": "Ożarów",
+    "district": "opatowski",
+    "province": "świętokrzyskie",
+    "lat": 50.88754292872255,
+    "lng": 21.66653445256242
+  },
+  {
+    "id": 25370,
+    "name": "Pacanów",
+    "type": "city",
+    "commune": "Pacanów",
+    "district": "buski",
+    "province": "świętokrzyskie",
+    "lat": 50.400424576148076,
+    "lng": 21.04132353555744
+  },
+  {
+    "id": 26055,
+    "name": "Piekoszów",
+    "type": "city",
+    "commune": "Piekoszów",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.88167366213553,
+    "lng": 20.465945075049202
+  },
+  {
+    "id": 26118,
+    "name": "Pierzchnica",
+    "type": "city",
+    "commune": "Pierzchnica",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.697381296456,
+    "lng": 20.753805443605
+  },
+  {
+    "id": 26510,
+    "name": "Pińczów",
+    "type": "city",
+    "commune": "Pińczów",
+    "district": "pińczowski",
+    "province": "świętokrzyskie",
+    "lat": 50.52061315046216,
+    "lng": 20.526628006016534
+  },
+  {
+    "id": 27662,
+    "name": "Połaniec",
+    "type": "city",
+    "commune": "Połaniec",
+    "district": "staszowski",
+    "province": "świętokrzyskie",
+    "lat": 50.43268199299083,
+    "lng": 21.280182878301726
+  },
+  {
+    "id": 29038,
+    "name": "Radoszyce",
+    "type": "city",
+    "commune": "Radoszyce",
+    "district": "konecki",
+    "province": "świętokrzyskie",
+    "lat": 51.074357717836,
+    "lng": 20.255065466349
+  },
+  {
+    "id": 31199,
+    "name": "Sandomierz",
+    "type": "city",
+    "commune": "Sandomierz",
+    "district": "sandomierski",
+    "province": "świętokrzyskie",
+    "lat": 50.67971829399365,
+    "lng": 21.74912583694288
+  },
+  {
+    "id": 31887,
+    "name": "Skalbmierz",
+    "type": "city",
+    "commune": "Skalbmierz",
+    "district": "kazimierski",
+    "province": "świętokrzyskie",
+    "lat": 50.3196978130379,
+    "lng": 20.399109532131448
+  },
+  {
+    "id": 31949,
+    "name": "Skarżysko-Kamienna",
+    "type": "city",
+    "commune": "Skarżysko-Kamienna",
+    "district": "skarżyski",
+    "province": "świętokrzyskie",
+    "lat": 51.11296731959346,
+    "lng": 20.87175700320572
+  },
+  {
+    "id": 32456,
+    "name": "Sobków",
+    "type": "city",
+    "commune": "Sobków",
+    "district": "jędrzejowski",
+    "province": "świętokrzyskie",
+    "lat": 50.69906112324561,
+    "lng": 20.45489415387708
+  },
+  {
+    "id": 33152,
+    "name": "Starachowice",
+    "type": "city",
+    "commune": "Starachowice",
+    "district": "starachowicki",
+    "province": "świętokrzyskie",
+    "lat": 51.0533215842726,
+    "lng": 21.0702175843431
+  },
+  {
+    "id": 33684,
+    "name": "Staszów",
+    "type": "city",
+    "commune": "Staszów",
+    "district": "staszowski",
+    "province": "świętokrzyskie",
+    "lat": 50.564915456298934,
+    "lng": 21.166986478446724
+  },
+  {
+    "id": 33915,
+    "name": "Stopnica",
+    "type": "city",
+    "commune": "Stopnica",
+    "district": "buski",
+    "province": "świętokrzyskie",
+    "lat": 50.439749023728,
+    "lng": 20.939431769597
+  },
+  {
+    "id": 34349,
+    "name": "Stąporków",
+    "type": "city",
+    "commune": "Stąporków",
+    "district": "konecki",
+    "province": "świętokrzyskie",
+    "lat": 51.1379642012721,
+    "lng": 20.5642608709392
+  },
+  {
+    "id": 34422,
+    "name": "Suchedniów",
+    "type": "city",
+    "commune": "Suchedniów",
+    "district": "skarżyski",
+    "province": "świętokrzyskie",
+    "lat": 51.04766279560721,
+    "lng": 20.829170528794236
+  },
+  {
+    "id": 35374,
+    "name": "Szydłów",
+    "type": "city",
+    "commune": "Szydłów",
+    "district": "staszowski",
+    "province": "świętokrzyskie",
+    "lat": 50.59061243864258,
+    "lng": 21.004923040674417
+  },
+  {
+    "id": 35548,
+    "name": "Sędziszów",
+    "type": "city",
+    "commune": "Sędziszów",
+    "district": "jędrzejowski",
+    "province": "świętokrzyskie",
+    "lat": 50.5633546295693,
+    "lng": 20.0519530527369
+  },
+  {
+    "id": 38724,
+    "name": "Wiślica",
+    "type": "city",
+    "commune": "Wiślica",
+    "district": "buski",
+    "province": "świętokrzyskie",
+    "lat": 50.34903318335097,
+    "lng": 20.674460142645152
+  },
+  {
+    "id": 38797,
+    "name": "Wodzisław",
+    "type": "city",
+    "commune": "Wodzisław",
+    "district": "jędrzejowski",
+    "province": "świętokrzyskie",
+    "lat": 50.520716866682,
+    "lng": 20.191710725342
+  },
+  {
+    "id": 40418,
+    "name": "Wąchock",
+    "type": "city",
+    "commune": "Wąchock",
+    "district": "starachowicki",
+    "province": "świętokrzyskie",
+    "lat": 51.0740166489213,
+    "lng": 21.0103759827885
+  },
+  {
+    "id": 40675,
+    "name": "Włoszczowa",
+    "type": "city",
+    "commune": "Włoszczowa",
+    "district": "włoszczowski",
+    "province": "świętokrzyskie",
+    "lat": 50.85233371882203,
+    "lng": 19.9676492337804
+  },
+  {
+    "id": 41714,
+    "name": "Zawichost",
+    "type": "city",
+    "commune": "Zawichost",
+    "district": "sandomierski",
+    "province": "świętokrzyskie",
+    "lat": 50.8059490023462,
+    "lng": 21.859814506461237
+  },
+  {
+    "id": 42546,
+    "name": "Ćmielów",
+    "type": "city",
+    "commune": "Ćmielów",
+    "district": "ostrowiecki",
+    "province": "świętokrzyskie",
+    "lat": 50.89027584,
+    "lng": 21.51000269
+  },
+  {
+    "id": 42643,
+    "name": "Łagów",
+    "type": "city",
+    "commune": "Łagów",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.774973824027,
+    "lng": 21.084117059389
+  },
+  {
+    "id": 42996,
+    "name": "Łopuszno",
+    "type": "city",
+    "commune": "Łopuszno",
+    "district": "kielecki",
+    "province": "świętokrzyskie",
+    "lat": 50.9486185491019,
+    "lng": 20.2506015638675
+  }
+]

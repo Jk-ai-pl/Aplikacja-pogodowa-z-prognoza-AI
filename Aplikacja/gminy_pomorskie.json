@@ -1,0 +1,432 @@
+[
+  {
+    "id": 2835,
+    "name": "Brusy",
+    "type": "city",
+    "commune": "Brusy",
+    "district": "chojnicki",
+    "province": "pomorskie",
+    "lat": 53.88519328075247,
+    "lng": 17.724294298016602
+  },
+  {
+    "id": 3837,
+    "name": "Bytów",
+    "type": "city",
+    "commune": "Bytów",
+    "district": "bytowski",
+    "province": "pomorskie",
+    "lat": 54.16981557039524,
+    "lng": 17.489297339277993
+  },
+  {
+    "id": 4528,
+    "name": "Chojnice",
+    "type": "city",
+    "commune": "Chojnice",
+    "district": "chojnicki",
+    "province": "pomorskie",
+    "lat": 53.69432253075697,
+    "lng": 17.5667669498336
+  },
+  {
+    "id": 5483,
+    "name": "Czarna Woda",
+    "type": "city",
+    "commune": "Czarna Woda",
+    "district": "starogardzki",
+    "province": "pomorskie",
+    "lat": 53.844513084517104,
+    "lng": 18.099946221505306
+  },
+  {
+    "id": 5492,
+    "name": "Czarne",
+    "type": "city",
+    "commune": "Czarne",
+    "district": "człuchowski",
+    "province": "pomorskie",
+    "lat": 53.683550220580976,
+    "lng": 16.940211392107972
+  },
+  {
+    "id": 5784,
+    "name": "Czersk",
+    "type": "city",
+    "commune": "Czersk",
+    "district": "chojnicki",
+    "province": "pomorskie",
+    "lat": 53.79511964308278,
+    "lng": 17.97644274531932
+  },
+  {
+    "id": 5983,
+    "name": "Człuchów",
+    "type": "city",
+    "commune": "Człuchów",
+    "district": "człuchowski",
+    "province": "pomorskie",
+    "lat": 53.667196859909815,
+    "lng": 17.35892318289916
+  },
+  {
+    "id": 6139,
+    "name": "Debrzno",
+    "type": "city",
+    "commune": "Debrzno",
+    "district": "człuchowski",
+    "province": "pomorskie",
+    "lat": 53.53843121069123,
+    "lng": 17.23538473670451
+  },
+  {
+    "id": 7098,
+    "name": "Dzierzgoń",
+    "type": "city",
+    "commune": "Dzierzgoń",
+    "district": "sztumski",
+    "province": "pomorskie",
+    "lat": 53.922411858686786,
+    "lng": 19.346797948621116
+  },
+  {
+    "id": 8609,
+    "name": "Gdańsk",
+    "type": "city",
+    "commune": "Gdańsk",
+    "district": "Gdańsk",
+    "province": "pomorskie",
+    "lat": 54.351887749048416,
+    "lng": 18.646338873384728
+  },
+  {
+    "id": 8612,
+    "name": "Gdynia",
+    "type": "city",
+    "commune": "Gdynia",
+    "district": "Gdynia",
+    "province": "pomorskie",
+    "lat": 54.517693409819614,
+    "lng": 18.538787174508503
+  },
+  {
+    "id": 8854,
+    "name": "Gniew",
+    "type": "city",
+    "commune": "Gniew",
+    "district": "tczewski",
+    "province": "pomorskie",
+    "lat": 53.83540492462097,
+    "lng": 18.8223250709434
+  },
+  {
+    "id": 10999,
+    "name": "Hel",
+    "type": "city",
+    "commune": "Hel",
+    "district": "pucki",
+    "province": "pomorskie",
+    "lat": 54.60529244217193,
+    "lng": 18.802641934360782
+  },
+  {
+    "id": 12368,
+    "name": "Jastarnia",
+    "type": "city",
+    "commune": "Jastarnia",
+    "district": "pucki",
+    "province": "pomorskie",
+    "lat": 54.699096301517734,
+    "lng": 18.672824243804293
+  },
+  {
+    "id": 13915,
+    "name": "Kartuzy",
+    "type": "city",
+    "commune": "Kartuzy",
+    "district": "kartuski",
+    "province": "pomorskie",
+    "lat": 54.33442969280444,
+    "lng": 18.19947957746355
+  },
+  {
+    "id": 14762,
+    "name": "Kobylnica",
+    "type": "city",
+    "commune": "Kobylnica",
+    "district": "słupski",
+    "province": "pomorskie",
+    "lat": 54.440540606591114,
+    "lng": 16.998409216507238
+  },
+  {
+    "id": 16262,
+    "name": "Kościerzyna",
+    "type": "city",
+    "commune": "Kościerzyna",
+    "district": "kościerski",
+    "province": "pomorskie",
+    "lat": 54.12133609827685,
+    "lng": 17.980506374764115
+  },
+  {
+    "id": 16769,
+    "name": "Krynica Morska",
+    "type": "city",
+    "commune": "Krynica Morska",
+    "district": "nowodworski",
+    "province": "pomorskie",
+    "lat": 54.377866596856954,
+    "lng": 19.436422186239735
+  },
+  {
+    "id": 17760,
+    "name": "Kwidzyn",
+    "type": "city",
+    "commune": "Kwidzyn",
+    "district": "kwidzyński",
+    "province": "pomorskie",
+    "lat": 53.734966795429784,
+    "lng": 18.935668900275804
+  },
+  {
+    "id": 17946,
+    "name": "Kępice",
+    "type": "city",
+    "commune": "Kępice",
+    "district": "słupski",
+    "province": "pomorskie",
+    "lat": 54.242693871695735,
+    "lng": 16.88780453180909
+  },
+  {
+    "id": 19557,
+    "name": "Lębork",
+    "type": "city",
+    "commune": "Lębork",
+    "district": "lęborski",
+    "province": "pomorskie",
+    "lat": 54.541002397551836,
+    "lng": 17.749732291660234
+  },
+  {
+    "id": 19822,
+    "name": "Malbork",
+    "type": "city",
+    "commune": "Malbork",
+    "district": "malborski",
+    "province": "pomorskie",
+    "lat": 54.035564590682085,
+    "lng": 19.03205745707717
+  },
+  {
+    "id": 20580,
+    "name": "Miastko",
+    "type": "city",
+    "commune": "Miastko",
+    "district": "bytowski",
+    "province": "pomorskie",
+    "lat": 54.00022526662599,
+    "lng": 16.97573617096337
+  },
+  {
+    "id": 23762,
+    "name": "Nowy Dwór Gdański",
+    "type": "city",
+    "commune": "Nowy Dwór Gdański",
+    "district": "nowodworski",
+    "province": "pomorskie",
+    "lat": 54.2138409439644,
+    "lng": 19.11878352578207
+  },
+  {
+    "id": 23902,
+    "name": "Nowy Staw",
+    "type": "city",
+    "commune": "Nowy Staw",
+    "district": "malborski",
+    "province": "pomorskie",
+    "lat": 54.13613490844779,
+    "lng": 19.009402001443714
+  },
+  {
+    "id": 25816,
+    "name": "Pelplin",
+    "type": "city",
+    "commune": "Pelplin",
+    "district": "tczewski",
+    "province": "pomorskie",
+    "lat": 53.92820595678882,
+    "lng": 18.69771937356207
+  },
+  {
+    "id": 27719,
+    "name": "Prabuty",
+    "type": "city",
+    "commune": "Prabuty",
+    "district": "kwidzyński",
+    "province": "pomorskie",
+    "lat": 53.756013692124725,
+    "lng": 19.20447225545835
+  },
+  {
+    "id": 27877,
+    "name": "Pruszcz Gdański",
+    "type": "city",
+    "commune": "Pruszcz Gdański",
+    "district": "gdański",
+    "province": "pomorskie",
+    "lat": 54.26146840225782,
+    "lng": 18.64145251659013
+  },
+  {
+    "id": 28494,
+    "name": "Puck",
+    "type": "city",
+    "commune": "Puck",
+    "district": "pucki",
+    "province": "pomorskie",
+    "lat": 54.71724620627896,
+    "lng": 18.40763028791538
+  },
+  {
+    "id": 29382,
+    "name": "Reda",
+    "type": "city",
+    "commune": "Reda",
+    "district": "wejherowski",
+    "province": "pomorskie",
+    "lat": 54.605215566272726,
+    "lng": 18.34733453908032
+  },
+  {
+    "id": 30306,
+    "name": "Rumia",
+    "type": "city",
+    "commune": "Rumia",
+    "district": "wejherowski",
+    "province": "pomorskie",
+    "lat": 54.57845945947614,
+    "lng": 18.39778977357815
+  },
+  {
+    "id": 31929,
+    "name": "Skarszewy",
+    "type": "city",
+    "commune": "Skarszewy",
+    "district": "starogardzki",
+    "province": "pomorskie",
+    "lat": 54.0715980493181,
+    "lng": 18.439797716281088
+  },
+  {
+    "id": 32210,
+    "name": "Skórcz",
+    "type": "city",
+    "commune": "Skórcz",
+    "district": "starogardzki",
+    "province": "pomorskie",
+    "lat": 53.79388889,
+    "lng": 18.525
+  },
+  {
+    "id": 32667,
+    "name": "Sopot",
+    "type": "city",
+    "commune": "Sopot",
+    "district": "Sopot",
+    "province": "pomorskie",
+    "lat": 54.44305020582015,
+    "lng": 18.561374213678803
+  },
+  {
+    "id": 33419,
+    "name": "Starogard Gdański",
+    "type": "city",
+    "commune": "Starogard Gdański",
+    "district": "starogardzki",
+    "province": "pomorskie",
+    "lat": 53.96405801313781,
+    "lng": 18.526236179231425
+  },
+  {
+    "id": 35297,
+    "name": "Sztum",
+    "type": "city",
+    "commune": "Sztum",
+    "district": "sztumski",
+    "province": "pomorskie",
+    "lat": 53.92085047691609,
+    "lng": 19.029599211816276
+  },
+  {
+    "id": 35822,
+    "name": "Słupsk",
+    "type": "city",
+    "commune": "Słupsk",
+    "district": "Słupsk",
+    "province": "pomorskie",
+    "lat": 54.467043809232045,
+    "lng": 17.027394090717667
+  },
+  {
+    "id": 36064,
+    "name": "Tczew",
+    "type": "city",
+    "commune": "Tczew",
+    "district": "tczewski",
+    "province": "pomorskie",
+    "lat": 54.08805556,
+    "lng": 18.79944444
+  },
+  {
+    "id": 37321,
+    "name": "Ustka",
+    "type": "city",
+    "commune": "Ustka",
+    "district": "słupski",
+    "province": "pomorskie",
+    "lat": 54.58046160780183,
+    "lng": 16.86203415961451
+  },
+  {
+    "id": 37684,
+    "name": "Wejherowo",
+    "type": "city",
+    "commune": "Wejherowo",
+    "district": "wejherowski",
+    "province": "pomorskie",
+    "lat": 54.60617229123056,
+    "lng": 18.23332372018586
+  },
+  {
+    "id": 40577,
+    "name": "Władysławowo",
+    "type": "city",
+    "commune": "Władysławowo",
+    "district": "pucki",
+    "province": "pomorskie",
+    "lat": 54.79013075557387,
+    "lng": 18.408736999365246
+  },
+  {
+    "id": 42851,
+    "name": "Łeba",
+    "type": "city",
+    "commune": "Łeba",
+    "district": "lęborski",
+    "province": "pomorskie",
+    "lat": 54.75871859652044,
+    "lng": 17.555935856411974
+  },
+  {
+    "id": 44458,
+    "name": "Żukowo",
+    "type": "city",
+    "commune": "Żukowo",
+    "district": "kartuski",
+    "province": "pomorskie",
+    "lat": 54.34559220681763,
+    "lng": 18.36449143041546
+  }
+]

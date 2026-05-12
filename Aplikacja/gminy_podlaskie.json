@@ -1,0 +1,402 @@
+[
+  {
+    "id": 442,
+    "name": "Augustów",
+    "type": "city",
+    "commune": "Augustów",
+    "district": "augustowski",
+    "province": "podlaskie",
+    "lat": 53.84416096010555,
+    "lng": 22.98015563066872
+  },
+  {
+    "id": 1238,
+    "name": "Białystok",
+    "type": "city",
+    "commune": "Białystok",
+    "district": "Białystok",
+    "province": "podlaskie",
+    "lat": 53.13228062715,
+    "lng": 23.168725232465
+  },
+  {
+    "id": 1411,
+    "name": "Bielsk Podlaski",
+    "type": "city",
+    "commune": "Bielsk Podlaski",
+    "district": "bielski",
+    "province": "podlaskie",
+    "lat": 52.76863509923044,
+    "lng": 23.191638013432083
+  },
+  {
+    "id": 2579,
+    "name": "Brańsk",
+    "type": "city",
+    "commune": "Brańsk",
+    "district": "bielski",
+    "province": "podlaskie",
+    "lat": 52.74327124994266,
+    "lng": 22.84141378386425
+  },
+  {
+    "id": 4598,
+    "name": "Choroszcz",
+    "type": "city",
+    "commune": "Choroszcz",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 53.14507491906,
+    "lng": 22.991806644573
+  },
+  {
+    "id": 5005,
+    "name": "Ciechanowiec",
+    "type": "city",
+    "commune": "Ciechanowiec",
+    "district": "wysokomazowiecki",
+    "province": "podlaskie",
+    "lat": 52.67913412682352,
+    "lng": 22.50014115135569
+  },
+  {
+    "id": 5463,
+    "name": "Czarna Białostocka",
+    "type": "city",
+    "commune": "Czarna Białostocka",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 53.305847294423,
+    "lng": 23.282178786823
+  },
+  {
+    "id": 5933,
+    "name": "Czyżew",
+    "type": "city",
+    "commune": "Czyżew",
+    "district": "wysokomazowiecki",
+    "province": "podlaskie",
+    "lat": 52.79871524914063,
+    "lng": 22.316556874045695
+  },
+  {
+    "id": 6639,
+    "name": "Drohiczyn",
+    "type": "city",
+    "commune": "Drohiczyn",
+    "district": "siemiatycki",
+    "province": "podlaskie",
+    "lat": 52.39864764840986,
+    "lng": 22.65880564352666
+  },
+  {
+    "id": 7408,
+    "name": "Dąbrowa Białostocka",
+    "type": "city",
+    "commune": "Dąbrowa Białostocka",
+    "district": "sokólski",
+    "province": "podlaskie",
+    "lat": 53.65363464525408,
+    "lng": 23.34799797839618
+  },
+  {
+    "id": 9100,
+    "name": "Goniądz",
+    "type": "city",
+    "commune": "Goniądz",
+    "district": "moniecki",
+    "province": "podlaskie",
+    "lat": 53.48805429154586,
+    "lng": 22.734650693546843
+  },
+  {
+    "id": 9735,
+    "name": "Grajewo",
+    "type": "city",
+    "commune": "Grajewo",
+    "district": "grajewski",
+    "province": "podlaskie",
+    "lat": 53.646999137679,
+    "lng": 22.454877129026
+  },
+  {
+    "id": 10946,
+    "name": "Hajnówka",
+    "type": "city",
+    "commune": "Hajnówka",
+    "district": "hajnowski",
+    "province": "podlaskie",
+    "lat": 52.74310243107429,
+    "lng": 23.583143339210434
+  },
+  {
+    "id": 12605,
+    "name": "Jedwabne",
+    "type": "city",
+    "commune": "Jedwabne",
+    "district": "łomżyński",
+    "province": "podlaskie",
+    "lat": 53.28558335650711,
+    "lng": 22.303471376680534
+  },
+  {
+    "id": 14465,
+    "name": "Kleszczele",
+    "type": "city",
+    "commune": "Kleszczele",
+    "district": "hajnowski",
+    "province": "podlaskie",
+    "lat": 52.574743354135066,
+    "lng": 23.32643988585186
+  },
+  {
+    "id": 14672,
+    "name": "Knyszyn",
+    "type": "city",
+    "commune": "Knyszyn",
+    "district": "moniecki",
+    "province": "podlaskie",
+    "lat": 53.31265899174684,
+    "lng": 22.919680280345357
+  },
+  {
+    "id": 14947,
+    "name": "Kolno",
+    "type": "city",
+    "commune": "Kolno",
+    "district": "kolneński",
+    "province": "podlaskie",
+    "lat": 53.40906109701087,
+    "lng": 21.933623170544504
+  },
+  {
+    "id": 16780,
+    "name": "Krynki",
+    "type": "city",
+    "commune": "Krynki",
+    "district": "sokólski",
+    "province": "podlaskie",
+    "lat": 53.264171412315065,
+    "lng": 23.772121765821783
+  },
+  {
+    "id": 18964,
+    "name": "Lipsk",
+    "type": "city",
+    "commune": "Lipsk",
+    "district": "augustowski",
+    "province": "podlaskie",
+    "lat": 53.733682385593,
+    "lng": 23.403610719333
+  },
+  {
+    "id": 20633,
+    "name": "Michałowo",
+    "type": "city",
+    "commune": "Michałowo",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 53.0354812207814,
+    "lng": 23.60828912217616
+  },
+  {
+    "id": 21781,
+    "name": "Mońki",
+    "type": "city",
+    "commune": "Mońki",
+    "district": "moniecki",
+    "province": "podlaskie",
+    "lat": 53.4048916916075,
+    "lng": 22.797069282792332
+  },
+  {
+    "id": 23636,
+    "name": "Nowogród",
+    "type": "city",
+    "commune": "Nowogród",
+    "district": "łomżyński",
+    "province": "podlaskie",
+    "lat": 53.22655477256527,
+    "lng": 21.879048641363774
+  },
+  {
+    "id": 29195,
+    "name": "Rajgród",
+    "type": "city",
+    "commune": "Rajgród",
+    "district": "grajewski",
+    "province": "podlaskie",
+    "lat": 53.729689780915,
+    "lng": 22.691639042002
+  },
+  {
+    "id": 31314,
+    "name": "Sejny",
+    "type": "city",
+    "commune": "Sejny",
+    "district": "sejneński",
+    "province": "podlaskie",
+    "lat": 54.10726307357542,
+    "lng": 23.3480637507141
+  },
+  {
+    "id": 31592,
+    "name": "Siemiatycze",
+    "type": "city",
+    "commune": "Siemiatycze",
+    "district": "siemiatycki",
+    "province": "podlaskie",
+    "lat": 52.42830238738726,
+    "lng": 22.871149029249512
+  },
+  {
+    "id": 32620,
+    "name": "Sokółka",
+    "type": "city",
+    "commune": "Sokółka",
+    "district": "sokólski",
+    "province": "podlaskie",
+    "lat": 53.40627577080235,
+    "lng": 23.503497520391615
+  },
+  {
+    "id": 33721,
+    "name": "Stawiski",
+    "type": "city",
+    "commune": "Stawiski",
+    "district": "kolneński",
+    "province": "podlaskie",
+    "lat": 53.37987806235552,
+    "lng": 22.154627781800812
+  },
+  {
+    "id": 34467,
+    "name": "Suchowola",
+    "type": "city",
+    "commune": "Suchowola",
+    "district": "sokólski",
+    "province": "podlaskie",
+    "lat": 53.57763381184578,
+    "lng": 23.105819885551092
+  },
+  {
+    "id": 34615,
+    "name": "Supraśl",
+    "type": "city",
+    "commune": "Supraśl",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 53.205577813859385,
+    "lng": 23.338191072878836
+  },
+  {
+    "id": 34621,
+    "name": "Suraż",
+    "type": "city",
+    "commune": "Suraż",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 52.94905417110818,
+    "lng": 22.956351952880663
+  },
+  {
+    "id": 34664,
+    "name": "Suwałki",
+    "type": "city",
+    "commune": "Suwałki",
+    "district": "Suwałki",
+    "province": "podlaskie",
+    "lat": 54.10136273173684,
+    "lng": 22.92827083762917
+  },
+  {
+    "id": 35021,
+    "name": "Szczuczyn",
+    "type": "city",
+    "commune": "Szczuczyn",
+    "district": "grajewski",
+    "province": "podlaskie",
+    "lat": 53.562991785801,
+    "lng": 22.285688296603
+  },
+  {
+    "id": 35124,
+    "name": "Szepietowo",
+    "type": "city",
+    "commune": "Szepietowo",
+    "district": "wysokomazowiecki",
+    "province": "podlaskie",
+    "lat": 52.87028694489034,
+    "lng": 22.543823010192583
+  },
+  {
+    "id": 36985,
+    "name": "Tykocin",
+    "type": "city",
+    "commune": "Tykocin",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 53.206410443327904,
+    "lng": 22.773852640582916
+  },
+  {
+    "id": 37600,
+    "name": "Wasilków",
+    "type": "city",
+    "commune": "Wasilków",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 53.19885636842135,
+    "lng": 23.206298576365253
+  },
+  {
+    "id": 39990,
+    "name": "Wysokie Mazowieckie",
+    "type": "city",
+    "commune": "Wysokie Mazowieckie",
+    "district": "wysokomazowiecki",
+    "province": "podlaskie",
+    "lat": 52.91647455002027,
+    "lng": 22.517143988897043
+  },
+  {
+    "id": 40838,
+    "name": "Zabłudów",
+    "type": "city",
+    "commune": "Zabłudów",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 53.01421842883722,
+    "lng": 23.338310272665595
+  },
+  {
+    "id": 41347,
+    "name": "Zambrów",
+    "type": "city",
+    "commune": "Zambrów",
+    "district": "zambrowski",
+    "province": "podlaskie",
+    "lat": 52.983753349382454,
+    "lng": 22.244817740600688
+  },
+  {
+    "id": 42698,
+    "name": "Łapy",
+    "type": "city",
+    "commune": "Łapy",
+    "district": "białostocki",
+    "province": "podlaskie",
+    "lat": 52.99115689337747,
+    "lng": 22.879392215450185
+  },
+  {
+    "id": 42956,
+    "name": "Łomża",
+    "type": "city",
+    "commune": "Łomża",
+    "district": "Łomża",
+    "province": "podlaskie",
+    "lat": 53.173290993715874,
+    "lng": 22.06857568448162
+  }
+]

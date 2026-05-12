@@ -1,0 +1,602 @@
+[
+  {
+    "id": 174,
+    "name": "Aleksandrów Łódzki",
+    "type": "city",
+    "commune": "Aleksandrów Łódzki",
+    "district": "zgierski",
+    "province": "łódzkie",
+    "lat": 51.81941711702409,
+    "lng": 19.30379951038738
+  },
+  {
+    "id": 992,
+    "name": "Bełchatów",
+    "type": "city",
+    "commune": "Bełchatów",
+    "district": "bełchatowski",
+    "province": "łódzkie",
+    "lat": 51.3624745643498,
+    "lng": 19.3650882670883
+  },
+  {
+    "id": 1069,
+    "name": "Biała Rawska",
+    "type": "city",
+    "commune": "Biała Rawska",
+    "district": "rawski",
+    "province": "łódzkie",
+    "lat": 51.80833333,
+    "lng": 20.47416667
+  },
+  {
+    "id": 1084,
+    "name": "Białaczów",
+    "type": "city",
+    "commune": "Białaczów",
+    "district": "opoczyński",
+    "province": "łódzkie",
+    "lat": 51.29816699495243,
+    "lng": 20.29653247674295
+  },
+  {
+    "id": 2013,
+    "name": "Bolesławiec",
+    "type": "city",
+    "commune": "Bolesławiec",
+    "district": "wieruszowski",
+    "province": "łódzkie",
+    "lat": 51.198828753392675,
+    "lng": 18.191323924235135
+  },
+  {
+    "id": 2036,
+    "name": "Bolimów",
+    "type": "city",
+    "commune": "Bolimów",
+    "district": "skierniewicki",
+    "province": "łódzkie",
+    "lat": 52.07643783264,
+    "lng": 20.163618557559
+  },
+  {
+    "id": 2969,
+    "name": "Brzeziny",
+    "type": "city",
+    "commune": "Brzeziny",
+    "district": "brzeziński",
+    "province": "łódzkie",
+    "lat": 51.7996381797357,
+    "lng": 19.753496160999
+  },
+  {
+    "id": 3983,
+    "name": "Błaszki",
+    "type": "city",
+    "commune": "Błaszki",
+    "district": "sieradzki",
+    "province": "łódzkie",
+    "lat": 51.6516747145393,
+    "lng": 18.4377429707713
+  },
+  {
+    "id": 6741,
+    "name": "Drzewica",
+    "type": "city",
+    "commune": "Drzewica",
+    "district": "opoczyński",
+    "province": "łódzkie",
+    "lat": 51.4505281130297,
+    "lng": 20.4772519437505
+  },
+  {
+    "id": 7013,
+    "name": "Działoszyn",
+    "type": "city",
+    "commune": "Działoszyn",
+    "district": "pajęczański",
+    "province": "łódzkie",
+    "lat": 51.116906183381886,
+    "lng": 18.865183117094055
+  },
+  {
+    "id": 7485,
+    "name": "Dąbrowice",
+    "type": "city",
+    "commune": "Dąbrowice",
+    "district": "kutnowski",
+    "province": "łódzkie",
+    "lat": 52.315425639885994,
+    "lng": 19.0847256657421
+  },
+  {
+    "id": 9682,
+    "name": "Grabów",
+    "type": "city",
+    "commune": "Grabów",
+    "district": "łęczycki",
+    "province": "łódzkie",
+    "lat": 52.127799822168015,
+    "lng": 19.01315640779854
+  },
+  {
+    "id": 10824,
+    "name": "Głowno",
+    "type": "city",
+    "commune": "Głowno",
+    "district": "zgierski",
+    "province": "łódzkie",
+    "lat": 51.9677684662902,
+    "lng": 19.7138955472456
+  },
+  {
+    "id": 11445,
+    "name": "Inowłódz",
+    "type": "city",
+    "commune": "Inowłódz",
+    "district": "tomaszowski",
+    "province": "łódzkie",
+    "lat": 51.525725059665646,
+    "lng": 20.223208389158454
+  },
+  {
+    "id": 12843,
+    "name": "Jeżów",
+    "type": "city",
+    "commune": "Jeżów",
+    "district": "brzeziński",
+    "province": "łódzkie",
+    "lat": 51.81341547154277,
+    "lng": 19.96884175180867
+  },
+  {
+    "id": 13539,
+    "name": "Kamieńsk",
+    "type": "city",
+    "commune": "Kamieńsk",
+    "district": "radomszczański",
+    "province": "łódzkie",
+    "lat": 51.20444444,
+    "lng": 19.49694444
+  },
+  {
+    "id": 14211,
+    "name": "Kiernozia",
+    "type": "city",
+    "commune": "Kiernozia",
+    "district": "łowicki",
+    "province": "łódzkie",
+    "lat": 52.268529128480964,
+    "lng": 19.87130015059479
+  },
+  {
+    "id": 15092,
+    "name": "Koluszki",
+    "type": "city",
+    "commune": "Koluszki",
+    "district": "łódzki wschodni",
+    "province": "łódzkie",
+    "lat": 51.7450179250855,
+    "lng": 19.8172895475993
+  },
+  {
+    "id": 15349,
+    "name": "Konstantynów Łódzki",
+    "type": "city",
+    "commune": "Konstantynów Łódzki",
+    "district": "pabianicki",
+    "province": "łódzkie",
+    "lat": 51.7479334312877,
+    "lng": 19.325465113251
+  },
+  {
+    "id": 16638,
+    "name": "Krośniewice",
+    "type": "city",
+    "commune": "Krośniewice",
+    "district": "kutnowski",
+    "province": "łódzkie",
+    "lat": 52.2561037395236,
+    "lng": 19.170741977328
+  },
+  {
+    "id": 17635,
+    "name": "Kutno",
+    "type": "city",
+    "commune": "Kutno",
+    "district": "kutnowski",
+    "province": "łódzkie",
+    "lat": 52.23416286,
+    "lng": 19.3577838
+  },
+  {
+    "id": 19525,
+    "name": "Lutomiersk",
+    "type": "city",
+    "commune": "Lutomiersk",
+    "district": "pabianicki",
+    "province": "łódzkie",
+    "lat": 51.754178424769,
+    "lng": 19.211704239797
+  },
+  {
+    "id": 19537,
+    "name": "Lututów",
+    "type": "city",
+    "commune": "Lututów",
+    "district": "wieruszowski",
+    "province": "łódzkie",
+    "lat": 51.37150459868767,
+    "lng": 18.435408559311252
+  },
+  {
+    "id": 24589,
+    "name": "Opoczno",
+    "type": "city",
+    "commune": "Opoczno",
+    "district": "opoczyński",
+    "province": "łódzkie",
+    "lat": 51.37678482979587,
+    "lng": 20.286475514555942
+  },
+  {
+    "id": 24893,
+    "name": "Osjaków",
+    "type": "city",
+    "commune": "Osjaków",
+    "district": "wieluński",
+    "province": "łódzkie",
+    "lat": 51.28969980350268,
+    "lng": 18.791778365609805
+  },
+  {
+    "id": 25304,
+    "name": "Ozorków",
+    "type": "city",
+    "commune": "Ozorków",
+    "district": "zgierski",
+    "province": "łódzkie",
+    "lat": 51.9621795167211,
+    "lng": 19.2949075317346
+  },
+  {
+    "id": 25365,
+    "name": "Pabianice",
+    "type": "city",
+    "commune": "Pabianice",
+    "district": "pabianicki",
+    "province": "łódzkie",
+    "lat": 51.665,
+    "lng": 19.35916667
+  },
+  {
+    "id": 25414,
+    "name": "Pajęczno",
+    "type": "city",
+    "commune": "Pajęczno",
+    "district": "pajęczański",
+    "province": "łódzkie",
+    "lat": 51.14694444,
+    "lng": 18.995
+  },
+  {
+    "id": 25604,
+    "name": "Parzęczew",
+    "type": "city",
+    "commune": "Parzęczew",
+    "district": "zgierski",
+    "province": "łódzkie",
+    "lat": 51.948629650493096,
+    "lng": 19.206363890508662
+  },
+  {
+    "id": 26305,
+    "name": "Piotrków Trybunalski",
+    "type": "city",
+    "commune": "Piotrków Trybunalski",
+    "district": "Piotrków Trybunalski",
+    "province": "łódzkie",
+    "lat": 51.41111111,
+    "lng": 19.68611111
+  },
+  {
+    "id": 26456,
+    "name": "Piątek",
+    "type": "city",
+    "commune": "Piątek",
+    "district": "łęczycki",
+    "province": "łódzkie",
+    "lat": 52.068801577439,
+    "lng": 19.479718612379
+  },
+  {
+    "id": 26705,
+    "name": "Poddębice",
+    "type": "city",
+    "commune": "Poddębice",
+    "district": "poddębicki",
+    "province": "łódzkie",
+    "lat": 51.8930226634932,
+    "lng": 18.9550008654666
+  },
+  {
+    "id": 27946,
+    "name": "Przedbórz",
+    "type": "city",
+    "commune": "Przedbórz",
+    "district": "radomszczański",
+    "province": "łódzkie",
+    "lat": 51.08749945,
+    "lng": 19.87389344
+  },
+  {
+    "id": 28997,
+    "name": "Radomsko",
+    "type": "city",
+    "commune": "Radomsko",
+    "district": "radomszczański",
+    "province": "łódzkie",
+    "lat": 51.06750033,
+    "lng": 19.44444155
+  },
+  {
+    "id": 29342,
+    "name": "Rawa Mazowiecka",
+    "type": "city",
+    "commune": "Rawa Mazowiecka",
+    "district": "rawski",
+    "province": "łódzkie",
+    "lat": 51.7649986,
+    "lng": 20.25222521
+  },
+  {
+    "id": 29949,
+    "name": "Rozprza",
+    "type": "city",
+    "commune": "Rozprza",
+    "district": "piotrkowski",
+    "province": "łódzkie",
+    "lat": 51.30260323862225,
+    "lng": 19.646057425438126
+  },
+  {
+    "id": 30818,
+    "name": "Rzgów",
+    "type": "city",
+    "commune": "Rzgów",
+    "district": "łódzki wschodni",
+    "province": "łódzkie",
+    "lat": 51.6630386174119,
+    "lng": 19.4901190891091
+  },
+  {
+    "id": 31674,
+    "name": "Sieradz",
+    "type": "city",
+    "commune": "Sieradz",
+    "district": "sieradzki",
+    "province": "łódzkie",
+    "lat": 51.59610792,
+    "lng": 18.73221816
+  },
+  {
+    "id": 31990,
+    "name": "Skierniewice",
+    "type": "city",
+    "commune": "Skierniewice",
+    "district": "Skierniewice",
+    "province": "łódzkie",
+    "lat": 51.95643281811261,
+    "lng": 20.146581512463367
+  },
+  {
+    "id": 34091,
+    "name": "Stryków",
+    "type": "city",
+    "commune": "Stryków",
+    "district": "zgierski",
+    "province": "łódzkie",
+    "lat": 51.9015671593244,
+    "lng": 19.6047814872696
+  },
+  {
+    "id": 34524,
+    "name": "Sulejów",
+    "type": "city",
+    "commune": "Sulejów",
+    "district": "piotrkowski",
+    "province": "łódzkie",
+    "lat": 51.3542122219192,
+    "lng": 19.8848921661908
+  },
+  {
+    "id": 34799,
+    "name": "Szadek",
+    "type": "city",
+    "commune": "Szadek",
+    "district": "zduńskowolski",
+    "province": "łódzkie",
+    "lat": 51.691681372468906,
+    "lng": 18.975632132745474
+  },
+  {
+    "id": 36243,
+    "name": "Tomaszów Mazowiecki",
+    "type": "city",
+    "commune": "Tomaszów Mazowiecki",
+    "district": "tomaszowski",
+    "province": "łódzkie",
+    "lat": 51.5303833842501,
+    "lng": 20.0096597546431
+  },
+  {
+    "id": 36905,
+    "name": "Tuszyn",
+    "type": "city",
+    "commune": "Tuszyn",
+    "district": "łódzki wschodni",
+    "province": "łódzkie",
+    "lat": 51.60388634,
+    "lng": 19.54388334
+  },
+  {
+    "id": 37158,
+    "name": "Ujazd",
+    "type": "city",
+    "commune": "Ujazd",
+    "district": "tomaszowski",
+    "province": "łódzkie",
+    "lat": 51.59781830837306,
+    "lng": 19.921919162643263
+  },
+  {
+    "id": 37246,
+    "name": "Uniejów",
+    "type": "city",
+    "commune": "Uniejów",
+    "district": "poddębicki",
+    "province": "łódzkie",
+    "lat": 51.975134462006,
+    "lng": 18.7941150314427
+  },
+  {
+    "id": 37574,
+    "name": "Warta",
+    "type": "city",
+    "commune": "Warta",
+    "district": "sieradzki",
+    "province": "łódzkie",
+    "lat": 51.70694444,
+    "lng": 18.62444444
+  },
+  {
+    "id": 37975,
+    "name": "Wieluń",
+    "type": "city",
+    "commune": "Wieluń",
+    "district": "wieluński",
+    "province": "łódzkie",
+    "lat": 51.2209549811534,
+    "lng": 18.5706232233379
+  },
+  {
+    "id": 38026,
+    "name": "Wieruszów",
+    "type": "city",
+    "commune": "Wieruszów",
+    "district": "wieruszowski",
+    "province": "łódzkie",
+    "lat": 51.295,
+    "lng": 18.155
+  },
+  {
+    "id": 39339,
+    "name": "Wolbórz",
+    "type": "city",
+    "commune": "Wolbórz",
+    "district": "piotrkowski",
+    "province": "łódzkie",
+    "lat": 51.5051040443402,
+    "lng": 19.8300005582637
+  },
+  {
+    "id": 41968,
+    "name": "Zduńska Wola",
+    "type": "city",
+    "commune": "Zduńska Wola",
+    "district": "zduńskowolski",
+    "province": "łódzkie",
+    "lat": 51.6018537063445,
+    "lng": 18.9340389595832
+  },
+  {
+    "id": 42031,
+    "name": "Zelów",
+    "type": "city",
+    "commune": "Zelów",
+    "district": "bełchatowski",
+    "province": "łódzkie",
+    "lat": 51.4643062820612,
+    "lng": 19.2200162315223
+  },
+  {
+    "id": 42060,
+    "name": "Zgierz",
+    "type": "city",
+    "commune": "Zgierz",
+    "district": "zgierski",
+    "province": "łódzkie",
+    "lat": 51.8562498333983,
+    "lng": 19.4062160809675
+  },
+  {
+    "id": 42479,
+    "name": "Złoczew",
+    "type": "city",
+    "commune": "Złoczew",
+    "district": "sieradzki",
+    "province": "łódzkie",
+    "lat": 51.41805556,
+    "lng": 18.60583333
+  },
+  {
+    "id": 42710,
+    "name": "Łask",
+    "type": "city",
+    "commune": "Łask",
+    "district": "łaski",
+    "province": "łódzkie",
+    "lat": 51.59138889,
+    "lng": 19.13361111
+  },
+  {
+    "id": 43037,
+    "name": "Łowicz",
+    "type": "city",
+    "commune": "Łowicz",
+    "district": "łowicki",
+    "province": "łódzkie",
+    "lat": 52.1081085756291,
+    "lng": 19.9459747925004
+  },
+  {
+    "id": 43321,
+    "name": "Łódź",
+    "type": "city",
+    "commune": "Łódź",
+    "district": "Łódź",
+    "province": "łódzkie",
+    "lat": 51.76444444,
+    "lng": 19.46305556
+  },
+  {
+    "id": 43430,
+    "name": "Łęczyca",
+    "type": "city",
+    "commune": "Łęczyca",
+    "district": "łęczycki",
+    "province": "łódzkie",
+    "lat": 52.059356621968725,
+    "lng": 19.19860590251182
+  },
+  {
+    "id": 44172,
+    "name": "Żarnów",
+    "type": "city",
+    "commune": "Żarnów",
+    "district": "opoczyński",
+    "province": "łódzkie",
+    "lat": 51.24699430000147,
+    "lng": 20.171004897523975
+  },
+  {
+    "id": 44540,
+    "name": "Żychlin",
+    "type": "city",
+    "commune": "Żychlin",
+    "district": "kutnowski",
+    "province": "łódzkie",
+    "lat": 52.2439233717252,
+    "lng": 19.6264415111234
+  }
+]

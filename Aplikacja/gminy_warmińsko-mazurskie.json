@@ -1,0 +1,502 @@
+[
+  {
+    "id": 707,
+    "name": "Barczewo",
+    "type": "city",
+    "commune": "Barczewo",
+    "district": "olsztyński",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.830211145528864,
+    "lng": 20.692685143258664
+  },
+  {
+    "id": 788,
+    "name": "Bartoszyce",
+    "type": "city",
+    "commune": "Bartoszyce",
+    "district": "bartoszycki",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.2509884834402,
+    "lng": 20.8095290489956
+  },
+  {
+    "id": 1067,
+    "name": "Biała Piska",
+    "type": "city",
+    "commune": "Biała Piska",
+    "district": "piski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.6108038892428,
+    "lng": 22.0618794349634
+  },
+  {
+    "id": 1600,
+    "name": "Biskupiec",
+    "type": "city",
+    "commune": "Biskupiec",
+    "district": "olsztyński",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.86335903110674,
+    "lng": 20.95627180962251
+  },
+  {
+    "id": 1611,
+    "name": "Bisztynek",
+    "type": "city",
+    "commune": "Bisztynek",
+    "district": "bartoszycki",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.0860186142307,
+    "lng": 20.9014313404639
+  },
+  {
+    "id": 2557,
+    "name": "Braniewo",
+    "type": "city",
+    "commune": "Braniewo",
+    "district": "braniewski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.3822686457647,
+    "lng": 19.8217168060041
+  },
+  {
+    "id": 6272,
+    "name": "Dobre Miasto",
+    "type": "city",
+    "commune": "Dobre Miasto",
+    "district": "olsztyński",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.98929194751333,
+    "lng": 20.395270424644615
+  },
+  {
+    "id": 7005,
+    "name": "Działdowo",
+    "type": "city",
+    "commune": "Działdowo",
+    "district": "działdowski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.2386068764021,
+    "lng": 20.1824608279049
+  },
+  {
+    "id": 7996,
+    "name": "Elbląg",
+    "type": "city",
+    "commune": "Elbląg",
+    "district": "Elbląg",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.1614346367306,
+    "lng": 19.4097665358274
+  },
+  {
+    "id": 8076,
+    "name": "Ełk",
+    "type": "city",
+    "commune": "Ełk",
+    "district": "ełcki",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.8228566174812,
+    "lng": 22.3526646381949
+  },
+  {
+    "id": 8282,
+    "name": "Frombork",
+    "type": "city",
+    "commune": "Frombork",
+    "district": "braniewski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.3570067022385,
+    "lng": 19.6819539643211
+  },
+  {
+    "id": 8716,
+    "name": "Giżycko",
+    "type": "city",
+    "commune": "Giżycko",
+    "district": "giżycki",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.0398885385193,
+    "lng": 21.771539346359
+  },
+  {
+    "id": 9358,
+    "name": "Gołdap",
+    "type": "city",
+    "commune": "Gołdap",
+    "district": "gołdapski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.30701761883763,
+    "lng": 22.30350562673833
+  },
+  {
+    "id": 10581,
+    "name": "Górowo Iławeckie",
+    "type": "city",
+    "commune": "Górowo Iławeckie",
+    "district": "bartoszycki",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.2878496866761,
+    "lng": 20.4909167246223
+  },
+  {
+    "id": 11541,
+    "name": "Iława",
+    "type": "city",
+    "commune": "Iława",
+    "district": "iławski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.590209402333095,
+    "lng": 19.569847680788758
+  },
+  {
+    "id": 12750,
+    "name": "Jeziorany",
+    "type": "city",
+    "commune": "Jeziorany",
+    "district": "olsztyński",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.976250254827605,
+    "lng": 20.746239941704584
+  },
+  {
+    "id": 14377,
+    "name": "Kisielice",
+    "type": "city",
+    "commune": "Kisielice",
+    "district": "iławski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.608577554483276,
+    "lng": 19.263674044909248
+  },
+  {
+    "id": 15524,
+    "name": "Korsze",
+    "type": "city",
+    "commune": "Korsze",
+    "district": "kętrzyński",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.169652499518065,
+    "lng": 21.13906505206362
+  },
+  {
+    "id": 17983,
+    "name": "Kętrzyn",
+    "type": "city",
+    "commune": "Kętrzyn",
+    "district": "kętrzyński",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.0771901973715,
+    "lng": 21.3748332293306
+  },
+  {
+    "id": 18644,
+    "name": "Lidzbark",
+    "type": "city",
+    "commune": "Lidzbark",
+    "district": "działdowski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.2613337044962,
+    "lng": 19.8222211591426
+  },
+  {
+    "id": 18645,
+    "name": "Lidzbark Warmiński",
+    "type": "city",
+    "commune": "Lidzbark Warmiński",
+    "district": "lidzbarski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.1258780739073,
+    "lng": 20.582927073928
+  },
+  {
+    "id": 19142,
+    "name": "Lubawa",
+    "type": "city",
+    "commune": "Lubawa",
+    "district": "iławski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.50271018079643,
+    "lng": 19.749777008076716
+  },
+  {
+    "id": 20967,
+    "name": "Mikołajki",
+    "type": "city",
+    "commune": "Mikołajki",
+    "district": "mrągowski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.80078997234175,
+    "lng": 21.575980497139838
+  },
+  {
+    "id": 21263,
+    "name": "Miłakowo",
+    "type": "city",
+    "commune": "Miłakowo",
+    "district": "ostródzki",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.0082711978467,
+    "lng": 20.069480652153153
+  },
+  {
+    "id": 21306,
+    "name": "Miłomłyn",
+    "type": "city",
+    "commune": "Miłomłyn",
+    "district": "ostródzki",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.76434951275139,
+    "lng": 19.838060245627293
+  },
+  {
+    "id": 21671,
+    "name": "Morąg",
+    "type": "city",
+    "commune": "Morąg",
+    "district": "ostródzki",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.915197240858866,
+    "lng": 19.92723386539809
+  },
+  {
+    "id": 21860,
+    "name": "Mrągowo",
+    "type": "city",
+    "commune": "Mrągowo",
+    "district": "mrągowski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.87690640580896,
+    "lng": 21.304019143856518
+  },
+  {
+    "id": 22175,
+    "name": "Młynary",
+    "type": "city",
+    "commune": "Młynary",
+    "district": "elbląski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.1878408946336,
+    "lng": 19.7227720311983
+  },
+  {
+    "id": 22486,
+    "name": "Nidzica",
+    "type": "city",
+    "commune": "Nidzica",
+    "district": "nidzicki",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.36157629623878,
+    "lng": 20.426015066717913
+  },
+  {
+    "id": 23428,
+    "name": "Nowe Miasto Lubawskie",
+    "type": "city",
+    "commune": "Nowe Miasto Lubawskie",
+    "district": "nowomiejski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.4239518136021,
+    "lng": 19.5922926752408
+  },
+  {
+    "id": 24325,
+    "name": "Olecko",
+    "type": "city",
+    "commune": "Olecko",
+    "district": "olecki",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.0378955724673,
+    "lng": 22.5026750516698
+  },
+  {
+    "id": 24491,
+    "name": "Olsztyn",
+    "type": "city",
+    "commune": "Olsztyn",
+    "district": "Olsztyn",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.776453573779,
+    "lng": 20.487728020003
+  },
+  {
+    "id": 24492,
+    "name": "Olsztynek",
+    "type": "city",
+    "commune": "Olsztynek",
+    "district": "olsztyński",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.58364341302565,
+    "lng": 20.284906446551542
+  },
+  {
+    "id": 24650,
+    "name": "Orneta",
+    "type": "city",
+    "commune": "Orneta",
+    "district": "lidzbarski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.11638889,
+    "lng": 20.13111111
+  },
+  {
+    "id": 24718,
+    "name": "Orzysz",
+    "type": "city",
+    "commune": "Orzysz",
+    "district": "piski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.809855837761624,
+    "lng": 21.947258983244243
+  },
+  {
+    "id": 25094,
+    "name": "Ostróda",
+    "type": "city",
+    "commune": "Ostróda",
+    "district": "ostródzki",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.69925856791426,
+    "lng": 19.96066087105309
+  },
+  {
+    "id": 25647,
+    "name": "Pasym",
+    "type": "city",
+    "commune": "Pasym",
+    "district": "szczycieński",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.65015151760419,
+    "lng": 20.79148144590437
+  },
+  {
+    "id": 25664,
+    "name": "Pasłęk",
+    "type": "city",
+    "commune": "Pasłęk",
+    "district": "elbląski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.0653346674655,
+    "lng": 19.6587494810343
+  },
+  {
+    "id": 26086,
+    "name": "Pieniężno",
+    "type": "city",
+    "commune": "Pieniężno",
+    "district": "braniewski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.238803825726,
+    "lng": 20.1247077862305
+  },
+  {
+    "id": 26428,
+    "name": "Pisz",
+    "type": "city",
+    "commune": "Pisz",
+    "district": "piski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.62995374181,
+    "lng": 21.8059864339535
+  },
+  {
+    "id": 29483,
+    "name": "Reszel",
+    "type": "city",
+    "commune": "Reszel",
+    "district": "kętrzyński",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.0504256939622,
+    "lng": 21.1453917663891
+  },
+  {
+    "id": 30063,
+    "name": "Ruciane-Nida",
+    "type": "city",
+    "commune": "Ruciane-Nida",
+    "district": "piski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.6417619728915,
+    "lng": 21.5371387850037
+  },
+  {
+    "id": 30631,
+    "name": "Ryn",
+    "type": "city",
+    "commune": "Ryn",
+    "district": "giżycki",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.9387505624739,
+    "lng": 21.5465551687706
+  },
+  {
+    "id": 34645,
+    "name": "Susz",
+    "type": "city",
+    "commune": "Susz",
+    "district": "iławski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.71886203856212,
+    "lng": 19.336511960839143
+  },
+  {
+    "id": 35079,
+    "name": "Szczytno",
+    "type": "city",
+    "commune": "Szczytno",
+    "district": "szczycieński",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.56350632920257,
+    "lng": 20.9949874004771
+  },
+  {
+    "id": 35572,
+    "name": "Sępopol",
+    "type": "city",
+    "commune": "Sępopol",
+    "district": "bartoszycki",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.2680783219666,
+    "lng": 21.0149292587287
+  },
+  {
+    "id": 36205,
+    "name": "Tolkmicko",
+    "type": "city",
+    "commune": "Tolkmicko",
+    "district": "elbląski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.3202239009187,
+    "lng": 19.5271525004693
+  },
+  {
+    "id": 37839,
+    "name": "Wielbark",
+    "type": "city",
+    "commune": "Wielbark",
+    "district": "szczycieński",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.398165937160044,
+    "lng": 20.945832121374035
+  },
+  {
+    "id": 40519,
+    "name": "Węgorzewo",
+    "type": "city",
+    "commune": "Węgorzewo",
+    "district": "węgorzewski",
+    "province": "warmińsko-mazurskie",
+    "lat": 54.2141787556033,
+    "lng": 21.7409104167627
+  },
+  {
+    "id": 41324,
+    "name": "Zalewo",
+    "type": "city",
+    "commune": "Zalewo",
+    "district": "iławski",
+    "province": "warmińsko-mazurskie",
+    "lat": 53.84617868001608,
+    "lng": 19.605621569112518
+  }
+]

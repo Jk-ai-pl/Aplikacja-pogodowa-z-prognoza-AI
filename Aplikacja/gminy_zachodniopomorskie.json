@@ -1,0 +1,662 @@
+[
+  {
+    "id": 736,
+    "name": "Barlinek",
+    "type": "city",
+    "commune": "Barlinek",
+    "district": "myśliborski",
+    "province": "zachodniopomorskie",
+    "lat": 52.9972518139766,
+    "lng": 15.2194514523627
+  },
+  {
+    "id": 808,
+    "name": "Barwice",
+    "type": "city",
+    "commune": "Barwice",
+    "district": "szczecinecki",
+    "province": "zachodniopomorskie",
+    "lat": 53.74478316417474,
+    "lng": 16.355529136093146
+  },
+  {
+    "id": 1172,
+    "name": "Białogard",
+    "type": "city",
+    "commune": "Białogard",
+    "district": "białogardzki",
+    "province": "zachodniopomorskie",
+    "lat": 54.00793267632755,
+    "lng": 15.985874115873761
+  },
+  {
+    "id": 1217,
+    "name": "Biały Bór",
+    "type": "city",
+    "commune": "Biały Bór",
+    "district": "szczecinecki",
+    "province": "zachodniopomorskie",
+    "lat": 53.89640988788256,
+    "lng": 16.835242541924217
+  },
+  {
+    "id": 1674,
+    "name": "Bobolice",
+    "type": "city",
+    "commune": "Bobolice",
+    "district": "koszaliński",
+    "province": "zachodniopomorskie",
+    "lat": 53.9555586337723,
+    "lng": 16.5894741702685
+  },
+  {
+    "id": 2223,
+    "name": "Borne Sulinowo",
+    "type": "city",
+    "commune": "Borne Sulinowo",
+    "district": "szczecinecki",
+    "province": "zachodniopomorskie",
+    "lat": 53.58373098526024,
+    "lng": 16.54134809270458
+  },
+  {
+    "id": 4095,
+    "name": "Cedynia",
+    "type": "city",
+    "commune": "Cedynia",
+    "district": "gryfiński",
+    "province": "zachodniopomorskie",
+    "lat": 52.8782629117991,
+    "lng": 14.2033018189809
+  },
+  {
+    "id": 4461,
+    "name": "Chociwel",
+    "type": "city",
+    "commune": "Chociwel",
+    "district": "stargardzki",
+    "province": "zachodniopomorskie",
+    "lat": 53.466884830066306,
+    "lng": 15.33347868383301
+  },
+  {
+    "id": 4523,
+    "name": "Chojna",
+    "type": "city",
+    "commune": "Chojna",
+    "district": "gryfiński",
+    "province": "zachodniopomorskie",
+    "lat": 52.963594792253275,
+    "lng": 14.427353387590196
+  },
+  {
+    "id": 4639,
+    "name": "Choszczno",
+    "type": "city",
+    "commune": "Choszczno",
+    "district": "choszczeński",
+    "province": "zachodniopomorskie",
+    "lat": 53.1673931804367,
+    "lng": 15.419589684789
+  },
+  {
+    "id": 5436,
+    "name": "Czaplinek",
+    "type": "city",
+    "commune": "Czaplinek",
+    "district": "drawski",
+    "province": "zachodniopomorskie",
+    "lat": 53.558540927043474,
+    "lng": 16.23327403165767
+  },
+  {
+    "id": 5980,
+    "name": "Człopa",
+    "type": "city",
+    "commune": "Człopa",
+    "district": "wałecki",
+    "province": "zachodniopomorskie",
+    "lat": 53.08849262172175,
+    "lng": 16.120916306014333
+  },
+  {
+    "id": 6104,
+    "name": "Darłowo",
+    "type": "city",
+    "commune": "Darłowo",
+    "district": "sławieński",
+    "province": "zachodniopomorskie",
+    "lat": 54.42096858794253,
+    "lng": 16.41051765263714
+  },
+  {
+    "id": 6244,
+    "name": "Dobra",
+    "type": "city",
+    "commune": "Dobra",
+    "district": "łobeski",
+    "province": "zachodniopomorskie",
+    "lat": 53.586185124041,
+    "lng": 15.3072895382911
+  },
+  {
+    "id": 6357,
+    "name": "Dobrzany",
+    "type": "city",
+    "commune": "Dobrzany",
+    "district": "stargardzki",
+    "province": "zachodniopomorskie",
+    "lat": 53.35744951005036,
+    "lng": 15.4294243310456
+  },
+  {
+    "id": 6588,
+    "name": "Drawno",
+    "type": "city",
+    "commune": "Drawno",
+    "district": "choszczeński",
+    "province": "zachodniopomorskie",
+    "lat": 53.2184735034578,
+    "lng": 15.7561880440276
+  },
+  {
+    "id": 6591,
+    "name": "Drawsko Pomorskie",
+    "type": "city",
+    "commune": "Drawsko Pomorskie",
+    "district": "drawski",
+    "province": "zachodniopomorskie",
+    "lat": 53.53088320698426,
+    "lng": 15.810241619184382
+  },
+  {
+    "id": 7225,
+    "name": "Dziwnów",
+    "type": "city",
+    "commune": "Dziwnów",
+    "district": "kamieński",
+    "province": "zachodniopomorskie",
+    "lat": 54.02478272906139,
+    "lng": 14.753300846442162
+  },
+  {
+    "id": 7767,
+    "name": "Dębno",
+    "type": "city",
+    "commune": "Dębno",
+    "district": "myśliborski",
+    "province": "zachodniopomorskie",
+    "lat": 52.7355698825749,
+    "lng": 14.7022168932485
+  },
+  {
+    "id": 9027,
+    "name": "Golczewo",
+    "type": "city",
+    "commune": "Golczewo",
+    "district": "kamieński",
+    "province": "zachodniopomorskie",
+    "lat": 53.82419109258229,
+    "lng": 14.978486677463893
+  },
+  {
+    "id": 9041,
+    "name": "Goleniów",
+    "type": "city",
+    "commune": "Goleniów",
+    "district": "goleniowski",
+    "province": "zachodniopomorskie",
+    "lat": 53.5631547875587,
+    "lng": 14.829622599978
+  },
+  {
+    "id": 9460,
+    "name": "Gościno",
+    "type": "city",
+    "commune": "Gościno",
+    "district": "kołobrzeski",
+    "province": "zachodniopomorskie",
+    "lat": 54.0513639825332,
+    "lng": 15.6526421461868
+  },
+  {
+    "id": 10022,
+    "name": "Gryfice",
+    "type": "city",
+    "commune": "Gryfice",
+    "district": "gryficki",
+    "province": "zachodniopomorskie",
+    "lat": 53.91511505591178,
+    "lng": 15.198139543832502
+  },
+  {
+    "id": 10023,
+    "name": "Gryfino",
+    "type": "city",
+    "commune": "Gryfino",
+    "district": "gryfiński",
+    "province": "zachodniopomorskie",
+    "lat": 53.25666667,
+    "lng": 14.48944444
+  },
+  {
+    "id": 11558,
+    "name": "Ińsko",
+    "type": "city",
+    "commune": "Ińsko",
+    "district": "stargardzki",
+    "province": "zachodniopomorskie",
+    "lat": 53.43605508207317,
+    "lng": 15.550410295242095
+  },
+  {
+    "id": 13381,
+    "name": "Kalisz Pomorski",
+    "type": "city",
+    "commune": "Kalisz Pomorski",
+    "district": "drawski",
+    "province": "zachodniopomorskie",
+    "lat": 53.29859603904,
+    "lng": 15.90590634661375
+  },
+  {
+    "id": 13523,
+    "name": "Kamień Pomorski",
+    "type": "city",
+    "commune": "Kamień Pomorski",
+    "district": "kamieński",
+    "province": "zachodniopomorskie",
+    "lat": 53.96844034751667,
+    "lng": 14.772701856581952
+  },
+  {
+    "id": 13764,
+    "name": "Karlino",
+    "type": "city",
+    "commune": "Karlino",
+    "district": "białogardzki",
+    "province": "zachodniopomorskie",
+    "lat": 54.037541383953304,
+    "lng": 15.880027215498759
+  },
+  {
+    "id": 15738,
+    "name": "Koszalin",
+    "type": "city",
+    "commune": "Koszalin",
+    "district": "Koszalin",
+    "province": "zachodniopomorskie",
+    "lat": 54.1902337226458,
+    "lng": 16.1818996076445
+  },
+  {
+    "id": 16179,
+    "name": "Kołobrzeg",
+    "type": "city",
+    "commune": "Kołobrzeg",
+    "district": "kołobrzeski",
+    "province": "zachodniopomorskie",
+    "lat": 54.1798272335931,
+    "lng": 15.5723349445275
+  },
+  {
+    "id": 18756,
+    "name": "Lipiany",
+    "type": "city",
+    "commune": "Lipiany",
+    "district": "pyrzycki",
+    "province": "zachodniopomorskie",
+    "lat": 53.002909977445,
+    "lng": 14.970895554623
+  },
+  {
+    "id": 20244,
+    "name": "Maszewo",
+    "type": "city",
+    "commune": "Maszewo",
+    "district": "goleniowski",
+    "province": "zachodniopomorskie",
+    "lat": 53.496325695000564,
+    "lng": 15.061395923479939
+  },
+  {
+    "id": 20828,
+    "name": "Mielno",
+    "type": "city",
+    "commune": "Mielno",
+    "district": "koszaliński",
+    "province": "zachodniopomorskie",
+    "lat": 54.2560085078215,
+    "lng": 16.0521357691639
+  },
+  {
+    "id": 20911,
+    "name": "Mieszkowice",
+    "type": "city",
+    "commune": "Mieszkowice",
+    "district": "gryfiński",
+    "province": "zachodniopomorskie",
+    "lat": 52.7867788621365,
+    "lng": 14.4933276816656
+  },
+  {
+    "id": 21136,
+    "name": "Mirosławiec",
+    "type": "city",
+    "commune": "Mirosławiec",
+    "district": "wałecki",
+    "province": "zachodniopomorskie",
+    "lat": 53.34254403518512,
+    "lng": 16.08655792481776
+  },
+  {
+    "id": 21236,
+    "name": "Międzyzdroje",
+    "type": "city",
+    "commune": "Międzyzdroje",
+    "district": "kamieński",
+    "province": "zachodniopomorskie",
+    "lat": 53.928287241923975,
+    "lng": 14.450506684178814
+  },
+  {
+    "id": 21650,
+    "name": "Moryń",
+    "type": "city",
+    "commune": "Moryń",
+    "district": "gryfiński",
+    "province": "zachodniopomorskie",
+    "lat": 52.8576326755823,
+    "lng": 14.398524356219
+  },
+  {
+    "id": 22023,
+    "name": "Myślibórz",
+    "type": "city",
+    "commune": "Myślibórz",
+    "district": "myśliborski",
+    "province": "zachodniopomorskie",
+    "lat": 52.92374110640667,
+    "lng": 14.86793867598248
+  },
+  {
+    "id": 23523,
+    "name": "Nowe Warpno",
+    "type": "city",
+    "commune": "Nowe Warpno",
+    "district": "policki",
+    "province": "zachodniopomorskie",
+    "lat": 53.7227358694048,
+    "lng": 14.2880829430932
+  },
+  {
+    "id": 23633,
+    "name": "Nowogard",
+    "type": "city",
+    "commune": "Nowogard",
+    "district": "goleniowski",
+    "province": "zachodniopomorskie",
+    "lat": 53.668224319409,
+    "lng": 15.1244021674619
+  },
+  {
+    "id": 25871,
+    "name": "Pełczyce",
+    "type": "city",
+    "commune": "Pełczyce",
+    "district": "choszczeński",
+    "province": "zachodniopomorskie",
+    "lat": 53.0438576923194,
+    "lng": 15.3040643542812
+  },
+  {
+    "id": 27146,
+    "name": "Polanów",
+    "type": "city",
+    "commune": "Polanów",
+    "district": "koszaliński",
+    "province": "zachodniopomorskie",
+    "lat": 54.1185648411982,
+    "lng": 16.6842535317121
+  },
+  {
+    "id": 27170,
+    "name": "Police",
+    "type": "city",
+    "commune": "Police",
+    "district": "policki",
+    "province": "zachodniopomorskie",
+    "lat": 53.55242193706,
+    "lng": 14.5720663717688
+  },
+  {
+    "id": 27670,
+    "name": "Połczyn-Zdrój",
+    "type": "city",
+    "commune": "Połczyn-Zdrój",
+    "district": "świdwiński",
+    "province": "zachodniopomorskie",
+    "lat": 53.766708532902655,
+    "lng": 16.096902953442086
+  },
+  {
+    "id": 28588,
+    "name": "Pyrzyce",
+    "type": "city",
+    "commune": "Pyrzyce",
+    "district": "pyrzycki",
+    "province": "zachodniopomorskie",
+    "lat": 53.1458488622256,
+    "lng": 14.8924715807455
+  },
+  {
+    "id": 28810,
+    "name": "Płoty",
+    "type": "city",
+    "commune": "Płoty",
+    "district": "gryficki",
+    "province": "zachodniopomorskie",
+    "lat": 53.80315943941462,
+    "lng": 15.2672761859936
+  },
+  {
+    "id": 29372,
+    "name": "Recz",
+    "type": "city",
+    "commune": "Recz",
+    "district": "choszczeński",
+    "province": "zachodniopomorskie",
+    "lat": 53.2598014438484,
+    "lng": 15.5464920434292
+  },
+  {
+    "id": 29479,
+    "name": "Resko",
+    "type": "city",
+    "commune": "Resko",
+    "district": "łobeski",
+    "province": "zachodniopomorskie",
+    "lat": 53.77301941347005,
+    "lng": 15.406105999805797
+  },
+  {
+    "id": 31390,
+    "name": "Sianów",
+    "type": "city",
+    "commune": "Sianów",
+    "district": "koszaliński",
+    "province": "zachodniopomorskie",
+    "lat": 54.2254267235721,
+    "lng": 16.2968275766557
+  },
+  {
+    "id": 33403,
+    "name": "Stargard",
+    "type": "city",
+    "commune": "Stargard",
+    "district": "stargardzki",
+    "province": "zachodniopomorskie",
+    "lat": 53.339751943682536,
+    "lng": 15.037629126444482
+  },
+  {
+    "id": 33816,
+    "name": "Stepnica",
+    "type": "city",
+    "commune": "Stepnica",
+    "district": "goleniowski",
+    "province": "zachodniopomorskie",
+    "lat": 53.6522796339518,
+    "lng": 14.6283479593226
+  },
+  {
+    "id": 34416,
+    "name": "Suchań",
+    "type": "city",
+    "commune": "Suchań",
+    "district": "stargardzki",
+    "province": "zachodniopomorskie",
+    "lat": 53.27961384111727,
+    "lng": 15.319096933341282
+  },
+  {
+    "id": 34916,
+    "name": "Szczecin",
+    "type": "city",
+    "commune": "Szczecin",
+    "district": "Szczecin",
+    "province": "zachodniopomorskie",
+    "lat": 53.425109843105,
+    "lng": 14.550810973941
+  },
+  {
+    "id": 34918,
+    "name": "Szczecinek",
+    "type": "city",
+    "commune": "Szczecinek",
+    "district": "szczecinecki",
+    "province": "zachodniopomorskie",
+    "lat": 53.70546713315242,
+    "lng": 16.699014890056628
+  },
+  {
+    "id": 35627,
+    "name": "Sławno",
+    "type": "city",
+    "commune": "Sławno",
+    "district": "sławieński",
+    "province": "zachodniopomorskie",
+    "lat": 54.35866318260869,
+    "lng": 16.67791247272823
+  },
+  {
+    "id": 36535,
+    "name": "Trzcińsko-Zdrój",
+    "type": "city",
+    "commune": "Trzcińsko-Zdrój",
+    "district": "gryfiński",
+    "province": "zachodniopomorskie",
+    "lat": 52.9666181235018,
+    "lng": 14.6064521491632
+  },
+  {
+    "id": 36548,
+    "name": "Trzebiatów",
+    "type": "city",
+    "commune": "Trzebiatów",
+    "district": "gryficki",
+    "province": "zachodniopomorskie",
+    "lat": 54.06296958629406,
+    "lng": 15.265823411074217
+  },
+  {
+    "id": 36747,
+    "name": "Tuczno",
+    "type": "city",
+    "commune": "Tuczno",
+    "district": "wałecki",
+    "province": "zachodniopomorskie",
+    "lat": 53.19381463095955,
+    "lng": 16.153771611967706
+  },
+  {
+    "id": 36974,
+    "name": "Tychowo",
+    "type": "city",
+    "commune": "Tychowo",
+    "district": "białogardzki",
+    "province": "zachodniopomorskie",
+    "lat": 53.92860960026503,
+    "lng": 16.25845265128527
+  },
+  {
+    "id": 37638,
+    "name": "Wałcz",
+    "type": "city",
+    "commune": "Wałcz",
+    "district": "wałecki",
+    "province": "zachodniopomorskie",
+    "lat": 53.27692783749119,
+    "lng": 16.463620316688257
+  },
+  {
+    "id": 39382,
+    "name": "Wolin",
+    "type": "city",
+    "commune": "Wolin",
+    "district": "kamieński",
+    "province": "zachodniopomorskie",
+    "lat": 53.84206426322954,
+    "lng": 14.611548438777978
+  },
+  {
+    "id": 40524,
+    "name": "Węgorzyno",
+    "type": "city",
+    "commune": "Węgorzyno",
+    "district": "łobeski",
+    "province": "zachodniopomorskie",
+    "lat": 53.5409506064071,
+    "lng": 15.5594387583562
+  },
+  {
+    "id": 42477,
+    "name": "Złocieniec",
+    "type": "city",
+    "commune": "Złocieniec",
+    "district": "drawski",
+    "province": "zachodniopomorskie",
+    "lat": 53.53258232560273,
+    "lng": 16.01052680740882
+  },
+  {
+    "id": 42876,
+    "name": "Łobez",
+    "type": "city",
+    "commune": "Łobez",
+    "district": "łobeski",
+    "province": "zachodniopomorskie",
+    "lat": 53.639199356145426,
+    "lng": 15.621286865952216
+  },
+  {
+    "id": 43788,
+    "name": "Świdwin",
+    "type": "city",
+    "commune": "Świdwin",
+    "district": "świdwiński",
+    "province": "zachodniopomorskie",
+    "lat": 53.77472917786312,
+    "lng": 15.776870758787126
+  },
+  {
+    "id": 43943,
+    "name": "Świnoujście",
+    "type": "city",
+    "commune": "Świnoujście",
+    "district": "Świnoujście",
+    "province": "zachodniopomorskie",
+    "lat": 53.90777778,
+    "lng": 14.2475
+  }
+]

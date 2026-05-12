@@ -1,0 +1,572 @@
+[
+  {
+    "id": 283,
+    "name": "Annopol",
+    "type": "city",
+    "commune": "Annopol",
+    "district": "kraśnicki",
+    "province": "lubelskie",
+    "lat": 50.88537922590313,
+    "lng": 21.856880463545092
+  },
+  {
+    "id": 1018,
+    "name": "Bełżyce",
+    "type": "city",
+    "commune": "Bełżyce",
+    "district": "lubelski",
+    "province": "lubelskie",
+    "lat": 51.174581645763816,
+    "lng": 22.281859110425298
+  },
+  {
+    "id": 1068,
+    "name": "Biała Podlaska",
+    "type": "city",
+    "commune": "Biała Podlaska",
+    "district": "Biała Podlaska",
+    "province": "lubelskie",
+    "lat": 52.03242276216771,
+    "lng": 23.116484437641603
+  },
+  {
+    "id": 1619,
+    "name": "Biłgoraj",
+    "type": "city",
+    "commune": "Biłgoraj",
+    "district": "biłgorajski",
+    "province": "lubelskie",
+    "lat": 50.53546289928044,
+    "lng": 22.72031204397431
+  },
+  {
+    "id": 3730,
+    "name": "Bychawa",
+    "type": "city",
+    "commune": "Bychawa",
+    "district": "lubelski",
+    "province": "lubelskie",
+    "lat": 51.014870370034345,
+    "lng": 22.535131740295174
+  },
+  {
+    "id": 4281,
+    "name": "Chełm",
+    "type": "city",
+    "commune": "Chełm",
+    "district": "Chełm",
+    "province": "lubelskie",
+    "lat": 51.13359940766411,
+    "lng": 23.470163513740218
+  },
+  {
+    "id": 5693,
+    "name": "Czemierniki",
+    "type": "city",
+    "commune": "Czemierniki",
+    "district": "radzyński",
+    "province": "lubelskie",
+    "lat": 51.67478618373018,
+    "lng": 22.63759930027406
+  },
+  {
+    "id": 7733,
+    "name": "Dęblin",
+    "type": "city",
+    "commune": "Dęblin",
+    "district": "rycki",
+    "province": "lubelskie",
+    "lat": 51.56145763121326,
+    "lng": 21.842786425722373
+  },
+  {
+    "id": 8243,
+    "name": "Frampol",
+    "type": "city",
+    "commune": "Frampol",
+    "district": "biłgorajski",
+    "province": "lubelskie",
+    "lat": 50.67156021865265,
+    "lng": 22.670673570604105
+  },
+  {
+    "id": 9106,
+    "name": "Goraj",
+    "type": "city",
+    "commune": "Goraj",
+    "district": "biłgorajski",
+    "province": "lubelskie",
+    "lat": 50.721284137965185,
+    "lng": 22.667115362625015
+  },
+  {
+    "id": 11190,
+    "name": "Hrubieszów",
+    "type": "city",
+    "commune": "Hrubieszów",
+    "district": "hrubieszowski",
+    "province": "lubelskie",
+    "lat": 50.8050607763801,
+    "lng": 23.8897539034245
+  },
+  {
+    "id": 11508,
+    "name": "Izbica",
+    "type": "city",
+    "commune": "Izbica",
+    "district": "krasnostawski",
+    "province": "lubelskie",
+    "lat": 50.89318765505115,
+    "lng": 23.158313800389973
+  },
+  {
+    "id": 12120,
+    "name": "Janów Lubelski",
+    "type": "city",
+    "commune": "Janów Lubelski",
+    "district": "janowski",
+    "province": "lubelskie",
+    "lat": 50.70669986458072,
+    "lng": 22.4107461017751
+  },
+  {
+    "id": 13074,
+    "name": "Józefów",
+    "type": "city",
+    "commune": "Józefów",
+    "district": "biłgorajski",
+    "province": "lubelskie",
+    "lat": 50.48081812878849,
+    "lng": 23.055113366826156
+  },
+  {
+    "id": 13124,
+    "name": "Józefów nad Wisłą",
+    "type": "city",
+    "commune": "Józefów nad Wisłą",
+    "district": "opolski",
+    "province": "lubelskie",
+    "lat": 51.04117913783189,
+    "lng": 21.830365610614916
+  },
+  {
+    "id": 13581,
+    "name": "Kamionka",
+    "type": "city",
+    "commune": "Kamionka",
+    "district": "lubartowski",
+    "province": "lubelskie",
+    "lat": 51.470781814148,
+    "lng": 22.462379463371
+  },
+  {
+    "id": 14077,
+    "name": "Kazimierz Dolny",
+    "type": "city",
+    "commune": "Kazimierz Dolny",
+    "district": "puławski",
+    "province": "lubelskie",
+    "lat": 51.3220978705558,
+    "lng": 21.9474057597877
+  },
+  {
+    "id": 14849,
+    "name": "Kock",
+    "type": "city",
+    "commune": "Kock",
+    "district": "lubartowski",
+    "province": "lubelskie",
+    "lat": 51.63993927055005,
+    "lng": 22.44410052276981
+  },
+  {
+    "id": 16228,
+    "name": "Końskowola",
+    "type": "city",
+    "commune": "Końskowola",
+    "district": "puławski",
+    "province": "lubelskie",
+    "lat": 51.409082059454,
+    "lng": 22.051733901892
+  },
+  {
+    "id": 16442,
+    "name": "Krasnobród",
+    "type": "city",
+    "commune": "Krasnobród",
+    "district": "zamojski",
+    "province": "lubelskie",
+    "lat": 50.54596187678964,
+    "lng": 23.211755802318248
+  },
+  {
+    "id": 16459,
+    "name": "Krasnystaw",
+    "type": "city",
+    "commune": "Krasnystaw",
+    "district": "krasnostawski",
+    "province": "lubelskie",
+    "lat": 50.98447695294417,
+    "lng": 23.173262108454967
+  },
+  {
+    "id": 16512,
+    "name": "Kraśnik",
+    "type": "city",
+    "commune": "Kraśnik",
+    "district": "kraśnicki",
+    "province": "lubelskie",
+    "lat": 50.92312559607521,
+    "lng": 22.226706502114297
+  },
+  {
+    "id": 17610,
+    "name": "Kurów",
+    "type": "city",
+    "commune": "Kurów",
+    "district": "puławski",
+    "province": "lubelskie",
+    "lat": 51.38955977566979,
+    "lng": 22.18493669553607
+  },
+  {
+    "id": 19132,
+    "name": "Lubartów",
+    "type": "city",
+    "commune": "Lubartów",
+    "district": "lubartowski",
+    "province": "lubelskie",
+    "lat": 51.46233066625189,
+    "lng": 22.608790996496108
+  },
+  {
+    "id": 19266,
+    "name": "Lublin",
+    "type": "city",
+    "commune": "Lublin",
+    "district": "Lublin",
+    "province": "lubelskie",
+    "lat": 51.251121759690506,
+    "lng": 22.575131343974974
+  },
+  {
+    "id": 19375,
+    "name": "Lubycza Królewska",
+    "type": "city",
+    "commune": "Lubycza Królewska",
+    "district": "tomaszowski",
+    "province": "lubelskie",
+    "lat": 50.3405956476885,
+    "lng": 23.5206855604072
+  },
+  {
+    "id": 21227,
+    "name": "Międzyrzec Podlaski",
+    "type": "city",
+    "commune": "Międzyrzec Podlaski",
+    "district": "bialski",
+    "province": "lubelskie",
+    "lat": 51.983909608282026,
+    "lng": 22.783038234196816
+  },
+  {
+    "id": 21425,
+    "name": "Modliborzyce",
+    "type": "city",
+    "commune": "Modliborzyce",
+    "district": "janowski",
+    "province": "lubelskie",
+    "lat": 50.75408820224955,
+    "lng": 22.32941350253006
+  },
+  {
+    "id": 22452,
+    "name": "Nałęczów",
+    "type": "city",
+    "commune": "Nałęczów",
+    "district": "puławski",
+    "province": "lubelskie",
+    "lat": 51.287730533658994,
+    "lng": 22.214879669596556
+  },
+  {
+    "id": 24598,
+    "name": "Opole Lubelskie",
+    "type": "city",
+    "commune": "Opole Lubelskie",
+    "district": "opolski",
+    "province": "lubelskie",
+    "lat": 51.14737195328839,
+    "lng": 21.969142500091245
+  },
+  {
+    "id": 25133,
+    "name": "Ostrów Lubelski",
+    "type": "city",
+    "commune": "Ostrów Lubelski",
+    "district": "lubartowski",
+    "province": "lubelskie",
+    "lat": 51.49737120579166,
+    "lng": 22.854986180818624
+  },
+  {
+    "id": 25533,
+    "name": "Parczew",
+    "type": "city",
+    "commune": "Parczew",
+    "district": "parczewski",
+    "province": "lubelskie",
+    "lat": 51.64057780981517,
+    "lng": 22.89972219965454
+  },
+  {
+    "id": 25934,
+    "name": "Piaski",
+    "type": "city",
+    "commune": "Piaski",
+    "district": "świdnicki",
+    "province": "lubelskie",
+    "lat": 51.138805544981366,
+    "lng": 22.848528780248696
+  },
+  {
+    "id": 26429,
+    "name": "Piszczac",
+    "type": "city",
+    "commune": "Piszczac",
+    "district": "bialski",
+    "province": "lubelskie",
+    "lat": 51.981000138485,
+    "lng": 23.376006868836715
+  },
+  {
+    "id": 27298,
+    "name": "Poniatowa",
+    "type": "city",
+    "commune": "Poniatowa",
+    "district": "opolski",
+    "province": "lubelskie",
+    "lat": 51.19289031287162,
+    "lng": 22.064679195366317
+  },
+  {
+    "id": 28574,
+    "name": "Puławy",
+    "type": "city",
+    "commune": "Puławy",
+    "district": "puławski",
+    "province": "lubelskie",
+    "lat": 51.416458483304,
+    "lng": 21.969226588799
+  },
+  {
+    "id": 29166,
+    "name": "Radzyń Podlaski",
+    "type": "city",
+    "commune": "Radzyń Podlaski",
+    "district": "radzyński",
+    "province": "lubelskie",
+    "lat": 51.78289822849424,
+    "lng": 22.621418690191142
+  },
+  {
+    "id": 29430,
+    "name": "Rejowiec",
+    "type": "city",
+    "commune": "Rejowiec",
+    "district": "chełmski",
+    "province": "lubelskie",
+    "lat": 51.09459755104659,
+    "lng": 23.283519730332564
+  },
+  {
+    "id": 29432,
+    "name": "Rejowiec Fabryczny",
+    "type": "city",
+    "commune": "Rejowiec Fabryczny",
+    "district": "chełmski",
+    "province": "lubelskie",
+    "lat": 51.11875908467073,
+    "lng": 23.24667331638244
+  },
+  {
+    "id": 30615,
+    "name": "Ryki",
+    "type": "city",
+    "commune": "Ryki",
+    "district": "rycki",
+    "province": "lubelskie",
+    "lat": 51.62566006729042,
+    "lng": 21.932528581659938
+  },
+  {
+    "id": 31516,
+    "name": "Siedliszcze",
+    "type": "city",
+    "commune": "Siedliszcze",
+    "district": "chełmski",
+    "province": "lubelskie",
+    "lat": 51.194582802472766,
+    "lng": 23.16400747458223
+  },
+  {
+    "id": 33856,
+    "name": "Stoczek Łukowski",
+    "type": "city",
+    "commune": "Stoczek Łukowski",
+    "district": "łukowski",
+    "province": "lubelskie",
+    "lat": 51.961649295723255,
+    "lng": 21.968741036840782
+  },
+  {
+    "id": 34910,
+    "name": "Szczebrzeszyn",
+    "type": "city",
+    "commune": "Szczebrzeszyn",
+    "district": "zamojski",
+    "province": "lubelskie",
+    "lat": 50.69485372111276,
+    "lng": 22.97952454383655
+  },
+  {
+    "id": 35966,
+    "name": "Tarnogród",
+    "type": "city",
+    "commune": "Tarnogród",
+    "district": "biłgorajski",
+    "province": "lubelskie",
+    "lat": 50.360755459698986,
+    "lng": 22.74191378801503
+  },
+  {
+    "id": 36150,
+    "name": "Terespol",
+    "type": "city",
+    "commune": "Terespol",
+    "district": "bialski",
+    "province": "lubelskie",
+    "lat": 52.07458743796253,
+    "lng": 23.61639560519546
+  },
+  {
+    "id": 36242,
+    "name": "Tomaszów Lubelski",
+    "type": "city",
+    "commune": "Tomaszów Lubelski",
+    "district": "tomaszowski",
+    "province": "lubelskie",
+    "lat": 50.451095019429,
+    "lng": 23.4159131063434
+  },
+  {
+    "id": 36818,
+    "name": "Turobin",
+    "type": "city",
+    "commune": "Turobin",
+    "district": "biłgorajski",
+    "province": "lubelskie",
+    "lat": 50.822277639771094,
+    "lng": 22.74480192865742
+  },
+  {
+    "id": 37048,
+    "name": "Tyszowce",
+    "type": "city",
+    "commune": "Tyszowce",
+    "district": "tomaszowski",
+    "province": "lubelskie",
+    "lat": 50.6171157200075,
+    "lng": 23.7060776615446
+  },
+  {
+    "id": 37311,
+    "name": "Urzędów",
+    "type": "city",
+    "commune": "Urzędów",
+    "district": "kraśnicki",
+    "province": "lubelskie",
+    "lat": 50.99299954754335,
+    "lng": 22.142369354937433
+  },
+  {
+    "id": 40472,
+    "name": "Wąwolnica",
+    "type": "city",
+    "commune": "Wąwolnica",
+    "district": "puławski",
+    "province": "lubelskie",
+    "lat": 51.29440628654854,
+    "lng": 22.147104246712797
+  },
+  {
+    "id": 40634,
+    "name": "Włodawa",
+    "type": "city",
+    "commune": "Włodawa",
+    "district": "włodawski",
+    "province": "lubelskie",
+    "lat": 51.5443741396992,
+    "lng": 23.5539926180135
+  },
+  {
+    "id": 41384,
+    "name": "Zamość",
+    "type": "city",
+    "commune": "Zamość",
+    "district": "Zamość",
+    "province": "lubelskie",
+    "lat": 50.723187739317346,
+    "lng": 23.252001096732663
+  },
+  {
+    "id": 42390,
+    "name": "Zwierzyniec",
+    "type": "city",
+    "commune": "Zwierzyniec",
+    "district": "zamojski",
+    "province": "lubelskie",
+    "lat": 50.61407378671096,
+    "lng": 22.97416508468867
+  },
+  {
+    "id": 42720,
+    "name": "Łaszczów",
+    "type": "city",
+    "commune": "Łaszczów",
+    "district": "tomaszowski",
+    "province": "lubelskie",
+    "lat": 50.53178372184,
+    "lng": 23.7156955222947
+  },
+  {
+    "id": 43212,
+    "name": "Łuków",
+    "type": "city",
+    "commune": "Łuków",
+    "district": "łukowski",
+    "province": "lubelskie",
+    "lat": 51.92822830760488,
+    "lng": 22.380209933090136
+  },
+  {
+    "id": 43423,
+    "name": "Łęczna",
+    "type": "city",
+    "commune": "Łęczna",
+    "district": "łęczyński",
+    "province": "lubelskie",
+    "lat": 51.30025677740161,
+    "lng": 22.887221981725478
+  },
+  {
+    "id": 43762,
+    "name": "Świdnik",
+    "type": "city",
+    "commune": "Świdnik",
+    "district": "świdnicki",
+    "province": "lubelskie",
+    "lat": 51.21585266968747,
+    "lng": 22.698684946168516
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1417,
+    "name": "Bielsko-Biała",
+    "type": "city",
+    "commune": "Bielsko-Biała",
+    "district": "Bielsko-Biała",
+    "province": "śląskie",
+    "lat": 49.822245231839,
+    "lng": 19.045058240546
+  },
+  {
+    "id": 1463,
+    "name": "Bieruń",
+    "type": "city",
+    "commune": "Bieruń",
+    "district": "bieruńsko-lędziński",
+    "province": "śląskie",
+    "lat": 50.0917131996847,
+    "lng": 19.0911304366414
+  },
+  {
+    "id": 1621,
+    "name": "Blachownia",
+    "type": "city",
+    "commune": "Blachownia",
+    "district": "częstochowski",
+    "province": "śląskie",
+    "lat": 50.7841680019218,
+    "lng": 18.9625440280631
+  },
+  {
+    "id": 3828,
+    "name": "Bytom",
+    "type": "city",
+    "commune": "Bytom",
+    "district": "Bytom",
+    "province": "śląskie",
+    "lat": 50.348406529226,
+    "lng": 18.915675550017
+  },
+  {
+    "id": 3965,
+    "name": "Będzin",
+    "type": "city",
+    "commune": "Będzin",
+    "district": "będziński",
+    "province": "śląskie",
+    "lat": 50.324292715873,
+    "lng": 19.1358465656671
+  },
+  {
+    "id": 4620,
+    "name": "Chorzów",
+    "type": "city",
+    "commune": "Chorzów",
+    "district": "Chorzów",
+    "province": "śląskie",
+    "lat": 50.299455469386,
+    "lng": 18.952414875506
+  },
+  {
+    "id": 5164,
+    "name": "Cieszyn",
+    "type": "city",
+    "commune": "Cieszyn",
+    "district": "cieszyński",
+    "province": "śląskie",
+    "lat": 49.74861111,
+    "lng": 18.63388889
+  },
+  {
+    "id": 5648,
+    "name": "Czechowice-Dziedzice",
+    "type": "city",
+    "commune": "Czechowice-Dziedzice",
+    "district": "bielski",
+    "province": "śląskie",
+    "lat": 49.9111808952447,
+    "lng": 19.0071155723242
+  },
+  {
+    "id": 5685,
+    "name": "Czeladź",
+    "type": "city",
+    "commune": "Czeladź",
+    "district": "będziński",
+    "province": "śląskie",
+    "lat": 50.3151941228894,
+    "lng": 19.0716320176486
+  },
+  {
+    "id": 5796,
+    "name": "Czerwionka-Leszczyny",
+    "type": "city",
+    "commune": "Czerwionka-Leszczyny",
+    "district": "rybnicki",
+    "province": "śląskie",
+    "lat": 50.159001940156,
+    "lng": 18.663588545736
+  },
+  {
+    "id": 5972,
+    "name": "Częstochowa",
+    "type": "city",
+    "commune": "Częstochowa",
+    "district": "Częstochowa",
+    "province": "śląskie",
+    "lat": 50.81193174471,
+    "lng": 19.127898744063
+  },
+  {
+    "id": 7423,
+    "name": "Dąbrowa Górnicza",
+    "type": "city",
+    "commune": "Dąbrowa Górnicza",
+    "district": "Dąbrowa Górnicza",
+    "province": "śląskie",
+    "lat": 50.326053934198,
+    "lng": 19.205379370514
+  },
+  {
+    "id": 8821,
+    "name": "Gliwice",
+    "type": "city",
+    "commune": "Gliwice",
+    "district": "Gliwice",
+    "province": "śląskie",
+    "lat": 50.292088704948,
+    "lng": 18.667138485928
+  },
+  {
+    "id": 11428,
+    "name": "Imielin",
+    "type": "city",
+    "commune": "Imielin",
+    "district": "bieruńsko-lędziński",
+    "province": "śląskie",
+    "lat": 50.146226918448,
+    "lng": 19.1857368960845
+  },
+  {
+    "id": 12406,
+    "name": "Jastrzębie-Zdrój",
+    "type": "city",
+    "commune": "Jastrzębie-Zdrój",
+    "district": "Jastrzębie-Zdrój",
+    "province": "śląskie",
+    "lat": 49.951894810561,
+    "lng": 18.60234494941
+  },
+  {
+    "id": 12512,
+    "name": "Jaworzno",
+    "type": "city",
+    "commune": "Jaworzno",
+    "district": "Jaworzno",
+    "province": "śląskie",
+    "lat": 50.203731135634,
+    "lng": 19.270153052092
+  },
+  {
+    "id": 13293,
+    "name": "Kalety",
+    "type": "city",
+    "commune": "Kalety",
+    "district": "tarnogórski",
+    "province": "śląskie",
+    "lat": 50.564303423873,
+    "lng": 18.884161025146
+  },
+  {
+    "id": 14010,
+    "name": "Katowice",
+    "type": "city",
+    "commune": "Katowice",
+    "district": "Katowice",
+    "province": "śląskie",
+    "lat": 50.264373595317,
+    "lng": 19.023555858206
+  },
+  {
+    "id": 14667,
+    "name": "Knurów",
+    "type": "city",
+    "commune": "Knurów",
+    "district": "gliwicki",
+    "province": "śląskie",
+    "lat": 50.2230907318361,
+    "lng": 18.6669356419839
+  },
+  {
+    "id": 15248,
+    "name": "Koniecpol",
+    "type": "city",
+    "commune": "Koniecpol",
+    "district": "częstochowski",
+    "province": "śląskie",
+    "lat": 50.77289615774715,
+    "lng": 19.6770207183458
+  },
+  {
+    "id": 16026,
+    "name": "Koziegłowy",
+    "type": "city",
+    "commune": "Koziegłowy",
+    "district": "myszkowski",
+    "province": "śląskie",
+    "lat": 50.59992205091,
+    "lng": 19.163036746491
+  },
+  {
+    "id": 16812,
+    "name": "Krzanowice",
+    "type": "city",
+    "commune": "Krzanowice",
+    "district": "raciborski",
+    "province": "śląskie",
+    "lat": 50.018178232499,
+    "lng": 18.125370694755
+  },
+  {
+    "id": 16882,
+    "name": "Krzepice",
+    "type": "city",
+    "commune": "Krzepice",
+    "district": "kłobucki",
+    "province": "śląskie",
+    "lat": 50.97083333,
+    "lng": 18.72833333
+  },
+  {
+    "id": 17667,
+    "name": "Kuźnia Raciborska",
+    "type": "city",
+    "commune": "Kuźnia Raciborska",
+    "district": "raciborski",
+    "province": "śląskie",
+    "lat": 50.200000237459,
+    "lng": 18.311849876718
+  },
+  {
+    "id": 18002,
+    "name": "Kłobuck",
+    "type": "city",
+    "commune": "Kłobuck",
+    "district": "kłobucki",
+    "province": "śląskie",
+    "lat": 50.9052300106839,
+    "lng": 18.9378456425891
+  },
+  {
+    "id": 19267,
+    "name": "Lubliniec",
+    "type": "city",
+    "commune": "Lubliniec",
+    "district": "lubliniecki",
+    "province": "śląskie",
+    "lat": 50.668784851557,
+    "lng": 18.684695760774
+  },
+  {
+    "id": 19564,
+    "name": "Lędziny",
+    "type": "city",
+    "commune": "Lędziny",
+    "district": "bieruńsko-lędziński",
+    "province": "śląskie",
+    "lat": 50.1302547249417,
+    "lng": 19.1084301947027
+  },
+  {
+    "id": 20578,
+    "name": "Miasteczko Śląskie",
+    "type": "city",
+    "commune": "Miasteczko Śląskie",
+    "district": "tarnogórski",
+    "province": "śląskie",
+    "lat": 50.490238151301,
+    "lng": 18.922217052356
+  },
+  {
+    "id": 20986,
+    "name": "Mikołów",
+    "type": "city",
+    "commune": "Mikołów",
+    "district": "mikołowski",
+    "province": "śląskie",
+    "lat": 50.168328664552,
+    "lng": 18.903939902508
+  },
+  {
+    "id": 21990,
+    "name": "Myszków",
+    "type": "city",
+    "commune": "Myszków",
+    "district": "myszkowski",
+    "province": "śląskie",
+    "lat": 50.575422401358,
+    "lng": 19.32597323759
+  },
+  {
+    "id": 22004,
+    "name": "Mysłowice",
+    "type": "city",
+    "commune": "Mysłowice",
+    "district": "Mysłowice",
+    "province": "śląskie",
+    "lat": 50.212082461846,
+    "lng": 19.14764933598
+  },
+  {
+    "id": 24199,
+    "name": "Ogrodzieniec",
+    "type": "city",
+    "commune": "Ogrodzieniec",
+    "district": "zawierciański",
+    "province": "śląskie",
+    "lat": 50.451740043679,
+    "lng": 19.52165172776
+  },
+  {
+    "id": 24490,
+    "name": "Olsztyn",
+    "type": "city",
+    "commune": "Olsztyn",
+    "district": "częstochowski",
+    "province": "śląskie",
+    "lat": 50.750666926903705,
+    "lng": 19.267842267891222
+  },
+  {
+    "id": 24697,
+    "name": "Orzesze",
+    "type": "city",
+    "commune": "Orzesze",
+    "district": "mikołowski",
+    "province": "śląskie",
+    "lat": 50.108679361486,
+    "lng": 18.792561546627
+  },
+  {
+    "id": 26049,
+    "name": "Piekary Śląskie",
+    "type": "city",
+    "commune": "Piekary Śląskie",
+    "district": "Piekary Śląskie",
+    "province": "śląskie",
+    "lat": 50.377881024957,
+    "lng": 18.94366188703
+  },
+  {
+    "id": 26253,
+    "name": "Pilica",
+    "type": "city",
+    "commune": "Pilica",
+    "district": "zawierciański",
+    "province": "śląskie",
+    "lat": 50.468204979724,
+    "lng": 19.658116669575
+  },
+  {
+    "id": 27484,
+    "name": "Poręba",
+    "type": "city",
+    "commune": "Poręba",
+    "district": "zawierciański",
+    "province": "śląskie",
+    "lat": 50.487858010249,
+    "lng": 19.338278184027
+  },
+  {
+    "id": 28253,
+    "name": "Przyrów",
+    "type": "city",
+    "commune": "Przyrów",
+    "district": "częstochowski",
+    "province": "śląskie",
+    "lat": 50.80253518686948,
+    "lng": 19.526582650026956
+  },
+  {
+    "id": 28455,
+    "name": "Pszczyna",
+    "type": "city",
+    "commune": "Pszczyna",
+    "district": "pszczyński",
+    "province": "śląskie",
+    "lat": 49.9764044307,
+    "lng": 18.958576951326
+  },
+  {
+    "id": 28465,
+    "name": "Pszów",
+    "type": "city",
+    "commune": "Pszów",
+    "district": "wodzisławski",
+    "province": "śląskie",
+    "lat": 50.036994867792,
+    "lng": 18.396151381324
+  },
+  {
+    "id": 28590,
+    "name": "Pyskowice",
+    "type": "city",
+    "commune": "Pyskowice",
+    "district": "gliwicki",
+    "province": "śląskie",
+    "lat": 50.39777778,
+    "lng": 18.6275
+  },
+  {
+    "id": 28880,
+    "name": "Racibórz",
+    "type": "city",
+    "commune": "Racibórz",
+    "district": "raciborski",
+    "province": "śląskie",
+    "lat": 50.090592206394,
+    "lng": 18.219676250895
+  },
+  {
+    "id": 28960,
+    "name": "Radlin",
+    "type": "city",
+    "commune": "Radlin",
+    "district": "wodzisławski",
+    "province": "śląskie",
+    "lat": 50.047795891624,
+    "lng": 18.471382448541
+  },
+  {
+    "id": 29138,
+    "name": "Radzionków",
+    "type": "city",
+    "commune": "Radzionków",
+    "district": "tarnogórski",
+    "province": "śląskie",
+    "lat": 50.399862602965,
+    "lng": 18.903127073293
+  },
+  {
+    "id": 30134,
+    "name": "Ruda Śląska",
+    "type": "city",
+    "commune": "Ruda Śląska",
+    "district": "Ruda Śląska",
+    "province": "śląskie",
+    "lat": 50.276456775444,
+    "lng": 18.863853256894
+  },
+  {
+    "id": 30513,
+    "name": "Rybnik",
+    "type": "city",
+    "commune": "Rybnik",
+    "district": "Rybnik",
+    "province": "śląskie",
+    "lat": 50.092933746908,
+    "lng": 18.54161138338
+  },
+  {
+    "id": 30583,
+    "name": "Rydułtowy",
+    "type": "city",
+    "commune": "Rydułtowy",
+    "district": "wodzisławski",
+    "province": "śląskie",
+    "lat": 50.063443555802,
+    "lng": 18.420816694933
+  },
+  {
+    "id": 31585,
+    "name": "Siemianowice Śląskie",
+    "type": "city",
+    "commune": "Siemianowice Śląskie",
+    "district": "Siemianowice Śląskie",
+    "province": "śląskie",
+    "lat": 50.304806678306,
+    "lng": 19.026196217847
+  },
+  {
+    "id": 31765,
+    "name": "Siewierz",
+    "type": "city",
+    "commune": "Siewierz",
+    "district": "będziński",
+    "province": "śląskie",
+    "lat": 50.4693982870229,
+    "lng": 19.2363514877469
+  },
+  {
+    "id": 32004,
+    "name": "Skoczów",
+    "type": "city",
+    "commune": "Skoczów",
+    "district": "cieszyński",
+    "province": "śląskie",
+    "lat": 49.80194444,
+    "lng": 18.7875
+  },
+  {
+    "id": 32696,
+    "name": "Sosnowiec",
+    "type": "city",
+    "commune": "Sosnowiec",
+    "district": "Sosnowiec",
+    "province": "śląskie",
+    "lat": 50.285264869701,
+    "lng": 19.178038774197
+  },
+  {
+    "id": 32764,
+    "name": "Sośnicowice",
+    "type": "city",
+    "commune": "Sośnicowice",
+    "district": "gliwicki",
+    "province": "śląskie",
+    "lat": 50.272341189675,
+    "lng": 18.5296984548591
+  },
+  {
+    "id": 34041,
+    "name": "Strumień",
+    "type": "city",
+    "commune": "Strumień",
+    "district": "cieszyński",
+    "province": "śląskie",
+    "lat": 49.9171384555795,
+    "lng": 18.7633740604028
+  },
+  {
+    "id": 34938,
+    "name": "Szczekociny",
+    "type": "city",
+    "commune": "Szczekociny",
+    "district": "zawierciański",
+    "province": "śląskie",
+    "lat": 50.626131014551,
+    "lng": 19.818640268261
+  },
+  {
+    "id": 35057,
+    "name": "Szczyrk",
+    "type": "city",
+    "commune": "Szczyrk",
+    "district": "bielski",
+    "province": "śląskie",
+    "lat": 49.71493709511142,
+    "lng": 19.023430967790482
+  },
+  {
+    "id": 35620,
+    "name": "Sławków",
+    "type": "city",
+    "commune": "Sławków",
+    "district": "będziński",
+    "province": "śląskie",
+    "lat": 50.2983118660619,
+    "lng": 19.3882636384835
+  },
+  {
+    "id": 35998,
+    "name": "Tarnowskie Góry",
+    "type": "city",
+    "commune": "Tarnowskie Góry",
+    "district": "tarnogórski",
+    "province": "śląskie",
+    "lat": 50.445368510815,
+    "lng": 18.852952986188
+  },
+  {
+    "id": 36345,
+    "name": "Toszek",
+    "type": "city",
+    "commune": "Toszek",
+    "district": "gliwicki",
+    "province": "śląskie",
+    "lat": 50.4547486052643,
+    "lng": 18.5199052839646
+  },
+  {
+    "id": 36975,
+    "name": "Tychy",
+    "type": "city",
+    "commune": "Tychy",
+    "district": "Tychy",
+    "province": "śląskie",
+    "lat": 50.123622700886,
+    "lng": 18.986891856569
+  },
+  {
+    "id": 37333,
+    "name": "Ustroń",
+    "type": "city",
+    "commune": "Ustroń",
+    "district": "cieszyński",
+    "province": "śląskie",
+    "lat": 49.7203047123697,
+    "lng": 18.8119886044642
+  },
+  {
+    "id": 38270,
+    "name": "Wilamowice",
+    "type": "city",
+    "commune": "Wilamowice",
+    "district": "bielski",
+    "province": "śląskie",
+    "lat": 49.9163208803859,
+    "lng": 19.1527360720221
+  },
+  {
+    "id": 38558,
+    "name": "Wisła",
+    "type": "city",
+    "commune": "Wisła",
+    "district": "cieszyński",
+    "province": "śląskie",
+    "lat": 49.65416667,
+    "lng": 18.86083333
+  },
+  {
+    "id": 38798,
+    "name": "Wodzisław Śląski",
+    "type": "city",
+    "commune": "Wodzisław Śląski",
+    "district": "wodzisławski",
+    "province": "śląskie",
+    "lat": 50.004547415289,
+    "lng": 18.461799285642
+  },
+  {
+    "id": 38869,
+    "name": "Wojkowice",
+    "type": "city",
+    "commune": "Wojkowice",
+    "district": "będziński",
+    "province": "śląskie",
+    "lat": 50.3628784822896,
+    "lng": 19.0445900142303
+  },
+  {
+    "id": 39483,
+    "name": "Woźniki",
+    "type": "city",
+    "commune": "Woźniki",
+    "district": "lubliniecki",
+    "province": "śląskie",
+    "lat": 50.58581082304,
+    "lng": 19.059203999572
+  },
+  {
+    "id": 40640,
+    "name": "Włodowice",
+    "type": "city",
+    "commune": "Włodowice",
+    "district": "zawierciański",
+    "province": "śląskie",
+    "lat": 50.55215779741729,
+    "lng": 19.450351919242756
+  },
+  {
+    "id": 40797,
+    "name": "Zabrze",
+    "type": "city",
+    "commune": "Zabrze",
+    "district": "Zabrze",
+    "province": "śląskie",
+    "lat": 50.298575485862,
+    "lng": 18.786852955572
+  },
+  {
+    "id": 41723,
+    "name": "Zawiercie",
+    "type": "city",
+    "commune": "Zawiercie",
+    "district": "zawierciański",
+    "province": "śląskie",
+    "lat": 50.49092406339,
+    "lng": 19.424119100042
+  },
+  {
+    "id": 42785,
+    "name": "Łaziska Górne",
+    "type": "city",
+    "commune": "Łaziska Górne",
+    "district": "mikołowski",
+    "province": "śląskie",
+    "lat": 50.149336776351,
+    "lng": 18.840167176046
+  },
+  {
+    "id": 42806,
+    "name": "Łazy",
+    "type": "city",
+    "commune": "Łazy",
+    "district": "zawierciański",
+    "province": "śląskie",
+    "lat": 50.427801107632,
+    "lng": 19.393425353593
+  },
+  {
+    "id": 44020,
+    "name": "Świętochłowice",
+    "type": "city",
+    "commune": "Świętochłowice",
+    "district": "Świętochłowice",
+    "province": "śląskie",
+    "lat": 50.292021014059,
+    "lng": 18.915873684822
+  },
+  {
+    "id": 44151,
+    "name": "Żarki",
+    "type": "city",
+    "commune": "Żarki",
+    "district": "myszkowski",
+    "province": "śląskie",
+    "lat": 50.626518634116,
+    "lng": 19.363983045462
+  },
+  {
+    "id": 44415,
+    "name": "Żory",
+    "type": "city",
+    "commune": "Żory",
+    "district": "Żory",
+    "province": "śląskie",
+    "lat": 50.045479212375,
+    "lng": 18.69431555726
+  },
+  {
+    "id": 44586,
+    "name": "Żywiec",
+    "type": "city",
+    "commune": "Żywiec",
+    "district": "żywiecki",
+    "province": "śląskie",
+    "lat": 49.684945470507,
+    "lng": 19.192033577012
+  }
+]

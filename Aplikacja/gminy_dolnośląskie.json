@@ -1,0 +1,932 @@
+[
+  {
+    "id": 715,
+    "name": "Bardo",
+    "type": "city",
+    "commune": "Bardo",
+    "district": "ząbkowicki",
+    "province": "dolnośląskie",
+    "lat": 50.5062673717097,
+    "lng": 16.7404185676476
+  },
+  {
+    "id": 1319,
+    "name": "Bielawa",
+    "type": "city",
+    "commune": "Bielawa",
+    "district": "dzierżoniowski",
+    "province": "dolnośląskie",
+    "lat": 50.6845290102439,
+    "lng": 16.6118045927207
+  },
+  {
+    "id": 1462,
+    "name": "Bierutów",
+    "type": "city",
+    "commune": "Bierutów",
+    "district": "oleśnicki",
+    "province": "dolnośląskie",
+    "lat": 51.1253135934931,
+    "lng": 17.5440855551091
+  },
+  {
+    "id": 1811,
+    "name": "Bogatynia",
+    "type": "city",
+    "commune": "Bogatynia",
+    "district": "zgorzelecki",
+    "province": "dolnośląskie",
+    "lat": 50.9047039331083,
+    "lng": 14.9572177950172
+  },
+  {
+    "id": 1916,
+    "name": "Boguszów-Gorce",
+    "type": "city",
+    "commune": "Boguszów-Gorce",
+    "district": "wałbrzyski",
+    "province": "dolnośląskie",
+    "lat": 50.7559308146626,
+    "lng": 16.2049768032954
+  },
+  {
+    "id": 2015,
+    "name": "Bolesławiec",
+    "type": "city",
+    "commune": "Bolesławiec",
+    "district": "bolesławiecki",
+    "province": "dolnośląskie",
+    "lat": 51.2630272713902,
+    "lng": 15.5648023622634
+  },
+  {
+    "id": 2041,
+    "name": "Bolków",
+    "type": "city",
+    "commune": "Bolków",
+    "district": "jaworski",
+    "province": "dolnośląskie",
+    "lat": 50.9221591423196,
+    "lng": 16.1006629044393
+  },
+  {
+    "id": 2882,
+    "name": "Brzeg Dolny",
+    "type": "city",
+    "commune": "Brzeg Dolny",
+    "district": "wołowski",
+    "province": "dolnośląskie",
+    "lat": 51.2603219377056,
+    "lng": 16.7196705036177
+  },
+  {
+    "id": 3799,
+    "name": "Bystrzyca Kłodzka",
+    "type": "city",
+    "commune": "Bystrzyca Kłodzka",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.2975408661027,
+    "lng": 16.6502933068072
+  },
+  {
+    "id": 4433,
+    "name": "Chocianów",
+    "type": "city",
+    "commune": "Chocianów",
+    "district": "polkowicki",
+    "province": "dolnośląskie",
+    "lat": 51.4198394587579,
+    "lng": 15.9025401485922
+  },
+  {
+    "id": 4557,
+    "name": "Chojnów",
+    "type": "city",
+    "commune": "Chojnów",
+    "district": "legnicki",
+    "province": "dolnośląskie",
+    "lat": 51.2733934266784,
+    "lng": 15.9364621742149
+  },
+  {
+    "id": 6885,
+    "name": "Duszniki-Zdrój",
+    "type": "city",
+    "commune": "Duszniki-Zdrój",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.4040529611914,
+    "lng": 16.3899711229873
+  },
+  {
+    "id": 7140,
+    "name": "Dzierżoniów",
+    "type": "city",
+    "commune": "Dzierżoniów",
+    "district": "dzierżoniowski",
+    "province": "dolnośląskie",
+    "lat": 50.72907650470233,
+    "lng": 16.64880137746754
+  },
+  {
+    "id": 10024,
+    "name": "Gryfów Śląski",
+    "type": "city",
+    "commune": "Gryfów Śląski",
+    "district": "lwówecki",
+    "province": "dolnośląskie",
+    "lat": 51.02805556,
+    "lng": 15.41472222
+  },
+  {
+    "id": 10425,
+    "name": "Góra",
+    "type": "city",
+    "commune": "Góra",
+    "district": "górowski",
+    "province": "dolnośląskie",
+    "lat": 51.667975479252,
+    "lng": 16.5390462904571
+  },
+  {
+    "id": 10806,
+    "name": "Głogów",
+    "type": "city",
+    "commune": "Głogów",
+    "district": "głogowski",
+    "province": "dolnośląskie",
+    "lat": 51.664640102436,
+    "lng": 16.0797429443943
+  },
+  {
+    "id": 10872,
+    "name": "Głuszyca",
+    "type": "city",
+    "commune": "Głuszyca",
+    "district": "wałbrzyski",
+    "province": "dolnośląskie",
+    "lat": 50.6874502953383,
+    "lng": 16.3717331330026
+  },
+  {
+    "id": 12465,
+    "name": "Jawor",
+    "type": "city",
+    "commune": "Jawor",
+    "district": "jaworski",
+    "province": "dolnośląskie",
+    "lat": 51.0503312630759,
+    "lng": 16.19361184739
+  },
+  {
+    "id": 12515,
+    "name": "Jaworzyna Śląska",
+    "type": "city",
+    "commune": "Jaworzyna Śląska",
+    "district": "świdnicki",
+    "province": "dolnośląskie",
+    "lat": 50.914423834852,
+    "lng": 16.4304655879896
+  },
+  {
+    "id": 12594,
+    "name": "Jedlina-Zdrój",
+    "type": "city",
+    "commune": "Jedlina-Zdrój",
+    "district": "wałbrzyski",
+    "province": "dolnośląskie",
+    "lat": 50.7249204621414,
+    "lng": 16.3470610342615
+  },
+  {
+    "id": 12622,
+    "name": "Jelcz-Laskowice",
+    "type": "city",
+    "commune": "Jelcz-Laskowice",
+    "district": "oławski",
+    "province": "dolnośląskie",
+    "lat": 51.0399268463566,
+    "lng": 17.349870239935
+  },
+  {
+    "id": 12627,
+    "name": "Jelenia Góra",
+    "type": "city",
+    "commune": "Jelenia Góra",
+    "district": "Jelenia Góra",
+    "province": "dolnośląskie",
+    "lat": 50.9031115267224,
+    "lng": 15.7345973898236
+  },
+  {
+    "id": 13462,
+    "name": "Kamieniec Ząbkowicki",
+    "type": "city",
+    "commune": "Kamieniec Ząbkowicki",
+    "district": "ząbkowicki",
+    "province": "dolnośląskie",
+    "lat": 50.525002323979,
+    "lng": 16.878081852309
+  },
+  {
+    "id": 13470,
+    "name": "Kamienna Góra",
+    "type": "city",
+    "commune": "Kamienna Góra",
+    "district": "kamiennogórski",
+    "province": "dolnośląskie",
+    "lat": 50.7833600242643,
+    "lng": 16.0327257370649
+  },
+  {
+    "id": 13858,
+    "name": "Karpacz",
+    "type": "city",
+    "commune": "Karpacz",
+    "district": "karkonoski",
+    "province": "dolnośląskie",
+    "lat": 50.7747425705052,
+    "lng": 15.7546074551074
+  },
+  {
+    "id": 15960,
+    "name": "Kowary",
+    "type": "city",
+    "commune": "Kowary",
+    "district": "karkonoski",
+    "province": "dolnośląskie",
+    "lat": 50.7924422714681,
+    "lng": 15.8365043514526
+  },
+  {
+    "id": 17376,
+    "name": "Kudowa-Zdrój",
+    "type": "city",
+    "commune": "Kudowa-Zdrój",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.4408781446388,
+    "lng": 16.2406272134081
+  },
+  {
+    "id": 17867,
+    "name": "Kąty Wrocławskie",
+    "type": "city",
+    "commune": "Kąty Wrocławskie",
+    "district": "wrocławski",
+    "province": "dolnośląskie",
+    "lat": 51.0298609406032,
+    "lng": 16.7710913217888
+  },
+  {
+    "id": 18039,
+    "name": "Kłodzko",
+    "type": "city",
+    "commune": "Kłodzko",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.436050715858975,
+    "lng": 16.650160120838205
+  },
+  {
+    "id": 18305,
+    "name": "Legnica",
+    "type": "city",
+    "commune": "Legnica",
+    "district": "Legnica",
+    "province": "dolnośląskie",
+    "lat": 51.2066327388689,
+    "lng": 16.1628005249923
+  },
+  {
+    "id": 18532,
+    "name": "Leśna",
+    "type": "city",
+    "commune": "Leśna",
+    "district": "lubański",
+    "province": "dolnośląskie",
+    "lat": 51.0237905724484,
+    "lng": 15.2639796629089
+  },
+  {
+    "id": 19143,
+    "name": "Lubawka",
+    "type": "city",
+    "commune": "Lubawka",
+    "district": "kamiennogórski",
+    "province": "dolnośląskie",
+    "lat": 50.7068292821031,
+    "lng": 15.9999464718396
+  },
+  {
+    "id": 19145,
+    "name": "Lubań",
+    "type": "city",
+    "commune": "Lubań",
+    "district": "lubański",
+    "province": "dolnośląskie",
+    "lat": 51.12,
+    "lng": 15.28944444
+  },
+  {
+    "id": 19244,
+    "name": "Lubin",
+    "type": "city",
+    "commune": "Lubin",
+    "district": "lubiński",
+    "province": "dolnośląskie",
+    "lat": 51.39861111,
+    "lng": 16.20333333
+  },
+  {
+    "id": 19306,
+    "name": "Lubomierz",
+    "type": "city",
+    "commune": "Lubomierz",
+    "district": "lwówecki",
+    "province": "dolnośląskie",
+    "lat": 51.0127607593606,
+    "lng": 15.5105252598248
+  },
+  {
+    "id": 19549,
+    "name": "Lwówek Śląski",
+    "type": "city",
+    "commune": "Lwówek Śląski",
+    "district": "lwówecki",
+    "province": "dolnośląskie",
+    "lat": 51.11083333,
+    "lng": 15.585
+  },
+  {
+    "id": 19556,
+    "name": "Lądek-Zdrój",
+    "type": "city",
+    "commune": "Lądek-Zdrój",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.3425,
+    "lng": 16.88722222
+  },
+  {
+    "id": 20854,
+    "name": "Mieroszów",
+    "type": "city",
+    "commune": "Mieroszów",
+    "district": "wałbrzyski",
+    "province": "dolnośląskie",
+    "lat": 50.66638889,
+    "lng": 16.18666667
+  },
+  {
+    "id": 21053,
+    "name": "Milicz",
+    "type": "city",
+    "commune": "Milicz",
+    "district": "milicki",
+    "province": "dolnośląskie",
+    "lat": 51.524292339578,
+    "lng": 17.2726860415003
+  },
+  {
+    "id": 21146,
+    "name": "Mirsk",
+    "type": "city",
+    "commune": "Mirsk",
+    "district": "lwówecki",
+    "province": "dolnośląskie",
+    "lat": 50.9701224098796,
+    "lng": 15.3831128891297
+  },
+  {
+    "id": 21203,
+    "name": "Międzybórz",
+    "type": "city",
+    "commune": "Międzybórz",
+    "district": "oleśnicki",
+    "province": "dolnośląskie",
+    "lat": 51.3979210296175,
+    "lng": 17.6650414795862
+  },
+  {
+    "id": 21213,
+    "name": "Międzylesie",
+    "type": "city",
+    "commune": "Międzylesie",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.1476687397342,
+    "lng": 16.6673054001365
+  },
+  {
+    "id": 21239,
+    "name": "Miękinia",
+    "type": "city",
+    "commune": "Miękinia",
+    "district": "średzki",
+    "province": "dolnośląskie",
+    "lat": 51.19050566160737,
+    "lng": 16.736233303288586
+  },
+  {
+    "id": 22671,
+    "name": "Niemcza",
+    "type": "city",
+    "commune": "Niemcza",
+    "district": "dzierżoniowski",
+    "province": "dolnośląskie",
+    "lat": 50.7167283291307,
+    "lng": 16.8350272230092
+  },
+  {
+    "id": 23055,
+    "name": "Nowa Ruda",
+    "type": "city",
+    "commune": "Nowa Ruda",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.5788079113756,
+    "lng": 16.5024065268399
+  },
+  {
+    "id": 23635,
+    "name": "Nowogrodziec",
+    "type": "city",
+    "commune": "Nowogrodziec",
+    "district": "bolesławiecki",
+    "province": "dolnośląskie",
+    "lat": 51.1970837502436,
+    "lng": 15.3980454655667
+  },
+  {
+    "id": 24024,
+    "name": "Oborniki Śląskie",
+    "type": "city",
+    "commune": "Oborniki Śląskie",
+    "district": "trzebnicki",
+    "province": "dolnośląskie",
+    "lat": 51.2994796894063,
+    "lng": 16.9139628302172
+  },
+  {
+    "id": 24364,
+    "name": "Oleśnica",
+    "type": "city",
+    "commune": "Oleśnica",
+    "district": "oleśnicki",
+    "province": "dolnośląskie",
+    "lat": 51.2095178280593,
+    "lng": 17.380323630209
+  },
+  {
+    "id": 24498,
+    "name": "Olszyna",
+    "type": "city",
+    "commune": "Olszyna",
+    "district": "lubański",
+    "province": "dolnośląskie",
+    "lat": 51.0670756874581,
+    "lng": 15.3782640513237
+  },
+  {
+    "id": 25311,
+    "name": "Oława",
+    "type": "city",
+    "commune": "Oława",
+    "district": "oławski",
+    "province": "dolnośląskie",
+    "lat": 50.9406309546709,
+    "lng": 17.2987011902432
+  },
+  {
+    "id": 26002,
+    "name": "Piechowice",
+    "type": "city",
+    "commune": "Piechowice",
+    "district": "karkonoski",
+    "province": "dolnośląskie",
+    "lat": 50.8497734188322,
+    "lng": 15.5992786814191
+  },
+  {
+    "id": 26145,
+    "name": "Pieszyce",
+    "type": "city",
+    "commune": "Pieszyce",
+    "district": "dzierżoniowski",
+    "province": "dolnośląskie",
+    "lat": 50.712262675766,
+    "lng": 16.58041434713
+  },
+  {
+    "id": 26220,
+    "name": "Pieńsk",
+    "type": "city",
+    "commune": "Pieńsk",
+    "district": "zgorzelecki",
+    "province": "dolnośląskie",
+    "lat": 51.2465383504508,
+    "lng": 15.0456142322331
+  },
+  {
+    "id": 26505,
+    "name": "Piława Górna",
+    "type": "city",
+    "commune": "Piława Górna",
+    "district": "dzierżoniowski",
+    "province": "dolnośląskie",
+    "lat": 50.6815634739974,
+    "lng": 16.7539516852193
+  },
+  {
+    "id": 27126,
+    "name": "Polanica-Zdrój",
+    "type": "city",
+    "commune": "Polanica-Zdrój",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.4032071869031,
+    "lng": 16.5112920373084
+  },
+  {
+    "id": 27203,
+    "name": "Polkowice",
+    "type": "city",
+    "commune": "Polkowice",
+    "district": "polkowicki",
+    "province": "dolnośląskie",
+    "lat": 51.5032801045885,
+    "lng": 16.068273069321
+  },
+  {
+    "id": 27772,
+    "name": "Prochowice",
+    "type": "city",
+    "commune": "Prochowice",
+    "district": "legnicki",
+    "province": "dolnośląskie",
+    "lat": 51.2731932201184,
+    "lng": 16.3622187791552
+  },
+  {
+    "id": 27831,
+    "name": "Prusice",
+    "type": "city",
+    "commune": "Prusice",
+    "district": "trzebnicki",
+    "province": "dolnośląskie",
+    "lat": 51.3710132753196,
+    "lng": 16.960276547518
+  },
+  {
+    "id": 27989,
+    "name": "Przemków",
+    "type": "city",
+    "commune": "Przemków",
+    "district": "polkowicki",
+    "province": "dolnośląskie",
+    "lat": 51.52805556,
+    "lng": 15.78833333
+  },
+  {
+    "id": 28952,
+    "name": "Radków",
+    "type": "city",
+    "commune": "Radków",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.5039415663632,
+    "lng": 16.4007512000253
+  },
+  {
+    "id": 31420,
+    "name": "Siechnice",
+    "type": "city",
+    "commune": "Siechnice",
+    "district": "wrocławski",
+    "province": "dolnośląskie",
+    "lat": 51.03361111,
+    "lng": 17.14694444
+  },
+  {
+    "id": 32495,
+    "name": "Sobótka",
+    "type": "city",
+    "commune": "Sobótka",
+    "district": "wrocławski",
+    "province": "dolnośląskie",
+    "lat": 50.8996025068776,
+    "lng": 16.7445051223147
+  },
+  {
+    "id": 34007,
+    "name": "Stronie Śląskie",
+    "type": "city",
+    "commune": "Stronie Śląskie",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.2988250677529,
+    "lng": 16.8736211962849
+  },
+  {
+    "id": 34127,
+    "name": "Strzegom",
+    "type": "city",
+    "commune": "Strzegom",
+    "district": "świdnicki",
+    "province": "dolnośląskie",
+    "lat": 50.9601781517929,
+    "lng": 16.3466265069738
+  },
+  {
+    "id": 34167,
+    "name": "Strzelin",
+    "type": "city",
+    "commune": "Strzelin",
+    "district": "strzeliński",
+    "province": "dolnośląskie",
+    "lat": 50.7807684999284,
+    "lng": 17.0708354114434
+  },
+  {
+    "id": 34761,
+    "name": "Syców",
+    "type": "city",
+    "commune": "Syców",
+    "district": "oleśnicki",
+    "province": "dolnośląskie",
+    "lat": 51.3095318143902,
+    "lng": 17.7205417054149
+  },
+  {
+    "id": 34904,
+    "name": "Szczawno-Zdrój",
+    "type": "city",
+    "commune": "Szczawno-Zdrój",
+    "district": "wałbrzyski",
+    "province": "dolnośląskie",
+    "lat": 50.8003734425958,
+    "lng": 16.2509338295516
+  },
+  {
+    "id": 35061,
+    "name": "Szczytna",
+    "type": "city",
+    "commune": "Szczytna",
+    "district": "kłodzki",
+    "province": "dolnośląskie",
+    "lat": 50.4154844430126,
+    "lng": 16.4440234001745
+  },
+  {
+    "id": 35192,
+    "name": "Szklarska Poręba",
+    "type": "city",
+    "commune": "Szklarska Poręba",
+    "district": "karkonoski",
+    "province": "dolnośląskie",
+    "lat": 50.8298291463854,
+    "lng": 15.5188676469991
+  },
+  {
+    "id": 36592,
+    "name": "Trzebnica",
+    "type": "city",
+    "commune": "Trzebnica",
+    "district": "trzebnicki",
+    "province": "dolnośląskie",
+    "lat": 51.308374244619,
+    "lng": 17.0619308353751
+  },
+  {
+    "id": 36926,
+    "name": "Twardogóra",
+    "type": "city",
+    "commune": "Twardogóra",
+    "district": "oleśnicki",
+    "province": "dolnośląskie",
+    "lat": 51.3654223863048,
+    "lng": 17.4678241209339
+  },
+  {
+    "id": 37637,
+    "name": "Wałbrzych",
+    "type": "city",
+    "commune": "Wałbrzych",
+    "district": "Wałbrzych",
+    "province": "dolnośląskie",
+    "lat": 50.7672018844963,
+    "lng": 16.282671140018
+  },
+  {
+    "id": 38694,
+    "name": "Wiązów",
+    "type": "city",
+    "commune": "Wiązów",
+    "district": "strzeliński",
+    "province": "dolnośląskie",
+    "lat": 50.8137733177712,
+    "lng": 17.2011349319248
+  },
+  {
+    "id": 38771,
+    "name": "Wleń",
+    "type": "city",
+    "commune": "Wleń",
+    "district": "lwówecki",
+    "province": "dolnośląskie",
+    "lat": 51.01677087933431,
+    "lng": 15.675044964584757
+  },
+  {
+    "id": 38857,
+    "name": "Wojcieszów",
+    "type": "city",
+    "commune": "Wojcieszów",
+    "district": "złotoryjski",
+    "province": "dolnośląskie",
+    "lat": 50.9507663393735,
+    "lng": 15.9222600005254
+  },
+  {
+    "id": 39472,
+    "name": "Wołów",
+    "type": "city",
+    "commune": "Wołów",
+    "district": "wołowski",
+    "province": "dolnośląskie",
+    "lat": 51.3365210117374,
+    "lng": 16.6460014906964
+  },
+  {
+    "id": 39508,
+    "name": "Wrocław",
+    "type": "city",
+    "commune": "Wrocław",
+    "district": "Wrocław",
+    "province": "dolnośląskie",
+    "lat": 51.107841757247,
+    "lng": 17.038656153577
+  },
+  {
+    "id": 40449,
+    "name": "Wąsosz",
+    "type": "city",
+    "commune": "Wąsosz",
+    "district": "górowski",
+    "province": "dolnośląskie",
+    "lat": 51.5646431047707,
+    "lng": 16.6935182004928
+  },
+  {
+    "id": 40507,
+    "name": "Węgliniec",
+    "type": "city",
+    "commune": "Węgliniec",
+    "district": "zgorzelecki",
+    "province": "dolnośląskie",
+    "lat": 51.2860723748746,
+    "lng": 15.2232753002501
+  },
+  {
+    "id": 41721,
+    "name": "Zawidów",
+    "type": "city",
+    "commune": "Zawidów",
+    "district": "zgorzelecki",
+    "province": "dolnośląskie",
+    "lat": 51.0240703321003,
+    "lng": 15.0635179755339
+  },
+  {
+    "id": 42091,
+    "name": "Zgorzelec",
+    "type": "city",
+    "commune": "Zgorzelec",
+    "district": "zgorzelecki",
+    "province": "dolnośląskie",
+    "lat": 51.14972222,
+    "lng": 15.00666667
+  },
+  {
+    "id": 42257,
+    "name": "Ziębice",
+    "type": "city",
+    "commune": "Ziębice",
+    "district": "ząbkowicki",
+    "province": "dolnośląskie",
+    "lat": 50.60027778,
+    "lng": 17.04111111
+  },
+  {
+    "id": 42447,
+    "name": "Ząbkowice Śląskie",
+    "type": "city",
+    "commune": "Ząbkowice Śląskie",
+    "district": "ząbkowicki",
+    "province": "dolnośląskie",
+    "lat": 50.5888386296614,
+    "lng": 16.8127029994628
+  },
+  {
+    "id": 42528,
+    "name": "Złotoryja",
+    "type": "city",
+    "commune": "Złotoryja",
+    "district": "złotoryjski",
+    "province": "dolnośląskie",
+    "lat": 51.1246893366532,
+    "lng": 15.9157924823278
+  },
+  {
+    "id": 42539,
+    "name": "Złoty Stok",
+    "type": "city",
+    "commune": "Złoty Stok",
+    "district": "ząbkowicki",
+    "province": "dolnośląskie",
+    "lat": 50.4430424453533,
+    "lng": 16.8735109249098
+  },
+  {
+    "id": 43581,
+    "name": "Ścinawa",
+    "type": "city",
+    "commune": "Ścinawa",
+    "district": "lubiński",
+    "province": "dolnośląskie",
+    "lat": 51.412770202552,
+    "lng": 16.4261676118545
+  },
+  {
+    "id": 43737,
+    "name": "Środa Śląska",
+    "type": "city",
+    "commune": "Środa Śląska",
+    "district": "średzki",
+    "province": "dolnośląskie",
+    "lat": 51.1632772113775,
+    "lng": 16.5976667263671
+  },
+  {
+    "id": 43757,
+    "name": "Świdnica",
+    "type": "city",
+    "commune": "Świdnica",
+    "district": "świdnicki",
+    "province": "dolnośląskie",
+    "lat": 50.8426631765956,
+    "lng": 16.4872004976803
+  },
+  {
+    "id": 43792,
+    "name": "Świebodzice",
+    "type": "city",
+    "commune": "Świebodzice",
+    "district": "świdnicki",
+    "province": "dolnośląskie",
+    "lat": 50.8598403158081,
+    "lng": 16.3198738201222
+  },
+  {
+    "id": 43819,
+    "name": "Świeradów-Zdrój",
+    "type": "city",
+    "commune": "Świeradów-Zdrój",
+    "district": "lubański",
+    "province": "dolnośląskie",
+    "lat": 50.90924941535,
+    "lng": 15.3319846908447
+  },
+  {
+    "id": 43873,
+    "name": "Świerzawa",
+    "type": "city",
+    "commune": "Świerzawa",
+    "district": "złotoryjski",
+    "province": "dolnośląskie",
+    "lat": 51.0145209736705,
+    "lng": 15.8932667766235
+  },
+  {
+    "id": 44185,
+    "name": "Żarów",
+    "type": "city",
+    "commune": "Żarów",
+    "district": "świdnicki",
+    "province": "dolnośląskie",
+    "lat": 50.9425156092488,
+    "lng": 16.4934179705364
+  },
+  {
+    "id": 44385,
+    "name": "Żmigród",
+    "type": "city",
+    "commune": "Żmigród",
+    "district": "trzebnicki",
+    "province": "dolnośląskie",
+    "lat": 51.46667235558163,
+    "lng": 16.90567771743751
+  }
+]

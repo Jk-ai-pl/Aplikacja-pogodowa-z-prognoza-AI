@@ -1,0 +1,372 @@
+[
+  {
+    "id": 505,
+    "name": "Baborów",
+    "type": "city",
+    "commune": "Baborów",
+    "district": "głubczycki",
+    "province": "opolskie",
+    "lat": 50.157282625049625,
+    "lng": 17.98893500226687
+  },
+  {
+    "id": 1047,
+    "name": "Biała",
+    "type": "city",
+    "commune": "Biała",
+    "district": "prudnicki",
+    "province": "opolskie",
+    "lat": 50.38574145245365,
+    "lng": 17.660114608667964
+  },
+  {
+    "id": 2879,
+    "name": "Brzeg",
+    "type": "city",
+    "commune": "Brzeg",
+    "district": "brzeski",
+    "province": "opolskie",
+    "lat": 50.8616426846768,
+    "lng": 17.4699174477905
+  },
+  {
+    "id": 3744,
+    "name": "Byczyna",
+    "type": "city",
+    "commune": "Byczyna",
+    "district": "kluczborski",
+    "province": "opolskie",
+    "lat": 51.1140673474303,
+    "lng": 18.21421870664
+  },
+  {
+    "id": 6287,
+    "name": "Dobrodzień",
+    "type": "city",
+    "commune": "Dobrodzień",
+    "district": "oleski",
+    "province": "opolskie",
+    "lat": 50.7285044656272,
+    "lng": 18.443273374321
+  },
+  {
+    "id": 8979,
+    "name": "Gogolin",
+    "type": "city",
+    "commune": "Gogolin",
+    "district": "krapkowicki",
+    "province": "opolskie",
+    "lat": 50.4915435262242,
+    "lng": 18.0222063045148
+  },
+  {
+    "id": 9215,
+    "name": "Gorzów Śląski",
+    "type": "city",
+    "commune": "Gorzów Śląski",
+    "district": "oleski",
+    "province": "opolskie",
+    "lat": 51.0281584565242,
+    "lng": 18.422329010081
+  },
+  {
+    "id": 9820,
+    "name": "Grodków",
+    "type": "city",
+    "commune": "Grodków",
+    "district": "brzeski",
+    "province": "opolskie",
+    "lat": 50.6984978136585,
+    "lng": 17.3851855128068
+  },
+  {
+    "id": 10808,
+    "name": "Głogówek",
+    "type": "city",
+    "commune": "Głogówek",
+    "district": "prudnicki",
+    "province": "opolskie",
+    "lat": 50.3534443283842,
+    "lng": 17.8644530893904
+  },
+  {
+    "id": 10827,
+    "name": "Głubczyce",
+    "type": "city",
+    "commune": "Głubczyce",
+    "district": "głubczycki",
+    "province": "opolskie",
+    "lat": 50.200114410905,
+    "lng": 17.8303280686985
+  },
+  {
+    "id": 10839,
+    "name": "Głuchołazy",
+    "type": "city",
+    "commune": "Głuchołazy",
+    "district": "nyski",
+    "province": "opolskie",
+    "lat": 50.3151200979908,
+    "lng": 17.383463936925
+  },
+  {
+    "id": 14257,
+    "name": "Kietrz",
+    "type": "city",
+    "commune": "Kietrz",
+    "district": "głubczycki",
+    "province": "opolskie",
+    "lat": 50.079646403612,
+    "lng": 18.0022431860354
+  },
+  {
+    "id": 14583,
+    "name": "Kluczbork",
+    "type": "city",
+    "commune": "Kluczbork",
+    "district": "kluczborski",
+    "province": "opolskie",
+    "lat": 50.9730725303257,
+    "lng": 18.21457678399
+  },
+  {
+    "id": 15088,
+    "name": "Kolonowskie",
+    "type": "city",
+    "commune": "Kolonowskie",
+    "district": "strzelecki",
+    "province": "opolskie",
+    "lat": 50.6532293135778,
+    "lng": 18.3842397168385
+  },
+  {
+    "id": 15491,
+    "name": "Korfantów",
+    "type": "city",
+    "commune": "Korfantów",
+    "district": "nyski",
+    "province": "opolskie",
+    "lat": 50.48622840525075,
+    "lng": 17.597711368247204
+  },
+  {
+    "id": 16388,
+    "name": "Krapkowice",
+    "type": "city",
+    "commune": "Krapkowice",
+    "district": "krapkowicki",
+    "province": "opolskie",
+    "lat": 50.474625953246,
+    "lng": 17.9671493915267
+  },
+  {
+    "id": 17895,
+    "name": "Kędzierzyn-Koźle",
+    "type": "city",
+    "commune": "Kędzierzyn-Koźle",
+    "district": "kędzierzyńsko-kozielski",
+    "province": "opolskie",
+    "lat": 50.3441698005677,
+    "lng": 18.2073192220981
+  },
+  {
+    "id": 18509,
+    "name": "Lewin Brzeski",
+    "type": "city",
+    "commune": "Lewin Brzeski",
+    "district": "brzeski",
+    "province": "opolskie",
+    "lat": 50.7552109602791,
+    "lng": 17.616059358735
+  },
+  {
+    "id": 18551,
+    "name": "Leśnica",
+    "type": "city",
+    "commune": "Leśnica",
+    "district": "strzelecki",
+    "province": "opolskie",
+    "lat": 50.4286881834516,
+    "lng": 18.1829785438762
+  },
+  {
+    "id": 22341,
+    "name": "Namysłów",
+    "type": "city",
+    "commune": "Namysłów",
+    "district": "namysłowski",
+    "province": "opolskie",
+    "lat": 51.0766311019256,
+    "lng": 17.7173176132443
+  },
+  {
+    "id": 22702,
+    "name": "Niemodlin",
+    "type": "city",
+    "commune": "Niemodlin",
+    "district": "opolski",
+    "province": "opolskie",
+    "lat": 50.642251752996,
+    "lng": 17.6194497303219
+  },
+  {
+    "id": 23978,
+    "name": "Nysa",
+    "type": "city",
+    "commune": "Nysa",
+    "district": "nyski",
+    "province": "opolskie",
+    "lat": 50.47661895462273,
+    "lng": 17.335179285452625
+  },
+  {
+    "id": 24347,
+    "name": "Olesno",
+    "type": "city",
+    "commune": "Olesno",
+    "district": "oleski",
+    "province": "opolskie",
+    "lat": 50.878155360839216,
+    "lng": 18.421140613466847
+  },
+  {
+    "id": 24595,
+    "name": "Opole",
+    "type": "city",
+    "commune": "Opole",
+    "district": "Opole",
+    "province": "opolskie",
+    "lat": 50.667732633124,
+    "lng": 17.928593896248
+  },
+  {
+    "id": 25238,
+    "name": "Otmuchów",
+    "type": "city",
+    "commune": "Otmuchów",
+    "district": "nyski",
+    "province": "opolskie",
+    "lat": 50.466208015961996,
+    "lng": 17.17540416609271
+  },
+  {
+    "id": 25302,
+    "name": "Ozimek",
+    "type": "city",
+    "commune": "Ozimek",
+    "district": "opolski",
+    "province": "opolskie",
+    "lat": 50.6787655874502,
+    "lng": 18.213702998144
+  },
+  {
+    "id": 25388,
+    "name": "Paczków",
+    "type": "city",
+    "commune": "Paczków",
+    "district": "nyski",
+    "province": "opolskie",
+    "lat": 50.4635566509257,
+    "lng": 17.005692827111304
+  },
+  {
+    "id": 27738,
+    "name": "Praszka",
+    "type": "city",
+    "commune": "Praszka",
+    "district": "oleski",
+    "province": "opolskie",
+    "lat": 51.0537742608214,
+    "lng": 18.4531322184653
+  },
+  {
+    "id": 27827,
+    "name": "Prudnik",
+    "type": "city",
+    "commune": "Prudnik",
+    "district": "prudnicki",
+    "province": "opolskie",
+    "lat": 50.32206213151241,
+    "lng": 17.58002254793213
+  },
+  {
+    "id": 28377,
+    "name": "Prószków",
+    "type": "city",
+    "commune": "Prószków",
+    "district": "opolski",
+    "province": "opolskie",
+    "lat": 50.5766849053389,
+    "lng": 17.8713684451565
+  },
+  {
+    "id": 34156,
+    "name": "Strzelce Opolskie",
+    "type": "city",
+    "commune": "Strzelce Opolskie",
+    "district": "strzelecki",
+    "province": "opolskie",
+    "lat": 50.5110221089396,
+    "lng": 18.3004531131039
+  },
+  {
+    "id": 34164,
+    "name": "Strzeleczki",
+    "type": "city",
+    "commune": "Strzeleczki",
+    "district": "krapkowicki",
+    "province": "opolskie",
+    "lat": 50.459184714887016,
+    "lng": 17.85263294446645
+  },
+  {
+    "id": 36919,
+    "name": "Tułowice",
+    "type": "city",
+    "commune": "Tułowice",
+    "district": "opolski",
+    "province": "opolskie",
+    "lat": 50.593630920658,
+    "lng": 17.654367216734
+  },
+  {
+    "id": 37153,
+    "name": "Ujazd",
+    "type": "city",
+    "commune": "Ujazd",
+    "district": "strzelecki",
+    "province": "opolskie",
+    "lat": 50.3894337810546,
+    "lng": 18.3499715679917
+  },
+  {
+    "id": 39441,
+    "name": "Wołczyn",
+    "type": "city",
+    "commune": "Wołczyn",
+    "district": "kluczborski",
+    "province": "opolskie",
+    "lat": 51.0181419899356,
+    "lng": 18.0501110789459
+  },
+  {
+    "id": 41697,
+    "name": "Zawadzkie",
+    "type": "city",
+    "commune": "Zawadzkie",
+    "district": "strzelecki",
+    "province": "opolskie",
+    "lat": 50.6060135912647,
+    "lng": 18.482483805798
+  },
+  {
+    "id": 41991,
+    "name": "Zdzieszowice",
+    "type": "city",
+    "commune": "Zdzieszowice",
+    "district": "krapkowicki",
+    "province": "opolskie",
+    "lat": 50.424328342667,
+    "lng": 18.1249897748776
+  }
+]

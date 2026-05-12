@@ -1,0 +1,1112 @@
+[
+  {
+    "id": 1154,
+    "name": "Białobrzegi",
+    "type": "city",
+    "commune": "Białobrzegi",
+    "district": "białobrzeski",
+    "province": "mazowieckie",
+    "lat": 51.64542696009126,
+    "lng": 20.953901539594003
+  },
+  {
+    "id": 1523,
+    "name": "Bieżuń",
+    "type": "city",
+    "commune": "Bieżuń",
+    "district": "żuromiński",
+    "province": "mazowieckie",
+    "lat": 52.95961102681492,
+    "lng": 19.888459230461912
+  },
+  {
+    "id": 1786,
+    "name": "Bodzanów",
+    "type": "city",
+    "commune": "Bodzanów",
+    "district": "płocki",
+    "province": "mazowieckie",
+    "lat": 52.500007485864494,
+    "lng": 20.032446599069562
+  },
+  {
+    "id": 2670,
+    "name": "Brok",
+    "type": "city",
+    "commune": "Brok",
+    "district": "ostrowski",
+    "province": "mazowieckie",
+    "lat": 52.698389664359865,
+    "lng": 21.85749517758064
+  },
+  {
+    "id": 2850,
+    "name": "Brwinów",
+    "type": "city",
+    "commune": "Brwinów",
+    "district": "pruszkowski",
+    "province": "mazowieckie",
+    "lat": 52.14216272981408,
+    "lng": 20.716941163141133
+  },
+  {
+    "id": 4034,
+    "name": "Błonie",
+    "type": "city",
+    "commune": "Błonie",
+    "district": "warszawski zachodni",
+    "province": "mazowieckie",
+    "lat": 52.195039377302805,
+    "lng": 20.61784454384964
+  },
+  {
+    "id": 4117,
+    "name": "Cegłów",
+    "type": "city",
+    "commune": "Cegłów",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.146940307367075,
+    "lng": 21.74004494661108
+  },
+  {
+    "id": 4608,
+    "name": "Chorzele",
+    "type": "city",
+    "commune": "Chorzele",
+    "district": "przasnyski",
+    "province": "mazowieckie",
+    "lat": 53.26018910360926,
+    "lng": 20.897045821424744
+  },
+  {
+    "id": 5006,
+    "name": "Ciechanów",
+    "type": "city",
+    "commune": "Ciechanów",
+    "district": "ciechanowski",
+    "province": "mazowieckie",
+    "lat": 52.88226165836992,
+    "lng": 20.609568477924938
+  },
+  {
+    "id": 5103,
+    "name": "Ciepielów",
+    "type": "city",
+    "commune": "Ciepielów",
+    "district": "lipski",
+    "province": "mazowieckie",
+    "lat": 51.24841499167862,
+    "lng": 21.575120203655274
+  },
+  {
+    "id": 5800,
+    "name": "Czerwińsk nad Wisłą",
+    "type": "city",
+    "commune": "Czerwińsk nad Wisłą",
+    "district": "płoński",
+    "province": "mazowieckie",
+    "lat": 52.393836055519195,
+    "lng": 20.31276559031385
+  },
+  {
+    "id": 6269,
+    "name": "Dobre",
+    "type": "city",
+    "commune": "Dobre",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.320935304159526,
+    "lng": 21.678884578583574
+  },
+  {
+    "id": 6609,
+    "name": "Drobin",
+    "type": "city",
+    "commune": "Drobin",
+    "district": "płocki",
+    "province": "mazowieckie",
+    "lat": 52.73720177926863,
+    "lng": 19.995481509974702
+  },
+  {
+    "id": 8498,
+    "name": "Garwolin",
+    "type": "city",
+    "commune": "Garwolin",
+    "district": "garwoliński",
+    "province": "mazowieckie",
+    "lat": 51.8971714010405,
+    "lng": 21.614920889558586
+  },
+  {
+    "id": 8640,
+    "name": "Gielniów",
+    "type": "city",
+    "commune": "Gielniów",
+    "district": "przysuski",
+    "province": "mazowieckie",
+    "lat": 51.39973690205672,
+    "lng": 20.476370426409048
+  },
+  {
+    "id": 8813,
+    "name": "Glinojeck",
+    "type": "city",
+    "commune": "Glinojeck",
+    "district": "ciechanowski",
+    "province": "mazowieckie",
+    "lat": 52.819362623723556,
+    "lng": 20.291255249908254
+  },
+  {
+    "id": 9259,
+    "name": "Gostynin",
+    "type": "city",
+    "commune": "Gostynin",
+    "district": "gostyniński",
+    "province": "mazowieckie",
+    "lat": 52.42921714235579,
+    "lng": 19.461928847508418
+  },
+  {
+    "id": 9857,
+    "name": "Grodzisk Mazowiecki",
+    "type": "city",
+    "commune": "Grodzisk Mazowiecki",
+    "district": "grodziski",
+    "province": "mazowieckie",
+    "lat": 52.10363835160387,
+    "lng": 20.625952013312855
+  },
+  {
+    "id": 10172,
+    "name": "Grójec",
+    "type": "city",
+    "commune": "Grójec",
+    "district": "grójecki",
+    "province": "mazowieckie",
+    "lat": 51.86550723948305,
+    "lng": 20.86666174760676
+  },
+  {
+    "id": 10444,
+    "name": "Góra Kalwaria",
+    "type": "city",
+    "commune": "Góra Kalwaria",
+    "district": "piaseczyński",
+    "province": "mazowieckie",
+    "lat": 51.98171868595832,
+    "lng": 21.215957483994497
+  },
+  {
+    "id": 10660,
+    "name": "Gąbin",
+    "type": "city",
+    "commune": "Gąbin",
+    "district": "płocki",
+    "province": "mazowieckie",
+    "lat": 52.39898922445295,
+    "lng": 19.732804678816088
+  },
+  {
+    "id": 10820,
+    "name": "Głowaczów",
+    "type": "city",
+    "commune": "Głowaczów",
+    "district": "kozienicki",
+    "province": "mazowieckie",
+    "lat": 51.623189210193516,
+    "lng": 21.317773258645136
+  },
+  {
+    "id": 10952,
+    "name": "Halinów",
+    "type": "city",
+    "commune": "Halinów",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.224218337592276,
+    "lng": 21.359734713580504
+  },
+  {
+    "id": 11557,
+    "name": "Iłża",
+    "type": "city",
+    "commune": "Iłża",
+    "district": "radomski",
+    "province": "mazowieckie",
+    "lat": 51.16365665043166,
+    "lng": 21.23698684599326
+  },
+  {
+    "id": 11697,
+    "name": "Jadów",
+    "type": "city",
+    "commune": "Jadów",
+    "district": "wołomiński",
+    "province": "mazowieckie",
+    "lat": 52.4782622039518,
+    "lng": 21.63197386196587
+  },
+  {
+    "id": 12377,
+    "name": "Jastrząb",
+    "type": "city",
+    "commune": "Jastrząb",
+    "district": "szydłowiecki",
+    "province": "mazowieckie",
+    "lat": 51.24612498416806,
+    "lng": 20.947728920684003
+  },
+  {
+    "id": 12600,
+    "name": "Jedlnia-Letnisko",
+    "type": "city",
+    "commune": "Jedlnia-Letnisko",
+    "district": "radomski",
+    "province": "mazowieckie",
+    "lat": 51.431189386118554,
+    "lng": 21.33139292034685
+  },
+  {
+    "id": 13101,
+    "name": "Józefów",
+    "type": "city",
+    "commune": "Józefów",
+    "district": "otwocki",
+    "province": "mazowieckie",
+    "lat": 52.1422081139625,
+    "lng": 21.230170733384224
+  },
+  {
+    "id": 13717,
+    "name": "Karczew",
+    "type": "city",
+    "commune": "Karczew",
+    "district": "otwocki",
+    "province": "mazowieckie",
+    "lat": 52.07575982422095,
+    "lng": 21.250345083101713
+  },
+  {
+    "id": 14064,
+    "name": "Kazanów",
+    "type": "city",
+    "commune": "Kazanów",
+    "district": "zwoleński",
+    "province": "mazowieckie",
+    "lat": 51.274652226832,
+    "lng": 21.4679859244823
+  },
+  {
+    "id": 14137,
+    "name": "Kałuszyn",
+    "type": "city",
+    "commune": "Kałuszyn",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.208595317366935,
+    "lng": 21.81261329012062
+  },
+  {
+    "id": 14781,
+    "name": "Kobyłka",
+    "type": "city",
+    "commune": "Kobyłka",
+    "district": "wołomiński",
+    "province": "mazowieckie",
+    "lat": 52.33934335368086,
+    "lng": 21.195965416131397
+  },
+  {
+    "id": 15330,
+    "name": "Konstancin-Jeziorna",
+    "type": "city",
+    "commune": "Konstancin-Jeziorna",
+    "district": "piaseczyński",
+    "province": "mazowieckie",
+    "lat": 52.093947716628826,
+    "lng": 21.117613026748238
+  },
+  {
+    "id": 15786,
+    "name": "Kosów Lacki",
+    "type": "city",
+    "commune": "Kosów Lacki",
+    "district": "sokołowski",
+    "province": "mazowieckie",
+    "lat": 52.593909649626966,
+    "lng": 22.146895274648813
+  },
+  {
+    "id": 16040,
+    "name": "Kozienice",
+    "type": "city",
+    "commune": "Kozienice",
+    "district": "kozienicki",
+    "province": "mazowieckie",
+    "lat": 51.58420708064293,
+    "lng": 21.549078239982304
+  },
+  {
+    "id": 18271,
+    "name": "Latowicz",
+    "type": "city",
+    "commune": "Latowicz",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.02606133462765,
+    "lng": 21.808165218890448
+  },
+  {
+    "id": 18304,
+    "name": "Legionowo",
+    "type": "city",
+    "commune": "Legionowo",
+    "district": "legionowski",
+    "province": "mazowieckie",
+    "lat": 52.40683012855,
+    "lng": 20.93190301373749
+  },
+  {
+    "id": 18968,
+    "name": "Lipsko",
+    "type": "city",
+    "commune": "Lipsko",
+    "district": "lipski",
+    "province": "mazowieckie",
+    "lat": 51.15824343033996,
+    "lng": 21.649962290369196
+  },
+  {
+    "id": 19348,
+    "name": "Lubowidz",
+    "type": "city",
+    "commune": "Lubowidz",
+    "district": "żuromiński",
+    "province": "mazowieckie",
+    "lat": 53.12081680581685,
+    "lng": 19.841528221568353
+  },
+  {
+    "id": 19601,
+    "name": "Maciejowice",
+    "type": "city",
+    "commune": "Maciejowice",
+    "district": "garwoliński",
+    "province": "mazowieckie",
+    "lat": 51.691946819453584,
+    "lng": 21.553480816149044
+  },
+  {
+    "id": 19642,
+    "name": "Magnuszew",
+    "type": "city",
+    "commune": "Magnuszew",
+    "district": "kozienicki",
+    "province": "mazowieckie",
+    "lat": 51.76183041391623,
+    "lng": 21.383061641122598
+  },
+  {
+    "id": 19799,
+    "name": "Maków Mazowiecki",
+    "type": "city",
+    "commune": "Maków Mazowiecki",
+    "district": "makowski",
+    "province": "mazowieckie",
+    "lat": 52.86498010415048,
+    "lng": 21.100671250665464
+  },
+  {
+    "id": 20103,
+    "name": "Marki",
+    "type": "city",
+    "commune": "Marki",
+    "district": "wołomiński",
+    "province": "mazowieckie",
+    "lat": 52.33435216902715,
+    "lng": 21.11422882555264
+  },
+  {
+    "id": 21012,
+    "name": "Milanówek",
+    "type": "city",
+    "commune": "Milanówek",
+    "district": "grodziski",
+    "province": "mazowieckie",
+    "lat": 52.12484008603676,
+    "lng": 20.66926482861297
+  },
+  {
+    "id": 21337,
+    "name": "Mińsk Mazowiecki",
+    "type": "city",
+    "commune": "Mińsk Mazowiecki",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.17927246067763,
+    "lng": 21.572123483017446
+  },
+  {
+    "id": 21486,
+    "name": "Mogielnica",
+    "type": "city",
+    "commune": "Mogielnica",
+    "district": "grójecki",
+    "province": "mazowieckie",
+    "lat": 51.69358833377393,
+    "lng": 20.7214509878018
+  },
+  {
+    "id": 21625,
+    "name": "Mordy",
+    "type": "city",
+    "commune": "Mordy",
+    "district": "siedlecki",
+    "province": "mazowieckie",
+    "lat": 52.2112959281098,
+    "lng": 22.517064843620567
+  },
+  {
+    "id": 21846,
+    "name": "Mrozy",
+    "type": "city",
+    "commune": "Mrozy",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.165585951373366,
+    "lng": 21.80257483412949
+  },
+  {
+    "id": 21883,
+    "name": "Mszczonów",
+    "type": "city",
+    "commune": "Mszczonów",
+    "district": "żyrardowski",
+    "province": "mazowieckie",
+    "lat": 51.974371571605396,
+    "lng": 20.512551757689632
+  },
+  {
+    "id": 21992,
+    "name": "Myszyniec",
+    "type": "city",
+    "commune": "Myszyniec",
+    "district": "ostrołęcki",
+    "province": "mazowieckie",
+    "lat": 53.38043396691049,
+    "lng": 21.34964564183146
+  },
+  {
+    "id": 22125,
+    "name": "Mława",
+    "type": "city",
+    "commune": "Mława",
+    "district": "mławski",
+    "province": "mazowieckie",
+    "lat": 53.112275663337854,
+    "lng": 20.383726077171357
+  },
+  {
+    "id": 22395,
+    "name": "Nasielsk",
+    "type": "city",
+    "commune": "Nasielsk",
+    "district": "nowodworski",
+    "province": "mazowieckie",
+    "lat": 52.5901478242028,
+    "lng": 20.804681837585857
+  },
+  {
+    "id": 23427,
+    "name": "Nowe Miasto",
+    "type": "city",
+    "commune": "Nowe Miasto",
+    "district": "płoński",
+    "province": "mazowieckie",
+    "lat": 52.65648039657818,
+    "lng": 20.62990881328015
+  },
+  {
+    "id": 23429,
+    "name": "Nowe Miasto nad Pilicą",
+    "type": "city",
+    "commune": "Nowe Miasto nad Pilicą",
+    "district": "grójecki",
+    "province": "mazowieckie",
+    "lat": 51.61758013949845,
+    "lng": 20.576744303950864
+  },
+  {
+    "id": 23764,
+    "name": "Nowy Dwór Mazowiecki",
+    "type": "city",
+    "commune": "Nowy Dwór Mazowiecki",
+    "district": "nowodworski",
+    "province": "mazowieckie",
+    "lat": 52.430300457345446,
+    "lng": 20.716163915037374
+  },
+  {
+    "id": 24151,
+    "name": "Odrzywół",
+    "type": "city",
+    "commune": "Odrzywół",
+    "district": "przysuski",
+    "province": "mazowieckie",
+    "lat": 51.5191391206025,
+    "lng": 20.555943092248175
+  },
+  {
+    "id": 24769,
+    "name": "Osieck",
+    "type": "city",
+    "commune": "Osieck",
+    "district": "otwocki",
+    "province": "mazowieckie",
+    "lat": 51.96648417909548,
+    "lng": 21.4215869791687
+  },
+  {
+    "id": 25068,
+    "name": "Ostrołęka",
+    "type": "city",
+    "commune": "Ostrołęka",
+    "district": "Ostrołęka",
+    "province": "mazowieckie",
+    "lat": 53.081362965762274,
+    "lng": 21.571488051305103
+  },
+  {
+    "id": 25134,
+    "name": "Ostrów Mazowiecka",
+    "type": "city",
+    "commune": "Ostrów Mazowiecka",
+    "district": "ostrowski",
+    "province": "mazowieckie",
+    "lat": 52.802464305186255,
+    "lng": 21.895020557815112
+  },
+  {
+    "id": 25265,
+    "name": "Otwock",
+    "type": "city",
+    "commune": "Otwock",
+    "district": "otwocki",
+    "province": "mazowieckie",
+    "lat": 52.10876927436838,
+    "lng": 21.264925513351134
+  },
+  {
+    "id": 25359,
+    "name": "Ożarów Mazowiecki",
+    "type": "city",
+    "commune": "Ożarów Mazowiecki",
+    "district": "warszawski zachodni",
+    "province": "mazowieckie",
+    "lat": 52.210457579608054,
+    "lng": 20.794001336499885
+  },
+  {
+    "id": 25900,
+    "name": "Piaseczno",
+    "type": "city",
+    "commune": "Piaseczno",
+    "district": "piaseczyński",
+    "province": "mazowieckie",
+    "lat": 52.075663275576424,
+    "lng": 21.02697005938132
+  },
+  {
+    "id": 25982,
+    "name": "Piastów",
+    "type": "city",
+    "commune": "Piastów",
+    "district": "pruszkowski",
+    "province": "mazowieckie",
+    "lat": 52.184454642165534,
+    "lng": 20.839970745699894
+  },
+  {
+    "id": 26237,
+    "name": "Pilawa",
+    "type": "city",
+    "commune": "Pilawa",
+    "district": "garwoliński",
+    "province": "mazowieckie",
+    "lat": 51.95885295825263,
+    "lng": 21.532686414988845
+  },
+  {
+    "id": 26273,
+    "name": "Pionki",
+    "type": "city",
+    "commune": "Pionki",
+    "district": "radomski",
+    "province": "mazowieckie",
+    "lat": 51.47574547668834,
+    "lng": 21.450052567972268
+  },
+  {
+    "id": 26788,
+    "name": "Podkowa Leśna",
+    "type": "city",
+    "commune": "Podkowa Leśna",
+    "district": "grodziski",
+    "province": "mazowieckie",
+    "lat": 52.12299863715825,
+    "lng": 20.72501785450387
+  },
+  {
+    "id": 27886,
+    "name": "Pruszków",
+    "type": "city",
+    "commune": "Pruszków",
+    "district": "pruszkowski",
+    "province": "mazowieckie",
+    "lat": 52.16246554783892,
+    "lng": 20.803407710435273
+  },
+  {
+    "id": 27902,
+    "name": "Przasnysz",
+    "type": "city",
+    "commune": "Przasnysz",
+    "district": "przasnyski",
+    "province": "mazowieckie",
+    "lat": 53.01873811120786,
+    "lng": 20.8847558300888
+  },
+  {
+    "id": 28288,
+    "name": "Przysucha",
+    "type": "city",
+    "commune": "Przysucha",
+    "district": "przysuski",
+    "province": "mazowieckie",
+    "lat": 51.358664805758806,
+    "lng": 20.628673268710294
+  },
+  {
+    "id": 28317,
+    "name": "Przytyk",
+    "type": "city",
+    "commune": "Przytyk",
+    "district": "radomski",
+    "province": "mazowieckie",
+    "lat": 51.465166678741745,
+    "lng": 20.906141355881974
+  },
+  {
+    "id": 28580,
+    "name": "Pułtusk",
+    "type": "city",
+    "commune": "Pułtusk",
+    "district": "pułtuski",
+    "province": "mazowieckie",
+    "lat": 52.70397565972877,
+    "lng": 21.087162841153052
+  },
+  {
+    "id": 28765,
+    "name": "Płock",
+    "type": "city",
+    "commune": "Płock",
+    "district": "Płock",
+    "province": "mazowieckie",
+    "lat": 52.546332334468175,
+    "lng": 19.68663715531701
+  },
+  {
+    "id": 28821,
+    "name": "Płońsk",
+    "type": "city",
+    "commune": "Płońsk",
+    "district": "płoński",
+    "province": "mazowieckie",
+    "lat": 52.62234739814073,
+    "lng": 20.370102840039905
+  },
+  {
+    "id": 28890,
+    "name": "Raciąż",
+    "type": "city",
+    "commune": "Raciąż",
+    "district": "płoński",
+    "province": "mazowieckie",
+    "lat": 52.78037301316849,
+    "lng": 20.11920397178974
+  },
+  {
+    "id": 28975,
+    "name": "Radom",
+    "type": "city",
+    "commune": "Radom",
+    "district": "Radom",
+    "province": "mazowieckie",
+    "lat": 51.400654614664965,
+    "lng": 21.157799957915472
+  },
+  {
+    "id": 29158,
+    "name": "Radzymin",
+    "type": "city",
+    "commune": "Radzymin",
+    "district": "wołomiński",
+    "province": "mazowieckie",
+    "lat": 52.418279985066214,
+    "lng": 21.181223282376482
+  },
+  {
+    "id": 30908,
+    "name": "Różan",
+    "type": "city",
+    "commune": "Różan",
+    "district": "makowski",
+    "province": "mazowieckie",
+    "lat": 52.887333210637784,
+    "lng": 21.391041999572735
+  },
+  {
+    "id": 31210,
+    "name": "Sanniki",
+    "type": "city",
+    "commune": "Sanniki",
+    "district": "gostyniński",
+    "province": "mazowieckie",
+    "lat": 52.33196787944861,
+    "lng": 19.861505114546443
+  },
+  {
+    "id": 31345,
+    "name": "Serock",
+    "type": "city",
+    "commune": "Serock",
+    "district": "legionowski",
+    "province": "mazowieckie",
+    "lat": 52.512895605134496,
+    "lng": 21.069493923257596
+  },
+  {
+    "id": 31444,
+    "name": "Siedlce",
+    "type": "city",
+    "commune": "Siedlce",
+    "district": "Siedlce",
+    "province": "mazowieckie",
+    "lat": 52.163726769486075,
+    "lng": 22.287638520758975
+  },
+  {
+    "id": 31647,
+    "name": "Siennica",
+    "type": "city",
+    "commune": "Siennica",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.09136054960444,
+    "lng": 21.62006295935314
+  },
+  {
+    "id": 31660,
+    "name": "Sienno",
+    "type": "city",
+    "commune": "Sienno",
+    "district": "lipski",
+    "province": "mazowieckie",
+    "lat": 51.08497176690671,
+    "lng": 21.473452514428576
+  },
+  {
+    "id": 31736,
+    "name": "Sierpc",
+    "type": "city",
+    "commune": "Sierpc",
+    "district": "sierpecki",
+    "province": "mazowieckie",
+    "lat": 52.85626668889285,
+    "lng": 19.668810726695384
+  },
+  {
+    "id": 31935,
+    "name": "Skaryszew",
+    "type": "city",
+    "commune": "Skaryszew",
+    "district": "radomski",
+    "province": "mazowieckie",
+    "lat": 51.31061585768921,
+    "lng": 21.252347689718803
+  },
+  {
+    "id": 32502,
+    "name": "Sochaczew",
+    "type": "city",
+    "commune": "Sochaczew",
+    "district": "sochaczewski",
+    "province": "mazowieckie",
+    "lat": 52.22932367818148,
+    "lng": 20.238359840369778
+  },
+  {
+    "id": 32504,
+    "name": "Sochocin",
+    "type": "city",
+    "commune": "Sochocin",
+    "district": "płoński",
+    "province": "mazowieckie",
+    "lat": 52.687325732733,
+    "lng": 20.472238760494
+  },
+  {
+    "id": 32605,
+    "name": "Sokołów Podlaski",
+    "type": "city",
+    "commune": "Sokołów Podlaski",
+    "district": "sokołowski",
+    "province": "mazowieckie",
+    "lat": 52.40804122161632,
+    "lng": 22.251133456262618
+  },
+  {
+    "id": 32641,
+    "name": "Solec nad Wisłą",
+    "type": "city",
+    "commune": "Solec nad Wisłą",
+    "district": "lipski",
+    "province": "mazowieckie",
+    "lat": 51.134910383625,
+    "lng": 21.765071168333
+  },
+  {
+    "id": 34526,
+    "name": "Sulejówek",
+    "type": "city",
+    "commune": "Sulejówek",
+    "district": "miński",
+    "province": "mazowieckie",
+    "lat": 52.241480631965985,
+    "lng": 21.290551400549646
+  },
+  {
+    "id": 35368,
+    "name": "Szydłowiec",
+    "type": "city",
+    "commune": "Szydłowiec",
+    "district": "szydłowiecki",
+    "province": "mazowieckie",
+    "lat": 51.22435887565549,
+    "lng": 20.857755568904903
+  },
+  {
+    "id": 35905,
+    "name": "Tarczyn",
+    "type": "city",
+    "commune": "Tarczyn",
+    "district": "piaseczyński",
+    "province": "mazowieckie",
+    "lat": 51.98080211786135,
+    "lng": 20.834919182232483
+  },
+  {
+    "id": 37095,
+    "name": "Tłuszcz",
+    "type": "city",
+    "commune": "Tłuszcz",
+    "district": "wołomiński",
+    "province": "mazowieckie",
+    "lat": 52.4298673026325,
+    "lng": 21.4351902419702
+  },
+  {
+    "id": 37532,
+    "name": "Warka",
+    "type": "city",
+    "commune": "Warka",
+    "district": "grójecki",
+    "province": "mazowieckie",
+    "lat": 51.78691723386356,
+    "lng": 21.18331169047272
+  },
+  {
+    "id": 37556,
+    "name": "Warszawa",
+    "type": "city",
+    "commune": "Warszawa",
+    "district": "Warszawa",
+    "province": "mazowieckie",
+    "lat": 52.229827082675,
+    "lng": 21.011731518271
+  },
+  {
+    "id": 38540,
+    "name": "Wiskitki",
+    "type": "city",
+    "commune": "Wiskitki",
+    "district": "żyrardowski",
+    "province": "mazowieckie",
+    "lat": 52.08691880699636,
+    "lng": 20.382948061379533
+  },
+  {
+    "id": 39453,
+    "name": "Wołomin",
+    "type": "city",
+    "commune": "Wołomin",
+    "district": "wołomiński",
+    "province": "mazowieckie",
+    "lat": 52.34950604318272,
+    "lng": 21.24982374560415
+  },
+  {
+    "id": 40018,
+    "name": "Wyszków",
+    "type": "city",
+    "commune": "Wyszków",
+    "district": "wyszkowski",
+    "province": "mazowieckie",
+    "lat": 52.5959172786781,
+    "lng": 21.451849363154
+  },
+  {
+    "id": 40025,
+    "name": "Wyszogród",
+    "type": "city",
+    "commune": "Wyszogród",
+    "district": "płocki",
+    "province": "mazowieckie",
+    "lat": 52.38991913941138,
+    "lng": 20.190740471873497
+  },
+  {
+    "id": 40068,
+    "name": "Wyśmierzyce",
+    "type": "city",
+    "commune": "Wyśmierzyce",
+    "district": "białobrzeski",
+    "province": "mazowieckie",
+    "lat": 51.624672279538096,
+    "lng": 20.81834054121593
+  },
+  {
+    "id": 40547,
+    "name": "Węgrów",
+    "type": "city",
+    "commune": "Węgrów",
+    "district": "węgrowski",
+    "province": "mazowieckie",
+    "lat": 52.3989026312763,
+    "lng": 22.017349363836
+  },
+  {
+    "id": 41084,
+    "name": "Zakroczym",
+    "type": "city",
+    "commune": "Zakroczym",
+    "district": "nowodworski",
+    "province": "mazowieckie",
+    "lat": 52.43330965341447,
+    "lng": 20.611321450835366
+  },
+  {
+    "id": 42170,
+    "name": "Zielonka",
+    "type": "city",
+    "commune": "Zielonka",
+    "district": "wołomiński",
+    "province": "mazowieckie",
+    "lat": 52.30661096045772,
+    "lng": 21.153585238530837
+  },
+  {
+    "id": 42407,
+    "name": "Zwoleń",
+    "type": "city",
+    "commune": "Zwoleń",
+    "district": "zwoleński",
+    "province": "mazowieckie",
+    "lat": 51.355453216827044,
+    "lng": 21.58770716922131
+  },
+  {
+    "id": 42446,
+    "name": "Ząbki",
+    "type": "city",
+    "commune": "Ząbki",
+    "district": "wołomiński",
+    "province": "mazowieckie",
+    "lat": 52.28933083330596,
+    "lng": 21.11801032483078
+  },
+  {
+    "id": 42711,
+    "name": "Łaskarzew",
+    "type": "city",
+    "commune": "Łaskarzew",
+    "district": "garwoliński",
+    "province": "mazowieckie",
+    "lat": 51.789494992297996,
+    "lng": 21.59249707244155
+  },
+  {
+    "id": 42898,
+    "name": "Łochów",
+    "type": "city",
+    "commune": "Łochów",
+    "district": "węgrowski",
+    "province": "mazowieckie",
+    "lat": 52.52835195337297,
+    "lng": 21.685289824630456
+  },
+  {
+    "id": 42933,
+    "name": "Łomianki",
+    "type": "city",
+    "commune": "Łomianki",
+    "district": "warszawski zachodni",
+    "province": "mazowieckie",
+    "lat": 52.3336144570914,
+    "lng": 20.8869170421988
+  },
+  {
+    "id": 43002,
+    "name": "Łosice",
+    "type": "city",
+    "commune": "Łosice",
+    "district": "łosicki",
+    "province": "mazowieckie",
+    "lat": 52.21096729341314,
+    "lng": 22.717727490295996
+  },
+  {
+    "id": 44289,
+    "name": "Żelechów",
+    "type": "city",
+    "commune": "Żelechów",
+    "district": "garwoliński",
+    "province": "mazowieckie",
+    "lat": 51.808406412438764,
+    "lng": 21.896234116039267
+  },
+  {
+    "id": 44520,
+    "name": "Żuromin",
+    "type": "city",
+    "commune": "Żuromin",
+    "district": "żuromiński",
+    "province": "mazowieckie",
+    "lat": 53.065807417010575,
+    "lng": 19.909758889421145
+  },
+  {
+    "id": 44567,
+    "name": "Żyrardów",
+    "type": "city",
+    "commune": "Żyrardów",
+    "district": "żyrardowski",
+    "province": "mazowieckie",
+    "lat": 52.0562027539337,
+    "lng": 20.44689363491534
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1959,
+    "name": "Bojanowo",
+    "type": "city",
+    "commune": "Bojanowo",
+    "district": "rawicki",
+    "province": "wielkopolskie",
+    "lat": 51.7074193256355,
+    "lng": 16.7489017340665
+  },
+  {
+    "id": 2131,
+    "name": "Borek Wielkopolski",
+    "type": "city",
+    "commune": "Borek Wielkopolski",
+    "district": "gostyński",
+    "province": "wielkopolskie",
+    "lat": 51.9164696188521,
+    "lng": 17.2422339924342
+  },
+  {
+    "id": 3509,
+    "name": "Budzyń",
+    "type": "city",
+    "commune": "Budzyń",
+    "district": "chodzieski",
+    "province": "wielkopolskie",
+    "lat": 52.89015762783088,
+    "lng": 16.988036998508157
+  },
+  {
+    "id": 3556,
+    "name": "Buk",
+    "type": "city",
+    "commune": "Buk",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.35536211984735,
+    "lng": 16.519659372392272
+  },
+  {
+    "id": 4465,
+    "name": "Chocz",
+    "type": "city",
+    "commune": "Chocz",
+    "district": "pleszewski",
+    "province": "wielkopolskie",
+    "lat": 51.9769959164513,
+    "lng": 17.8703401627772
+  },
+  {
+    "id": 4497,
+    "name": "Chodzież",
+    "type": "city",
+    "commune": "Chodzież",
+    "district": "chodzieski",
+    "province": "wielkopolskie",
+    "lat": 52.9923019336914,
+    "lng": 16.9154071462517
+  },
+  {
+    "id": 5514,
+    "name": "Czarnków",
+    "type": "city",
+    "commune": "Czarnków",
+    "district": "czarnkowsko-trzcianecki",
+    "province": "wielkopolskie",
+    "lat": 52.90529458964752,
+    "lng": 16.565574464381633
+  },
+  {
+    "id": 5696,
+    "name": "Czempiń",
+    "type": "city",
+    "commune": "Czempiń",
+    "district": "kościański",
+    "province": "wielkopolskie",
+    "lat": 52.142883221673,
+    "lng": 16.761330711993
+  },
+  {
+    "id": 5758,
+    "name": "Czerniejewo",
+    "type": "city",
+    "commune": "Czerniejewo",
+    "district": "gnieźnieński",
+    "province": "wielkopolskie",
+    "lat": 52.42657331381942,
+    "lng": 17.490048356013673
+  },
+  {
+    "id": 6236,
+    "name": "Dobra",
+    "type": "city",
+    "commune": "Dobra",
+    "district": "turecki",
+    "province": "wielkopolskie",
+    "lat": 51.91599859874462,
+    "lng": 18.61522175613004
+  },
+  {
+    "id": 6379,
+    "name": "Dobrzyca",
+    "type": "city",
+    "commune": "Dobrzyca",
+    "district": "pleszewski",
+    "province": "wielkopolskie",
+    "lat": 51.863389631617,
+    "lng": 17.601111767656
+  },
+  {
+    "id": 6443,
+    "name": "Dolsk",
+    "type": "city",
+    "commune": "Dolsk",
+    "district": "śremski",
+    "province": "wielkopolskie",
+    "lat": 51.98676512212312,
+    "lng": 17.066037551706074
+  },
+  {
+    "id": 7273,
+    "name": "Dąbie",
+    "type": "city",
+    "commune": "Dąbie",
+    "district": "kolski",
+    "province": "wielkopolskie",
+    "lat": 52.08836094106455,
+    "lng": 18.822304374230946
+  },
+  {
+    "id": 8876,
+    "name": "Gniezno",
+    "type": "city",
+    "commune": "Gniezno",
+    "district": "gnieźnieński",
+    "province": "wielkopolskie",
+    "lat": 52.53468548054147,
+    "lng": 17.599724208090606
+  },
+  {
+    "id": 9062,
+    "name": "Golina",
+    "type": "city",
+    "commune": "Golina",
+    "district": "koniński",
+    "province": "wielkopolskie",
+    "lat": 52.24434686669963,
+    "lng": 18.094952126195352
+  },
+  {
+    "id": 9260,
+    "name": "Gostyń",
+    "type": "city",
+    "commune": "Gostyń",
+    "district": "gostyński",
+    "province": "wielkopolskie",
+    "lat": 51.8820669251985,
+    "lng": 17.0123124207227
+  },
+  {
+    "id": 9354,
+    "name": "Gołańcz",
+    "type": "city",
+    "commune": "Gołańcz",
+    "district": "wągrowiecki",
+    "province": "wielkopolskie",
+    "lat": 52.943189521999166,
+    "lng": 17.299682263334212
+  },
+  {
+    "id": 9689,
+    "name": "Grabów nad Prosną",
+    "type": "city",
+    "commune": "Grabów nad Prosną",
+    "district": "ostrzeszowski",
+    "province": "wielkopolskie",
+    "lat": 51.50826301822834,
+    "lng": 18.11446733954282
+  },
+  {
+    "id": 9859,
+    "name": "Grodzisk Wielkopolski",
+    "type": "city",
+    "commune": "Grodzisk Wielkopolski",
+    "district": "grodziski",
+    "province": "wielkopolskie",
+    "lat": 52.22549458825928,
+    "lng": 16.36645164201106
+  },
+  {
+    "id": 12158,
+    "name": "Jaraczewo",
+    "type": "city",
+    "commune": "Jaraczewo",
+    "district": "jarociński",
+    "province": "wielkopolskie",
+    "lat": 51.96879749151,
+    "lng": 17.297292982916
+  },
+  {
+    "id": 12200,
+    "name": "Jarocin",
+    "type": "city",
+    "commune": "Jarocin",
+    "district": "jarociński",
+    "province": "wielkopolskie",
+    "lat": 51.9723848155962,
+    "lng": 17.5016307676708
+  },
+  {
+    "id": 12373,
+    "name": "Jastrowie",
+    "type": "city",
+    "commune": "Jastrowie",
+    "district": "złotowski",
+    "province": "wielkopolskie",
+    "lat": 53.422535449401444,
+    "lng": 16.819161858412517
+  },
+  {
+    "id": 13003,
+    "name": "Jutrosin",
+    "type": "city",
+    "commune": "Jutrosin",
+    "district": "rawicki",
+    "province": "wielkopolskie",
+    "lat": 51.6512744875606,
+    "lng": 17.1692377490739
+  },
+  {
+    "id": 13213,
+    "name": "Kaczory",
+    "type": "city",
+    "commune": "Kaczory",
+    "district": "pilski",
+    "province": "wielkopolskie",
+    "lat": 53.10204167828551,
+    "lng": 16.884082139899284
+  },
+  {
+    "id": 13379,
+    "name": "Kalisz",
+    "type": "city",
+    "commune": "Kalisz",
+    "district": "Kalisz",
+    "province": "wielkopolskie",
+    "lat": 51.760848676925065,
+    "lng": 18.086844532116928
+  },
+  {
+    "id": 14432,
+    "name": "Kleczew",
+    "type": "city",
+    "commune": "Kleczew",
+    "district": "koniński",
+    "province": "wielkopolskie",
+    "lat": 52.3708541265907,
+    "lng": 18.1730264237303
+  },
+  {
+    "id": 14749,
+    "name": "Kobylin",
+    "type": "city",
+    "commune": "Kobylin",
+    "district": "krotoszyński",
+    "province": "wielkopolskie",
+    "lat": 51.7165964887889,
+    "lng": 17.2266939700191
+  },
+  {
+    "id": 15264,
+    "name": "Konin",
+    "type": "city",
+    "commune": "Konin",
+    "district": "Konin",
+    "province": "wielkopolskie",
+    "lat": 52.229519573650016,
+    "lng": 18.24498871058054
+  },
+  {
+    "id": 15721,
+    "name": "Kostrzyn",
+    "type": "city",
+    "commune": "Kostrzyn",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.39798913481898,
+    "lng": 17.22615354170677
+  },
+  {
+    "id": 16178,
+    "name": "Koło",
+    "type": "city",
+    "commune": "Koło",
+    "district": "kolski",
+    "province": "wielkopolskie",
+    "lat": 52.205207055232535,
+    "lng": 18.635070035602894
+  },
+  {
+    "id": 16229,
+    "name": "Kościan",
+    "type": "city",
+    "commune": "Kościan",
+    "district": "kościański",
+    "province": "wielkopolskie",
+    "lat": 52.08716423573267,
+    "lng": 16.64627397363155
+  },
+  {
+    "id": 16300,
+    "name": "Koźmin Wielkopolski",
+    "type": "city",
+    "commune": "Koźmin Wielkopolski",
+    "district": "krotoszyński",
+    "province": "wielkopolskie",
+    "lat": 51.8271928801429,
+    "lng": 17.4529020326607
+  },
+  {
+    "id": 16301,
+    "name": "Koźminek",
+    "type": "city",
+    "commune": "Koźminek",
+    "district": "kaliski",
+    "province": "wielkopolskie",
+    "lat": 51.799555899541,
+    "lng": 18.335437324885
+  },
+  {
+    "id": 16334,
+    "name": "Krajenka",
+    "type": "city",
+    "commune": "Krajenka",
+    "district": "złotowski",
+    "province": "wielkopolskie",
+    "lat": 53.29671909990381,
+    "lng": 16.990675163717164
+  },
+  {
+    "id": 16539,
+    "name": "Krobia",
+    "type": "city",
+    "commune": "Krobia",
+    "district": "gostyński",
+    "province": "wielkopolskie",
+    "lat": 51.7741782095984,
+    "lng": 16.9846299462507
+  },
+  {
+    "id": 16617,
+    "name": "Krotoszyn",
+    "type": "city",
+    "commune": "Krotoszyn",
+    "district": "krotoszyński",
+    "province": "wielkopolskie",
+    "lat": 51.697710332127826,
+    "lng": 17.434363049332724
+  },
+  {
+    "id": 17024,
+    "name": "Krzywiń",
+    "type": "city",
+    "commune": "Krzywiń",
+    "district": "kościański",
+    "province": "wielkopolskie",
+    "lat": 51.96167662320514,
+    "lng": 16.820775977036938
+  },
+  {
+    "id": 17055,
+    "name": "Krzyż Wielkopolski",
+    "type": "city",
+    "commune": "Krzyż Wielkopolski",
+    "district": "czarnkowsko-trzcianecki",
+    "province": "wielkopolskie",
+    "lat": 52.87961830572376,
+    "lng": 16.01389262922553
+  },
+  {
+    "id": 17242,
+    "name": "Książ Wielkopolski",
+    "type": "city",
+    "commune": "Książ Wielkopolski",
+    "district": "śremski",
+    "province": "wielkopolskie",
+    "lat": 52.06233932908325,
+    "lng": 17.2395309583284
+  },
+  {
+    "id": 17784,
+    "name": "Kórnik",
+    "type": "city",
+    "commune": "Kórnik",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.25024572980223,
+    "lng": 17.087767721490252
+  },
+  {
+    "id": 17970,
+    "name": "Kępno",
+    "type": "city",
+    "commune": "Kępno",
+    "district": "kępiński",
+    "province": "wielkopolskie",
+    "lat": 51.2791286080225,
+    "lng": 17.9834529874859
+  },
+  {
+    "id": 17998,
+    "name": "Kłecko",
+    "type": "city",
+    "commune": "Kłecko",
+    "district": "gnieźnieński",
+    "province": "wielkopolskie",
+    "lat": 52.6316248074597,
+    "lng": 17.430644518578486
+  },
+  {
+    "id": 18020,
+    "name": "Kłodawa",
+    "type": "city",
+    "commune": "Kłodawa",
+    "district": "kolski",
+    "province": "wielkopolskie",
+    "lat": 52.254273040373306,
+    "lng": 18.9134962718479
+  },
+  {
+    "id": 18483,
+    "name": "Leszno",
+    "type": "city",
+    "commune": "Leszno",
+    "district": "Leszno",
+    "province": "wielkopolskie",
+    "lat": 51.840159089508,
+    "lng": 16.57971055110179
+  },
+  {
+    "id": 19354,
+    "name": "Luboń",
+    "type": "city",
+    "commune": "Luboń",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.345861763646205,
+    "lng": 16.87759606509294
+  },
+  {
+    "id": 19547,
+    "name": "Lwówek",
+    "type": "city",
+    "commune": "Lwówek",
+    "district": "nowotomyski",
+    "province": "wielkopolskie",
+    "lat": 52.447978264617426,
+    "lng": 16.181008384417936
+  },
+  {
+    "id": 20001,
+    "name": "Margonin",
+    "type": "city",
+    "commune": "Margonin",
+    "district": "chodzieski",
+    "province": "wielkopolskie",
+    "lat": 52.97340215669568,
+    "lng": 17.094257179175308
+  },
+  {
+    "id": 20577,
+    "name": "Miasteczko Krajeńskie",
+    "type": "city",
+    "commune": "Miasteczko Krajeńskie",
+    "district": "pilski",
+    "province": "wielkopolskie",
+    "lat": 53.097588692522706,
+    "lng": 17.005090776376708
+  },
+  {
+    "id": 20795,
+    "name": "Miejska Górka",
+    "type": "city",
+    "commune": "Miejska Górka",
+    "district": "rawicki",
+    "province": "wielkopolskie",
+    "lat": 51.6554326763784,
+    "lng": 16.956909579797
+  },
+  {
+    "id": 20928,
+    "name": "Mieścisko",
+    "type": "city",
+    "commune": "Mieścisko",
+    "district": "wągrowiecki",
+    "province": "wielkopolskie",
+    "lat": 52.743747593226686,
+    "lng": 17.3284326934362
+  },
+  {
+    "id": 20987,
+    "name": "Mikstat",
+    "type": "city",
+    "commune": "Mikstat",
+    "district": "ostrzeszowski",
+    "province": "wielkopolskie",
+    "lat": 51.532050054057066,
+    "lng": 17.973059190516253
+  },
+  {
+    "id": 21208,
+    "name": "Międzychód",
+    "type": "city",
+    "commune": "Międzychód",
+    "district": "międzychodzki",
+    "province": "wielkopolskie",
+    "lat": 52.605497080318024,
+    "lng": 15.896549561499302
+  },
+  {
+    "id": 21323,
+    "name": "Miłosław",
+    "type": "city",
+    "commune": "Miłosław",
+    "district": "wrzesiński",
+    "province": "wielkopolskie",
+    "lat": 52.20298892482817,
+    "lng": 17.489493729917584
+  },
+  {
+    "id": 21677,
+    "name": "Mosina",
+    "type": "city",
+    "commune": "Mosina",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.24383623365346,
+    "lng": 16.85063770582306
+  },
+  {
+    "id": 21916,
+    "name": "Murowana Goślina",
+    "type": "city",
+    "commune": "Murowana Goślina",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.57604914427798,
+    "lng": 17.010690650966247
+  },
+  {
+    "id": 22460,
+    "name": "Nekla",
+    "type": "city",
+    "commune": "Nekla",
+    "district": "wrzesiński",
+    "province": "wielkopolskie",
+    "lat": 52.362842539916315,
+    "lng": 17.41360085208512
+  },
+  {
+    "id": 23502,
+    "name": "Nowe Skalmierzyce",
+    "type": "city",
+    "commune": "Nowe Skalmierzyce",
+    "district": "ostrowski",
+    "province": "wielkopolskie",
+    "lat": 51.70864734676857,
+    "lng": 17.989997103210083
+  },
+  {
+    "id": 23913,
+    "name": "Nowy Tomyśl",
+    "type": "city",
+    "commune": "Nowy Tomyśl",
+    "district": "nowotomyski",
+    "province": "wielkopolskie",
+    "lat": 52.31720607059804,
+    "lng": 16.132172686483145
+  },
+  {
+    "id": 24023,
+    "name": "Oborniki",
+    "type": "city",
+    "commune": "Oborniki",
+    "district": "obornicki",
+    "province": "wielkopolskie",
+    "lat": 52.64565444162042,
+    "lng": 16.809795557236473
+  },
+  {
+    "id": 24053,
+    "name": "Obrzycko",
+    "type": "city",
+    "commune": "Obrzycko",
+    "district": "szamotulski",
+    "province": "wielkopolskie",
+    "lat": 52.70541963051148,
+    "lng": 16.527825895034706
+  },
+  {
+    "id": 24134,
+    "name": "Odolanów",
+    "type": "city",
+    "commune": "Odolanów",
+    "district": "ostrowski",
+    "province": "wielkopolskie",
+    "lat": 51.57450623558675,
+    "lng": 17.67358529896719
+  },
+  {
+    "id": 24243,
+    "name": "Okonek",
+    "type": "city",
+    "commune": "Okonek",
+    "district": "złotowski",
+    "province": "wielkopolskie",
+    "lat": 53.53520708237023,
+    "lng": 16.849948702212014
+  },
+  {
+    "id": 24548,
+    "name": "Opalenica",
+    "type": "city",
+    "commune": "Opalenica",
+    "district": "nowotomyski",
+    "province": "wielkopolskie",
+    "lat": 52.30791482671729,
+    "lng": 16.41527875904598
+  },
+  {
+    "id": 24573,
+    "name": "Opatówek",
+    "type": "city",
+    "commune": "Opatówek",
+    "district": "kaliski",
+    "province": "wielkopolskie",
+    "lat": 51.739643563165416,
+    "lng": 18.214238570851922
+  },
+  {
+    "id": 24781,
+    "name": "Osieczna",
+    "type": "city",
+    "commune": "Osieczna",
+    "district": "leszczyński",
+    "province": "wielkopolskie",
+    "lat": 51.90443930697346,
+    "lng": 16.678547412838014
+  },
+  {
+    "id": 24992,
+    "name": "Ostroróg",
+    "type": "city",
+    "commune": "Ostroróg",
+    "district": "szamotulski",
+    "province": "wielkopolskie",
+    "lat": 52.626725204834514,
+    "lng": 16.451210546255272
+  },
+  {
+    "id": 25087,
+    "name": "Ostrzeszów",
+    "type": "city",
+    "commune": "Ostrzeszów",
+    "district": "ostrzeszowski",
+    "province": "wielkopolskie",
+    "lat": 51.42647950748852,
+    "lng": 17.93307244699858
+  },
+  {
+    "id": 25140,
+    "name": "Ostrów Wielkopolski",
+    "type": "city",
+    "commune": "Ostrów Wielkopolski",
+    "district": "ostrowski",
+    "province": "wielkopolskie",
+    "lat": 51.64980779167962,
+    "lng": 17.817460799615656
+  },
+  {
+    "id": 26490,
+    "name": "Piła",
+    "type": "city",
+    "commune": "Piła",
+    "district": "pilski",
+    "province": "wielkopolskie",
+    "lat": 53.15131017667653,
+    "lng": 16.73823514167397
+  },
+  {
+    "id": 26545,
+    "name": "Pleszew",
+    "type": "city",
+    "commune": "Pleszew",
+    "district": "pleszewski",
+    "province": "wielkopolskie",
+    "lat": 51.8962726655766,
+    "lng": 17.785733911218
+  },
+  {
+    "id": 26614,
+    "name": "Pniewy",
+    "type": "city",
+    "commune": "Pniewy",
+    "district": "szamotulski",
+    "province": "wielkopolskie",
+    "lat": 52.50897768142145,
+    "lng": 16.256653760298022
+  },
+  {
+    "id": 26629,
+    "name": "Pobiedziska",
+    "type": "city",
+    "commune": "Pobiedziska",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.477469396257476,
+    "lng": 17.284853684421144
+  },
+  {
+    "id": 27037,
+    "name": "Pogorzela",
+    "type": "city",
+    "commune": "Pogorzela",
+    "district": "gostyński",
+    "province": "wielkopolskie",
+    "lat": 51.8224457981052,
+    "lng": 17.2303517588335
+  },
+  {
+    "id": 27315,
+    "name": "Poniec",
+    "type": "city",
+    "commune": "Poniec",
+    "district": "gostyński",
+    "province": "wielkopolskie",
+    "lat": 51.76339630198,
+    "lng": 16.808673628409
+  },
+  {
+    "id": 27649,
+    "name": "Poznań",
+    "type": "city",
+    "commune": "Poznań",
+    "district": "Poznań",
+    "province": "wielkopolskie",
+    "lat": 52.41087037798085,
+    "lng": 16.938415327787556
+  },
+  {
+    "id": 27948,
+    "name": "Przedecz",
+    "type": "city",
+    "commune": "Przedecz",
+    "district": "kolski",
+    "province": "wielkopolskie",
+    "lat": 52.333875143290065,
+    "lng": 18.898954884575335
+  },
+  {
+    "id": 28556,
+    "name": "Puszczykowo",
+    "type": "city",
+    "commune": "Puszczykowo",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.286185249490714,
+    "lng": 16.855701334173823
+  },
+  {
+    "id": 28601,
+    "name": "Pyzdry",
+    "type": "city",
+    "commune": "Pyzdry",
+    "district": "wrzesiński",
+    "province": "wielkopolskie",
+    "lat": 52.167226122285946,
+    "lng": 17.687181475197146
+  },
+  {
+    "id": 29212,
+    "name": "Rakoniewice",
+    "type": "city",
+    "commune": "Rakoniewice",
+    "district": "grodziski",
+    "province": "wielkopolskie",
+    "lat": 52.13882232511698,
+    "lng": 16.273386812314484
+  },
+  {
+    "id": 29295,
+    "name": "Raszków",
+    "type": "city",
+    "commune": "Raszków",
+    "district": "ostrowski",
+    "province": "wielkopolskie",
+    "lat": 51.71815359204515,
+    "lng": 17.7257754211305
+  },
+  {
+    "id": 29349,
+    "name": "Rawicz",
+    "type": "city",
+    "commune": "Rawicz",
+    "district": "rawicki",
+    "province": "wielkopolskie",
+    "lat": 51.6093945573554,
+    "lng": 16.8583757860134
+  },
+  {
+    "id": 29616,
+    "name": "Rogoźno",
+    "type": "city",
+    "commune": "Rogoźno",
+    "district": "obornicki",
+    "province": "wielkopolskie",
+    "lat": 52.752267772141174,
+    "lng": 16.992399955547956
+  },
+  {
+    "id": 30556,
+    "name": "Rychtal",
+    "type": "city",
+    "commune": "Rychtal",
+    "district": "kępiński",
+    "province": "wielkopolskie",
+    "lat": 51.14550429186085,
+    "lng": 17.850885063521723
+  },
+  {
+    "id": 30558,
+    "name": "Rychwał",
+    "type": "city",
+    "commune": "Rychwał",
+    "district": "koniński",
+    "province": "wielkopolskie",
+    "lat": 52.069757594132,
+    "lng": 18.166265900575773
+  },
+  {
+    "id": 30600,
+    "name": "Rydzyna",
+    "type": "city",
+    "commune": "Rydzyna",
+    "district": "leszczyński",
+    "province": "wielkopolskie",
+    "lat": 51.78696807510186,
+    "lng": 16.666969771005054
+  },
+  {
+    "id": 31698,
+    "name": "Sieraków",
+    "type": "city",
+    "commune": "Sieraków",
+    "district": "międzychodzki",
+    "province": "wielkopolskie",
+    "lat": 52.65158921082624,
+    "lng": 16.080601692005096
+  },
+  {
+    "id": 32007,
+    "name": "Skoki",
+    "type": "city",
+    "commune": "Skoki",
+    "district": "wągrowiecki",
+    "province": "wielkopolskie",
+    "lat": 52.673511703443864,
+    "lng": 17.158753658325914
+  },
+  {
+    "id": 32662,
+    "name": "Sompolno",
+    "type": "city",
+    "commune": "Sompolno",
+    "district": "koniński",
+    "province": "wielkopolskie",
+    "lat": 52.38872668391787,
+    "lng": 18.50288945741347
+  },
+  {
+    "id": 33725,
+    "name": "Stawiszyn",
+    "type": "city",
+    "commune": "Stawiszyn",
+    "district": "kaliski",
+    "province": "wielkopolskie",
+    "lat": 51.91772202620909,
+    "lng": 18.111741865352194
+  },
+  {
+    "id": 34366,
+    "name": "Stęszew",
+    "type": "city",
+    "commune": "Stęszew",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.28059644182877,
+    "lng": 16.703759002868505
+  },
+  {
+    "id": 34580,
+    "name": "Sulmierzyce",
+    "type": "city",
+    "commune": "Sulmierzyce",
+    "district": "krotoszyński",
+    "province": "wielkopolskie",
+    "lat": 51.6061462997985,
+    "lng": 17.5306544037427
+  },
+  {
+    "id": 34712,
+    "name": "Swarzędz",
+    "type": "city",
+    "commune": "Swarzędz",
+    "district": "poznański",
+    "province": "wielkopolskie",
+    "lat": 52.410408198809975,
+    "lng": 17.078704419451785
+  },
+  {
+    "id": 34832,
+    "name": "Szamocin",
+    "type": "city",
+    "commune": "Szamocin",
+    "district": "chodzieski",
+    "province": "wielkopolskie",
+    "lat": 53.02933356219378,
+    "lng": 17.122761282790762
+  },
+  {
+    "id": 34834,
+    "name": "Szamotuły",
+    "type": "city",
+    "commune": "Szamotuły",
+    "district": "szamotulski",
+    "province": "wielkopolskie",
+    "lat": 52.61202588031156,
+    "lng": 16.57955218498104
+  },
+  {
+    "id": 35792,
+    "name": "Słupca",
+    "type": "city",
+    "commune": "Słupca",
+    "district": "słupecki",
+    "province": "wielkopolskie",
+    "lat": 52.28993567934151,
+    "lng": 17.873334033545675
+  },
+  {
+    "id": 36476,
+    "name": "Trzcianka",
+    "type": "city",
+    "commune": "Trzcianka",
+    "district": "czarnkowsko-trzcianecki",
+    "province": "wielkopolskie",
+    "lat": 53.04184166736017,
+    "lng": 16.461624607111798
+  },
+  {
+    "id": 36629,
+    "name": "Trzemeszno",
+    "type": "city",
+    "commune": "Trzemeszno",
+    "district": "gnieźnieński",
+    "province": "wielkopolskie",
+    "lat": 52.56063098937943,
+    "lng": 17.823257216224057
+  },
+  {
+    "id": 36767,
+    "name": "Tuliszków",
+    "type": "city",
+    "commune": "Tuliszków",
+    "district": "turecki",
+    "province": "wielkopolskie",
+    "lat": 52.07656769290266,
+    "lng": 18.29381757127357
+  },
+  {
+    "id": 36799,
+    "name": "Turek",
+    "type": "city",
+    "commune": "Turek",
+    "district": "turecki",
+    "province": "wielkopolskie",
+    "lat": 52.01550933702805,
+    "lng": 18.50156730138869
+  },
+  {
+    "id": 37186,
+    "name": "Ujście",
+    "type": "city",
+    "commune": "Ujście",
+    "district": "pilski",
+    "province": "wielkopolskie",
+    "lat": 53.053137841366905,
+    "lng": 16.732329692790596
+  },
+  {
+    "id": 37848,
+    "name": "Wieleń",
+    "type": "city",
+    "commune": "Wieleń",
+    "district": "czarnkowsko-trzcianecki",
+    "province": "wielkopolskie",
+    "lat": 52.88894433800927,
+    "lng": 16.168089335959564
+  },
+  {
+    "id": 37867,
+    "name": "Wielichowo",
+    "type": "city",
+    "commune": "Wielichowo",
+    "district": "grodziski",
+    "province": "wielkopolskie",
+    "lat": 52.11822169227631,
+    "lng": 16.349863968621953
+  },
+  {
+    "id": 38594,
+    "name": "Witkowo",
+    "type": "city",
+    "commune": "Witkowo",
+    "district": "gnieźnieński",
+    "province": "wielkopolskie",
+    "lat": 52.44046411474159,
+    "lng": 17.772325827833573
+  },
+  {
+    "id": 39398,
+    "name": "Wolsztyn",
+    "type": "city",
+    "commune": "Wolsztyn",
+    "district": "wolsztyński",
+    "province": "wielkopolskie",
+    "lat": 52.11438622434054,
+    "lng": 16.11721052678502
+  },
+  {
+    "id": 39526,
+    "name": "Wronki",
+    "type": "city",
+    "commune": "Wronki",
+    "district": "szamotulski",
+    "province": "wielkopolskie",
+    "lat": 52.70795852335774,
+    "lng": 16.378881733677765
+  },
+  {
+    "id": 39565,
+    "name": "Września",
+    "type": "city",
+    "commune": "Września",
+    "district": "wrzesiński",
+    "province": "wielkopolskie",
+    "lat": 52.32583769297461,
+    "lng": 17.565661153595332
+  },
+  {
+    "id": 39884,
+    "name": "Wyrzysk",
+    "type": "city",
+    "commune": "Wyrzysk",
+    "district": "pilski",
+    "province": "wielkopolskie",
+    "lat": 53.153428054187394,
+    "lng": 17.267118794811655
+  },
+  {
+    "id": 39939,
+    "name": "Wysoka",
+    "type": "city",
+    "commune": "Wysoka",
+    "district": "pilski",
+    "province": "wielkopolskie",
+    "lat": 53.1812911918403,
+    "lng": 17.0795844706806
+  },
+  {
+    "id": 40437,
+    "name": "Wągrowiec",
+    "type": "city",
+    "commune": "Wągrowiec",
+    "district": "wągrowiecki",
+    "province": "wielkopolskie",
+    "lat": 52.80725601606061,
+    "lng": 17.19982550743105
+  },
+  {
+    "id": 41017,
+    "name": "Zagórów",
+    "type": "city",
+    "commune": "Zagórów",
+    "district": "słupecki",
+    "province": "wielkopolskie",
+    "lat": 52.16811618058134,
+    "lng": 17.89827877139289
+  },
+  {
+    "id": 41404,
+    "name": "Zaniemyśl",
+    "type": "city",
+    "commune": "Zaniemyśl",
+    "district": "średzki",
+    "province": "wielkopolskie",
+    "lat": 52.15699650452979,
+    "lng": 17.16555095019347
+  },
+  {
+    "id": 41917,
+    "name": "Zbąszyń",
+    "type": "city",
+    "commune": "Zbąszyń",
+    "district": "nowotomyski",
+    "province": "wielkopolskie",
+    "lat": 52.25053793972801,
+    "lng": 15.925277237983414
+  },
+  {
+    "id": 41960,
+    "name": "Zduny",
+    "type": "city",
+    "commune": "Zduny",
+    "district": "krotoszyński",
+    "province": "wielkopolskie",
+    "lat": 51.64511860301489,
+    "lng": 17.37558929165935
+  },
+  {
+    "id": 42541,
+    "name": "Złotów",
+    "type": "city",
+    "commune": "Złotów",
+    "district": "złotowski",
+    "province": "wielkopolskie",
+    "lat": 53.36395242004438,
+    "lng": 17.040652616272478
+  },
+  {
+    "id": 42889,
+    "name": "Łobżenica",
+    "type": "city",
+    "commune": "Łobżenica",
+    "district": "pilski",
+    "province": "wielkopolskie",
+    "lat": 53.26074787999799,
+    "lng": 17.255522483633325
+  },
+  {
+    "id": 43617,
+    "name": "Ślesin",
+    "type": "city",
+    "commune": "Ślesin",
+    "district": "koniński",
+    "province": "wielkopolskie",
+    "lat": 52.37035784271196,
+    "lng": 18.30640476351378
+  },
+  {
+    "id": 43680,
+    "name": "Śmigiel",
+    "type": "city",
+    "commune": "Śmigiel",
+    "district": "kościański",
+    "province": "wielkopolskie",
+    "lat": 52.011972163024176,
+    "lng": 16.525370377279792
+  },
+  {
+    "id": 43733,
+    "name": "Śrem",
+    "type": "city",
+    "commune": "Śrem",
+    "district": "śremski",
+    "province": "wielkopolskie",
+    "lat": 52.09088438220628,
+    "lng": 17.017028551357033
+  },
+  {
+    "id": 43736,
+    "name": "Środa Wielkopolska",
+    "type": "city",
+    "commune": "Środa Wielkopolska",
+    "district": "średzki",
+    "province": "wielkopolskie",
+    "lat": 52.229385466374495,
+    "lng": 17.27520686257928
+  },
+  {
+    "id": 44347,
+    "name": "Żerków",
+    "type": "city",
+    "commune": "Żerków",
+    "district": "jarociński",
+    "province": "wielkopolskie",
+    "lat": 52.0683868597611,
+    "lng": 17.5633277452799
+  }
+]

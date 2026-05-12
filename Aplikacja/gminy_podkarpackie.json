@@ -1,0 +1,542 @@
+[
+  {
+    "id": 673,
+    "name": "Baranów Sandomierski",
+    "type": "city",
+    "commune": "Baranów Sandomierski",
+    "district": "tarnobrzeski",
+    "province": "podkarpackie",
+    "lat": 50.497251185677,
+    "lng": 21.543231547436
+  },
+  {
+    "id": 1559,
+    "name": "Bircza",
+    "type": "city",
+    "commune": "Bircza",
+    "district": "przemyski",
+    "province": "podkarpackie",
+    "lat": 49.6917027177298,
+    "lng": 22.4778121373243
+  },
+  {
+    "id": 1849,
+    "name": "Boguchwała",
+    "type": "city",
+    "commune": "Boguchwała",
+    "district": "rzeszowski",
+    "province": "podkarpackie",
+    "lat": 49.982286988589,
+    "lng": 21.9395900771145
+  },
+  {
+    "id": 3088,
+    "name": "Brzostek",
+    "type": "city",
+    "commune": "Brzostek",
+    "district": "dębicki",
+    "province": "podkarpackie",
+    "lat": 49.879119955607614,
+    "lng": 21.411651613121453
+  },
+  {
+    "id": 3163,
+    "name": "Brzozów",
+    "type": "city",
+    "commune": "Brzozów",
+    "district": "brzozowski",
+    "province": "podkarpackie",
+    "lat": 49.6943044140264,
+    "lng": 22.0193667584436
+  },
+  {
+    "id": 4001,
+    "name": "Błażowa",
+    "type": "city",
+    "commune": "Błażowa",
+    "district": "rzeszowski",
+    "province": "podkarpackie",
+    "lat": 49.8853302014999,
+    "lng": 22.1006144556099
+  },
+  {
+    "id": 5143,
+    "name": "Cieszanów",
+    "type": "city",
+    "commune": "Cieszanów",
+    "district": "lubaczowski",
+    "province": "podkarpackie",
+    "lat": 50.245603790897974,
+    "lng": 23.131660429758107
+  },
+  {
+    "id": 6803,
+    "name": "Dubiecko",
+    "type": "city",
+    "commune": "Dubiecko",
+    "district": "przemyski",
+    "province": "podkarpackie",
+    "lat": 49.824962066189,
+    "lng": 22.392406274729
+  },
+  {
+    "id": 6844,
+    "name": "Dukla",
+    "type": "city",
+    "commune": "Dukla",
+    "district": "krośnieński",
+    "province": "podkarpackie",
+    "lat": 49.5551099774814,
+    "lng": 21.6843333960515
+  },
+  {
+    "id": 6962,
+    "name": "Dynów",
+    "type": "city",
+    "commune": "Dynów",
+    "district": "rzeszowski",
+    "province": "podkarpackie",
+    "lat": 49.8183646206316,
+    "lng": 22.228015886634
+  },
+  {
+    "id": 7662,
+    "name": "Dębica",
+    "type": "city",
+    "commune": "Dębica",
+    "district": "dębicki",
+    "province": "podkarpackie",
+    "lat": 50.0509255093783,
+    "lng": 21.4068479672282
+  },
+  {
+    "id": 10807,
+    "name": "Głogów Małopolski",
+    "type": "city",
+    "commune": "Głogów Małopolski",
+    "district": "rzeszowski",
+    "province": "podkarpackie",
+    "lat": 50.1510972120773,
+    "lng": 21.9601995674975
+  },
+  {
+    "id": 11488,
+    "name": "Iwonicz-Zdrój",
+    "type": "city",
+    "commune": "Iwonicz-Zdrój",
+    "district": "krośnieński",
+    "province": "podkarpackie",
+    "lat": 49.5659669732825,
+    "lng": 21.7928027402344
+  },
+  {
+    "id": 12234,
+    "name": "Jarosław",
+    "type": "city",
+    "commune": "Jarosław",
+    "district": "jarosławski",
+    "province": "podkarpackie",
+    "lat": 50.0187852672347,
+    "lng": 22.6835066279431
+  },
+  {
+    "id": 12449,
+    "name": "Jasło",
+    "type": "city",
+    "commune": "Jasło",
+    "district": "jasielski",
+    "province": "podkarpackie",
+    "lat": 49.7457511147975,
+    "lng": 21.4735177526136
+  },
+  {
+    "id": 12481,
+    "name": "Jawornik Polski",
+    "type": "city",
+    "commune": "Jawornik Polski",
+    "district": "przeworski",
+    "province": "podkarpackie",
+    "lat": 49.8890894740783,
+    "lng": 22.2857757872534
+  },
+  {
+    "id": 12589,
+    "name": "Jedlicze",
+    "type": "city",
+    "commune": "Jedlicze",
+    "district": "krośnieński",
+    "province": "podkarpackie",
+    "lat": 49.7123671034381,
+    "lng": 21.6415019834197
+  },
+  {
+    "id": 14157,
+    "name": "Kańczuga",
+    "type": "city",
+    "commune": "Kańczuga",
+    "district": "przeworski",
+    "province": "podkarpackie",
+    "lat": 49.9833413857745,
+    "lng": 22.4116550790944
+  },
+  {
+    "id": 14912,
+    "name": "Kolbuszowa",
+    "type": "city",
+    "commune": "Kolbuszowa",
+    "district": "kolbuszowski",
+    "province": "podkarpackie",
+    "lat": 50.2431906675811,
+    "lng": 21.7741341674591
+  },
+  {
+    "id": 16147,
+    "name": "Kołaczyce",
+    "type": "city",
+    "commune": "Kołaczyce",
+    "district": "jasielski",
+    "province": "podkarpackie",
+    "lat": 49.8070867569354,
+    "lng": 21.4336159137347
+  },
+  {
+    "id": 16603,
+    "name": "Krosno",
+    "type": "city",
+    "commune": "Krosno",
+    "district": "Krosno",
+    "province": "podkarpackie",
+    "lat": 49.6919920759955,
+    "lng": 21.7670045037303
+  },
+  {
+    "id": 18417,
+    "name": "Lesko",
+    "type": "city",
+    "commune": "Lesko",
+    "district": "leski",
+    "province": "podkarpackie",
+    "lat": 49.471827271632,
+    "lng": 22.3284940209513
+  },
+  {
+    "id": 18594,
+    "name": "Leżajsk",
+    "type": "city",
+    "commune": "Leżajsk",
+    "district": "leżajski",
+    "province": "podkarpackie",
+    "lat": 50.2629531697223,
+    "lng": 22.4182739531803
+  },
+  {
+    "id": 19122,
+    "name": "Lubaczów",
+    "type": "city",
+    "commune": "Lubaczów",
+    "district": "lubaczowski",
+    "province": "podkarpackie",
+    "lat": 50.1573629396733,
+    "lng": 23.1224163602804
+  },
+  {
+    "id": 20801,
+    "name": "Mielec",
+    "type": "city",
+    "commune": "Mielec",
+    "district": "mielecki",
+    "province": "podkarpackie",
+    "lat": 50.2880491020314,
+    "lng": 21.4206793586899
+  },
+  {
+    "id": 22373,
+    "name": "Narol",
+    "type": "city",
+    "commune": "Narol",
+    "district": "lubaczowski",
+    "province": "podkarpackie",
+    "lat": 50.3488155606122,
+    "lng": 23.3269380357092
+  },
+  {
+    "id": 22869,
+    "name": "Nisko",
+    "type": "city",
+    "commune": "Nisko",
+    "district": "niżański",
+    "province": "podkarpackie",
+    "lat": 50.5185071055681,
+    "lng": 22.1477479752662
+  },
+  {
+    "id": 22982,
+    "name": "Nowa Dęba",
+    "type": "city",
+    "commune": "Nowa Dęba",
+    "district": "tarnobrzeski",
+    "province": "podkarpackie",
+    "lat": 50.416370575408,
+    "lng": 21.750271763297
+  },
+  {
+    "id": 23063,
+    "name": "Nowa Sarzyna",
+    "type": "city",
+    "commune": "Nowa Sarzyna",
+    "district": "leżajski",
+    "province": "podkarpackie",
+    "lat": 50.3203684407258,
+    "lng": 22.3436727530094
+  },
+  {
+    "id": 24357,
+    "name": "Oleszyce",
+    "type": "city",
+    "commune": "Oleszyce",
+    "district": "lubaczowski",
+    "province": "podkarpackie",
+    "lat": 50.1680845468168,
+    "lng": 23.0316589933669
+  },
+  {
+    "id": 26267,
+    "name": "Pilzno",
+    "type": "city",
+    "commune": "Pilzno",
+    "district": "dębicki",
+    "province": "podkarpackie",
+    "lat": 49.9782837041904,
+    "lng": 21.2911093482893
+  },
+  {
+    "id": 27824,
+    "name": "Pruchnik",
+    "type": "city",
+    "commune": "Pruchnik",
+    "district": "jarosławski",
+    "province": "podkarpackie",
+    "lat": 49.9061321480502,
+    "lng": 22.5155346435376
+  },
+  {
+    "id": 27934,
+    "name": "Przecław",
+    "type": "city",
+    "commune": "Przecław",
+    "district": "mielecki",
+    "province": "podkarpackie",
+    "lat": 50.1942624081871,
+    "lng": 21.4798351103674
+  },
+  {
+    "id": 27997,
+    "name": "Przemyśl",
+    "type": "city",
+    "commune": "Przemyśl",
+    "district": "Przemyśl",
+    "province": "podkarpackie",
+    "lat": 49.7823167973594,
+    "lng": 22.7751403340637
+  },
+  {
+    "id": 28050,
+    "name": "Przeworsk",
+    "type": "city",
+    "commune": "Przeworsk",
+    "district": "przeworski",
+    "province": "podkarpackie",
+    "lat": 50.0586883981977,
+    "lng": 22.4937400096506
+  },
+  {
+    "id": 29001,
+    "name": "Radomyśl Wielki",
+    "type": "city",
+    "commune": "Radomyśl Wielki",
+    "district": "mielecki",
+    "province": "podkarpackie",
+    "lat": 50.1960368732342,
+    "lng": 21.2779570743166
+  },
+  {
+    "id": 29087,
+    "name": "Radymno",
+    "type": "city",
+    "commune": "Radymno",
+    "district": "jarosławski",
+    "province": "podkarpackie",
+    "lat": 49.9515553983374,
+    "lng": 22.8185801800923
+  },
+  {
+    "id": 29793,
+    "name": "Ropczyce",
+    "type": "city",
+    "commune": "Ropczyce",
+    "district": "ropczycko-sędziszowski",
+    "province": "podkarpackie",
+    "lat": 50.0528560139749,
+    "lng": 21.6109903236244
+  },
+  {
+    "id": 30226,
+    "name": "Rudnik nad Sanem",
+    "type": "city",
+    "commune": "Rudnik nad Sanem",
+    "district": "niżański",
+    "province": "podkarpackie",
+    "lat": 50.4416023731378,
+    "lng": 22.2465592868589
+  },
+  {
+    "id": 30627,
+    "name": "Rymanów",
+    "type": "city",
+    "commune": "Rymanów",
+    "district": "krośnieński",
+    "province": "podkarpackie",
+    "lat": 49.5762001064257,
+    "lng": 21.8676183423683
+  },
+  {
+    "id": 30803,
+    "name": "Rzeszów",
+    "type": "city",
+    "commune": "Rzeszów",
+    "district": "Rzeszów",
+    "province": "podkarpackie",
+    "lat": 50.041104832625,
+    "lng": 21.9991422690219
+  },
+  {
+    "id": 31213,
+    "name": "Sanok",
+    "type": "city",
+    "commune": "Sanok",
+    "district": "sanocki",
+    "province": "podkarpackie",
+    "lat": 49.5598623272834,
+    "lng": 22.2021851061054
+  },
+  {
+    "id": 31632,
+    "name": "Sieniawa",
+    "type": "city",
+    "commune": "Sieniawa",
+    "district": "przeworski",
+    "province": "podkarpackie",
+    "lat": 50.1778499265152,
+    "lng": 22.6095659825434
+  },
+  {
+    "id": 32604,
+    "name": "Sokołów Małopolski",
+    "type": "city",
+    "commune": "Sokołów Małopolski",
+    "district": "rzeszowski",
+    "province": "podkarpackie",
+    "lat": 50.2302810415802,
+    "lng": 22.1200148184642
+  },
+  {
+    "id": 32864,
+    "name": "Stalowa Wola",
+    "type": "city",
+    "commune": "Stalowa Wola",
+    "district": "stalowowolski",
+    "province": "podkarpackie",
+    "lat": 50.568430014707,
+    "lng": 22.06560964599026
+  },
+  {
+    "id": 34246,
+    "name": "Strzyżów",
+    "type": "city",
+    "commune": "Strzyżów",
+    "district": "strzyżowski",
+    "province": "podkarpackie",
+    "lat": 49.870397083096,
+    "lng": 21.793982340016
+  },
+  {
+    "id": 35549,
+    "name": "Sędziszów Małopolski",
+    "type": "city",
+    "commune": "Sędziszów Małopolski",
+    "district": "ropczycko-sędziszowski",
+    "province": "podkarpackie",
+    "lat": 50.07096650238164,
+    "lng": 21.701957764236838
+  },
+  {
+    "id": 35965,
+    "name": "Tarnobrzeg",
+    "type": "city",
+    "commune": "Tarnobrzeg",
+    "district": "Tarnobrzeg",
+    "province": "podkarpackie",
+    "lat": 50.569196570734725,
+    "lng": 21.67749032198508
+  },
+  {
+    "id": 36981,
+    "name": "Tyczyn",
+    "type": "city",
+    "commune": "Tyczyn",
+    "district": "rzeszowski",
+    "province": "podkarpackie",
+    "lat": 49.9640163142286,
+    "lng": 22.0301531942801
+  },
+  {
+    "id": 37197,
+    "name": "Ulanów",
+    "type": "city",
+    "commune": "Ulanów",
+    "district": "niżański",
+    "province": "podkarpackie",
+    "lat": 50.4911443621921,
+    "lng": 22.2673449460022
+  },
+  {
+    "id": 37335,
+    "name": "Ustrzyki Dolne",
+    "type": "city",
+    "commune": "Ustrzyki Dolne",
+    "district": "bieszczadzki",
+    "province": "podkarpackie",
+    "lat": 49.4299600724638,
+    "lng": 22.5868625708499
+  },
+  {
+    "id": 40976,
+    "name": "Zagórz",
+    "type": "city",
+    "commune": "Zagórz",
+    "district": "sanocki",
+    "province": "podkarpackie",
+    "lat": 49.514264636281,
+    "lng": 22.26699932623
+  },
+  {
+    "id": 41076,
+    "name": "Zaklików",
+    "type": "city",
+    "commune": "Zaklików",
+    "district": "stalowowolski",
+    "province": "podkarpackie",
+    "lat": 50.75589313725398,
+    "lng": 22.101960657331215
+  },
+  {
+    "id": 42837,
+    "name": "Łańcut",
+    "type": "city",
+    "commune": "Łańcut",
+    "district": "łańcucki",
+    "province": "podkarpackie",
+    "lat": 50.0657027928375,
+    "lng": 22.2274119443397
+  }
+]

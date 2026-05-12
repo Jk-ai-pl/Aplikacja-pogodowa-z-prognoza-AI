@@ -1,0 +1,442 @@
+[
+  {
+    "id": 486,
+    "name": "Babimost",
+    "type": "city",
+    "commune": "Babimost",
+    "district": "zielonogórski",
+    "province": "lubuskie",
+    "lat": 52.164718249069004,
+    "lng": 15.827500603766127
+  },
+  {
+    "id": 2648,
+    "name": "Brody",
+    "type": "city",
+    "commune": "Brody",
+    "district": "żarski",
+    "province": "lubuskie",
+    "lat": 51.78704883147833,
+    "lng": 14.775206493145232
+  },
+  {
+    "id": 3829,
+    "name": "Bytom Odrzański",
+    "type": "city",
+    "commune": "Bytom Odrzański",
+    "district": "nowosolski",
+    "province": "lubuskie",
+    "lat": 51.729628372281326,
+    "lng": 15.825374266227481
+  },
+  {
+    "id": 5318,
+    "name": "Cybinka",
+    "type": "city",
+    "commune": "Cybinka",
+    "district": "słubicki",
+    "province": "lubuskie",
+    "lat": 52.19457363645711,
+    "lng": 14.79587296253491
+  },
+  {
+    "id": 5794,
+    "name": "Czerwieńsk",
+    "type": "city",
+    "commune": "Czerwieńsk",
+    "district": "zielonogórski",
+    "province": "lubuskie",
+    "lat": 52.01302837720108,
+    "lng": 15.423387096414972
+  },
+  {
+    "id": 6198,
+    "name": "Dobiegniew",
+    "type": "city",
+    "commune": "Dobiegniew",
+    "district": "strzelecko-drezdenecki",
+    "province": "lubuskie",
+    "lat": 52.970367571655665,
+    "lng": 15.753122255906158
+  },
+  {
+    "id": 6604,
+    "name": "Drezdenko",
+    "type": "city",
+    "commune": "Drezdenko",
+    "district": "strzelecko-drezdenecki",
+    "province": "lubuskie",
+    "lat": 52.83599076096964,
+    "lng": 15.831162158610963
+  },
+  {
+    "id": 9214,
+    "name": "Gorzów Wielkopolski",
+    "type": "city",
+    "commune": "Gorzów Wielkopolski",
+    "district": "Gorzów Wielkopolski",
+    "province": "lubuskie",
+    "lat": 52.730959831605,
+    "lng": 15.238292867141
+  },
+  {
+    "id": 9322,
+    "name": "Gozdnica",
+    "type": "city",
+    "commune": "Gozdnica",
+    "district": "żagański",
+    "province": "lubuskie",
+    "lat": 51.43801697519476,
+    "lng": 15.09660301570796
+  },
+  {
+    "id": 10262,
+    "name": "Gubin",
+    "type": "city",
+    "commune": "Gubin",
+    "district": "krośnieński",
+    "province": "lubuskie",
+    "lat": 51.954906773244225,
+    "lng": 14.726981002016522
+  },
+  {
+    "id": 11543,
+    "name": "Iłowa",
+    "type": "city",
+    "commune": "Iłowa",
+    "district": "żagański",
+    "province": "lubuskie",
+    "lat": 51.50471344839532,
+    "lng": 15.201776892995849
+  },
+  {
+    "id": 12318,
+    "name": "Jasień",
+    "type": "city",
+    "commune": "Jasień",
+    "district": "żarski",
+    "province": "lubuskie",
+    "lat": 51.751402568142794,
+    "lng": 15.012173161258492
+  },
+  {
+    "id": 13751,
+    "name": "Kargowa",
+    "type": "city",
+    "commune": "Kargowa",
+    "district": "zielonogórski",
+    "province": "lubuskie",
+    "lat": 52.071965904381244,
+    "lng": 15.86517346565305
+  },
+  {
+    "id": 15722,
+    "name": "Kostrzyn nad Odrą",
+    "type": "city",
+    "commune": "Kostrzyn nad Odrą",
+    "district": "gorzowski",
+    "province": "lubuskie",
+    "lat": 52.58729513125232,
+    "lng": 14.649659278246782
+  },
+  {
+    "id": 16313,
+    "name": "Kożuchów",
+    "type": "city",
+    "commune": "Kożuchów",
+    "district": "nowosolski",
+    "province": "lubuskie",
+    "lat": 51.74513386412507,
+    "lng": 15.595004304925322
+  },
+  {
+    "id": 16605,
+    "name": "Krosno Odrzańskie",
+    "type": "city",
+    "commune": "Krosno Odrzańskie",
+    "district": "krośnieński",
+    "province": "lubuskie",
+    "lat": 52.05512071657332,
+    "lng": 15.095806236532072
+  },
+  {
+    "id": 19274,
+    "name": "Lubniewice",
+    "type": "city",
+    "commune": "Lubniewice",
+    "district": "sulęciński",
+    "province": "lubuskie",
+    "lat": 52.512195735429884,
+    "lng": 15.244227758252121
+  },
+  {
+    "id": 19364,
+    "name": "Lubsko",
+    "type": "city",
+    "commune": "Lubsko",
+    "district": "żarski",
+    "province": "lubuskie",
+    "lat": 51.78538233797573,
+    "lng": 14.96818721306221
+  },
+  {
+    "id": 20452,
+    "name": "Małomice",
+    "type": "city",
+    "commune": "Małomice",
+    "district": "żagański",
+    "province": "lubuskie",
+    "lat": 51.555640620005995,
+    "lng": 15.450173878572365
+  },
+  {
+    "id": 21228,
+    "name": "Międzyrzecz",
+    "type": "city",
+    "commune": "Międzyrzecz",
+    "district": "międzyrzecki",
+    "province": "lubuskie",
+    "lat": 52.447112277351096,
+    "lng": 15.578451626597065
+  },
+  {
+    "id": 23071,
+    "name": "Nowa Sól",
+    "type": "city",
+    "commune": "Nowa Sól",
+    "district": "nowosolski",
+    "province": "lubuskie",
+    "lat": 51.80112289090315,
+    "lng": 15.707408150060012
+  },
+  {
+    "id": 23426,
+    "name": "Nowe Miasteczko",
+    "type": "city",
+    "commune": "Nowe Miasteczko",
+    "district": "nowosolski",
+    "province": "lubuskie",
+    "lat": 51.690175258446736,
+    "lng": 15.73081798362421
+  },
+  {
+    "id": 23639,
+    "name": "Nowogród Bobrzański",
+    "type": "city",
+    "commune": "Nowogród Bobrzański",
+    "district": "zielonogórski",
+    "province": "lubuskie",
+    "lat": 51.80173021314712,
+    "lng": 15.24682679547889
+  },
+  {
+    "id": 25269,
+    "name": "Otyń",
+    "type": "city",
+    "commune": "Otyń",
+    "district": "nowosolski",
+    "province": "lubuskie",
+    "lat": 51.84592127200689,
+    "lng": 15.708364647517334
+  },
+  {
+    "id": 25345,
+    "name": "Ośno Lubuskie",
+    "type": "city",
+    "commune": "Ośno Lubuskie",
+    "district": "słubicki",
+    "province": "lubuskie",
+    "lat": 52.45590733974558,
+    "lng": 14.876816935357757
+  },
+  {
+    "id": 30761,
+    "name": "Rzepin",
+    "type": "city",
+    "commune": "Rzepin",
+    "district": "słubicki",
+    "province": "lubuskie",
+    "lat": 52.346604566508994,
+    "lng": 14.83236828174608
+  },
+  {
+    "id": 32205,
+    "name": "Skwierzyna",
+    "type": "city",
+    "commune": "Skwierzyna",
+    "district": "międzyrzecki",
+    "province": "lubuskie",
+    "lat": 52.599000559031786,
+    "lng": 15.50594735529284
+  },
+  {
+    "id": 34152,
+    "name": "Strzelce Krajeńskie",
+    "type": "city",
+    "commune": "Strzelce Krajeńskie",
+    "district": "strzelecko-drezdenecki",
+    "province": "lubuskie",
+    "lat": 52.8789272515365,
+    "lng": 15.53341605727337
+  },
+  {
+    "id": 34516,
+    "name": "Sulechów",
+    "type": "city",
+    "commune": "Sulechów",
+    "district": "zielonogórski",
+    "province": "lubuskie",
+    "lat": 52.08526987117584,
+    "lng": 15.623355904378139
+  },
+  {
+    "id": 34589,
+    "name": "Sulęcin",
+    "type": "city",
+    "commune": "Sulęcin",
+    "district": "sulęciński",
+    "province": "lubuskie",
+    "lat": 52.439166172027605,
+    "lng": 15.115440400727264
+  },
+  {
+    "id": 35233,
+    "name": "Szlichtyngowa",
+    "type": "city",
+    "commune": "Szlichtyngowa",
+    "district": "wschowski",
+    "province": "lubuskie",
+    "lat": 51.7122514748526,
+    "lng": 16.244263465284337
+  },
+  {
+    "id": 35276,
+    "name": "Szprotawa",
+    "type": "city",
+    "commune": "Szprotawa",
+    "district": "żagański",
+    "province": "lubuskie",
+    "lat": 51.56505725902709,
+    "lng": 15.533466599383761
+  },
+  {
+    "id": 35595,
+    "name": "Sława",
+    "type": "city",
+    "commune": "Sława",
+    "district": "wschowski",
+    "province": "lubuskie",
+    "lat": 51.88097938171861,
+    "lng": 16.071574700538562
+  },
+  {
+    "id": 35766,
+    "name": "Słubice",
+    "type": "city",
+    "commune": "Słubice",
+    "district": "słubicki",
+    "province": "lubuskie",
+    "lat": 52.35347367928301,
+    "lng": 14.567296574651177
+  },
+  {
+    "id": 36342,
+    "name": "Torzym",
+    "type": "city",
+    "commune": "Torzym",
+    "district": "sulęciński",
+    "province": "lubuskie",
+    "lat": 52.3139863223814,
+    "lng": 15.073165036807195
+  },
+  {
+    "id": 36503,
+    "name": "Trzciel",
+    "type": "city",
+    "commune": "Trzciel",
+    "district": "międzyrzecki",
+    "province": "lubuskie",
+    "lat": 52.364819850466105,
+    "lng": 15.873011801886602
+  },
+  {
+    "id": 38605,
+    "name": "Witnica",
+    "type": "city",
+    "commune": "Witnica",
+    "district": "gorzowski",
+    "province": "lubuskie",
+    "lat": 52.673312293459915,
+    "lng": 14.895217381012062
+  },
+  {
+    "id": 39632,
+    "name": "Wschowa",
+    "type": "city",
+    "commune": "Wschowa",
+    "district": "wschowski",
+    "province": "lubuskie",
+    "lat": 51.806410500280926,
+    "lng": 16.319107163489694
+  },
+  {
+    "id": 41916,
+    "name": "Zbąszynek",
+    "type": "city",
+    "commune": "Zbąszynek",
+    "district": "świebodziński",
+    "province": "lubuskie",
+    "lat": 52.246273290547386,
+    "lng": 15.8155335571316
+  },
+  {
+    "id": 42150,
+    "name": "Zielona Góra",
+    "type": "city",
+    "commune": "Zielona Góra",
+    "district": "Zielona Góra",
+    "province": "lubuskie",
+    "lat": 51.9391610444007,
+    "lng": 15.5038203028737
+  },
+  {
+    "id": 43525,
+    "name": "Łęknica",
+    "type": "city",
+    "commune": "Łęknica",
+    "district": "żarski",
+    "province": "lubuskie",
+    "lat": 51.53801955362854,
+    "lng": 14.737774457653932
+  },
+  {
+    "id": 43795,
+    "name": "Świebodzin",
+    "type": "city",
+    "commune": "Świebodzin",
+    "district": "świebodziński",
+    "province": "lubuskie",
+    "lat": 52.24768459243723,
+    "lng": 15.53588173626739
+  },
+  {
+    "id": 44118,
+    "name": "Żagań",
+    "type": "city",
+    "commune": "Żagań",
+    "district": "żagański",
+    "province": "lubuskie",
+    "lat": 51.617497565093075,
+    "lng": 15.314823289220344
+  },
+  {
+    "id": 44183,
+    "name": "Żary",
+    "type": "city",
+    "commune": "Żary",
+    "district": "żarski",
+    "province": "lubuskie",
+    "lat": 51.636484907482284,
+    "lng": 15.137600818134336
+  }
+]

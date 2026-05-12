@@ -1,0 +1,562 @@
+[
+  {
+    "id": 173,
+    "name": "Aleksandrów Kujawski",
+    "type": "city",
+    "commune": "Aleksandrów Kujawski",
+    "district": "aleksandrowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.876593083453315,
+    "lng": 18.693437019737402
+  },
+  {
+    "id": 698,
+    "name": "Barcin",
+    "type": "city",
+    "commune": "Barcin",
+    "district": "żniński",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.8577582038362,
+    "lng": 17.941795552818867
+  },
+  {
+    "id": 1714,
+    "name": "Bobrowniki",
+    "type": "city",
+    "commune": "Bobrowniki",
+    "district": "lipnowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.77849065639641,
+    "lng": 18.954748771086276
+  },
+  {
+    "id": 2623,
+    "name": "Brodnica",
+    "type": "city",
+    "commune": "Brodnica",
+    "district": "brodnicki",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.2564185337457,
+    "lng": 19.4027344135497
+  },
+  {
+    "id": 3023,
+    "name": "Brześć Kujawski",
+    "type": "city",
+    "commune": "Brześć Kujawski",
+    "district": "włocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.6063969287471,
+    "lng": 18.9006907878427
+  },
+  {
+    "id": 3748,
+    "name": "Bydgoszcz",
+    "type": "city",
+    "commune": "Bydgoszcz",
+    "district": "Bydgoszcz",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.125394244618,
+    "lng": 18.0014338271279
+  },
+  {
+    "id": 4306,
+    "name": "Chełmno",
+    "type": "city",
+    "commune": "Chełmno",
+    "district": "chełmiński",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.350653002097,
+    "lng": 18.4302154426386
+  },
+  {
+    "id": 4313,
+    "name": "Chełmża",
+    "type": "city",
+    "commune": "Chełmża",
+    "district": "toruński",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.18595704143355,
+    "lng": 18.61055500598507
+  },
+  {
+    "id": 4473,
+    "name": "Chodecz",
+    "type": "city",
+    "commune": "Chodecz",
+    "district": "włocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.404840975551316,
+    "lng": 19.027456464573948
+  },
+  {
+    "id": 5014,
+    "name": "Ciechocinek",
+    "type": "city",
+    "commune": "Ciechocinek",
+    "district": "aleksandrowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.8787414183966,
+    "lng": 18.7871171296875
+  },
+  {
+    "id": 6399,
+    "name": "Dobrzyń nad Wisłą",
+    "type": "city",
+    "commune": "Dobrzyń nad Wisłą",
+    "district": "lipnowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.6382516392913,
+    "lng": 19.3226812560472
+  },
+  {
+    "id": 8864,
+    "name": "Gniewkowo",
+    "type": "city",
+    "commune": "Gniewkowo",
+    "district": "inowrocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.8927876330246,
+    "lng": 18.4085680767971
+  },
+  {
+    "id": 9079,
+    "name": "Golub-Dobrzyń",
+    "type": "city",
+    "commune": "Golub-Dobrzyń",
+    "district": "golubsko-dobrzyński",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.10865105179782,
+    "lng": 19.053787050131692
+  },
+  {
+    "id": 9981,
+    "name": "Grudziądz",
+    "type": "city",
+    "commune": "Grudziądz",
+    "district": "Grudziądz",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.4880293129976,
+    "lng": 18.7529578044802
+  },
+  {
+    "id": 10638,
+    "name": "Górzno",
+    "type": "city",
+    "commune": "Górzno",
+    "district": "brodnicki",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.1976537251278,
+    "lng": 19.6434811460631
+  },
+  {
+    "id": 10679,
+    "name": "Gąsawa",
+    "type": "city",
+    "commune": "Gąsawa",
+    "district": "żniński",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.76837000856195,
+    "lng": 17.75637523740218
+  },
+  {
+    "id": 11444,
+    "name": "Inowrocław",
+    "type": "city",
+    "commune": "Inowrocław",
+    "district": "inowrocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.7964589902312,
+    "lng": 18.2615811095953
+  },
+  {
+    "id": 11511,
+    "name": "Izbica Kujawska",
+    "type": "city",
+    "commune": "Izbica Kujawska",
+    "district": "włocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.42062042139121,
+    "lng": 18.762626365531542
+  },
+  {
+    "id": 11607,
+    "name": "Jabłonowo Pomorskie",
+    "type": "city",
+    "commune": "Jabłonowo Pomorskie",
+    "district": "brodnicki",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.387788387783985,
+    "lng": 19.153623663285003
+  },
+  {
+    "id": 11871,
+    "name": "Janikowo",
+    "type": "city",
+    "commune": "Janikowo",
+    "district": "inowrocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.7542248380582,
+    "lng": 18.1122548145689
+  },
+  {
+    "id": 12013,
+    "name": "Janowiec Wielkopolski",
+    "type": "city",
+    "commune": "Janowiec Wielkopolski",
+    "district": "żniński",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.75689873866102,
+    "lng": 17.48752698912938
+  },
+  {
+    "id": 13520,
+    "name": "Kamień Krajeński",
+    "type": "city",
+    "commune": "Kamień Krajeński",
+    "district": "sępoleński",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.53287832748494,
+    "lng": 17.519446906333535
+  },
+  {
+    "id": 14171,
+    "name": "Kcynia",
+    "type": "city",
+    "commune": "Kcynia",
+    "district": "nakielski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.99164704954234,
+    "lng": 17.488346384950873
+  },
+  {
+    "id": 14353,
+    "name": "Kikół",
+    "type": "city",
+    "commune": "Kikół",
+    "district": "lipnowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.91201413746092,
+    "lng": 19.119919927045565
+  },
+  {
+    "id": 15520,
+    "name": "Koronowo",
+    "type": "city",
+    "commune": "Koronowo",
+    "district": "bydgoski",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.309692943532816,
+    "lng": 17.943790587832606
+  },
+  {
+    "id": 15869,
+    "name": "Kowal",
+    "type": "city",
+    "commune": "Kowal",
+    "district": "włocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.5304860046416,
+    "lng": 19.1486882822357
+  },
+  {
+    "id": 15921,
+    "name": "Kowalewo Pomorskie",
+    "type": "city",
+    "commune": "Kowalewo Pomorskie",
+    "district": "golubsko-dobrzyński",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.1546906380442,
+    "lng": 18.8977606431037
+  },
+  {
+    "id": 16723,
+    "name": "Kruszwica",
+    "type": "city",
+    "commune": "Kruszwica",
+    "district": "inowrocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.6762192794573,
+    "lng": 18.3230477951377
+  },
+  {
+    "id": 18920,
+    "name": "Lipno",
+    "type": "city",
+    "commune": "Lipno",
+    "district": "lipnowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.8458064665295,
+    "lng": 19.1815278560058
+  },
+  {
+    "id": 19236,
+    "name": "Lubień Kujawski",
+    "type": "city",
+    "commune": "Lubień Kujawski",
+    "district": "włocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.4053458534419,
+    "lng": 19.1656530927064
+  },
+  {
+    "id": 19356,
+    "name": "Lubraniec",
+    "type": "city",
+    "commune": "Lubraniec",
+    "district": "włocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.5438521347933,
+    "lng": 18.8356695350476
+  },
+  {
+    "id": 21492,
+    "name": "Mogilno",
+    "type": "city",
+    "commune": "Mogilno",
+    "district": "mogileński",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.6577340085138,
+    "lng": 17.9499326438345
+  },
+  {
+    "id": 21813,
+    "name": "Mrocza",
+    "type": "city",
+    "commune": "Mrocza",
+    "district": "nakielski",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.245624391801805,
+    "lng": 17.607569906557803
+  },
+  {
+    "id": 22334,
+    "name": "Nakło nad Notecią",
+    "type": "city",
+    "commune": "Nakło nad Notecią",
+    "district": "nakielski",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.14035685338775,
+    "lng": 17.597074442237346
+  },
+  {
+    "id": 22771,
+    "name": "Nieszawa",
+    "type": "city",
+    "commune": "Nieszawa",
+    "district": "aleksandrowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.8340906570506,
+    "lng": 18.902363806428
+  },
+  {
+    "id": 23284,
+    "name": "Nowe",
+    "type": "city",
+    "commune": "Nowe",
+    "district": "świecki",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.64901937757087,
+    "lng": 18.72718384786453
+  },
+  {
+    "id": 25424,
+    "name": "Pakość",
+    "type": "city",
+    "commune": "Pakość",
+    "district": "inowrocławski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.8070052628625,
+    "lng": 18.0876910101656
+  },
+  {
+    "id": 26303,
+    "name": "Piotrków Kujawski",
+    "type": "city",
+    "commune": "Piotrków Kujawski",
+    "district": "radziejowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.55031738842432,
+    "lng": 18.495761504701683
+  },
+  {
+    "id": 27875,
+    "name": "Pruszcz",
+    "type": "city",
+    "commune": "Pruszcz",
+    "district": "świecki",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.32993880639999,
+    "lng": 18.19842553495552
+  },
+  {
+    "id": 29117,
+    "name": "Radziejów",
+    "type": "city",
+    "commune": "Radziejów",
+    "district": "radziejowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.624371486762485,
+    "lng": 18.528104690716614
+  },
+  {
+    "id": 29165,
+    "name": "Radzyń Chełmiński",
+    "type": "city",
+    "commune": "Radzyń Chełmiński",
+    "district": "grudziądzki",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.38514661974153,
+    "lng": 18.93702159298623
+  },
+  {
+    "id": 30650,
+    "name": "Rypin",
+    "type": "city",
+    "commune": "Rypin",
+    "district": "rypiński",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.06601380871684,
+    "lng": 19.4141312814477
+  },
+  {
+    "id": 32234,
+    "name": "Skępe",
+    "type": "city",
+    "commune": "Skępe",
+    "district": "lipnowski",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.86776492764641,
+    "lng": 19.356341948327263
+  },
+  {
+    "id": 32639,
+    "name": "Solec Kujawski",
+    "type": "city",
+    "commune": "Solec Kujawski",
+    "district": "bydgoski",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.079194908715046,
+    "lng": 18.224281565722375
+  },
+  {
+    "id": 34177,
+    "name": "Strzelno",
+    "type": "city",
+    "commune": "Strzelno",
+    "district": "mogileński",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.6280260896509,
+    "lng": 18.1725065189914
+  },
+  {
+    "id": 35303,
+    "name": "Szubin",
+    "type": "city",
+    "commune": "Szubin",
+    "district": "nakielski",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.008435669693895,
+    "lng": 17.735646204401586
+  },
+  {
+    "id": 35574,
+    "name": "Sępólno Krajeńskie",
+    "type": "city",
+    "commune": "Sępólno Krajeńskie",
+    "district": "sępoleński",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.456569374152004,
+    "lng": 17.539317649736354
+  },
+  {
+    "id": 36337,
+    "name": "Toruń",
+    "type": "city",
+    "commune": "Toruń",
+    "district": "Toruń",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.013244465748,
+    "lng": 18.614990611921
+  },
+  {
+    "id": 36734,
+    "name": "Tuchola",
+    "type": "city",
+    "commune": "Tuchola",
+    "district": "tucholski",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.58833001602048,
+    "lng": 17.8620450944116
+  },
+  {
+    "id": 38697,
+    "name": "Więcbork",
+    "type": "city",
+    "commune": "Więcbork",
+    "district": "sępoleński",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.35733468322779,
+    "lng": 17.488218707682563
+  },
+  {
+    "id": 40416,
+    "name": "Wąbrzeźno",
+    "type": "city",
+    "commune": "Wąbrzeźno",
+    "district": "wąbrzeski",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.2800217487292,
+    "lng": 18.947109764432
+  },
+  {
+    "id": 40631,
+    "name": "Włocławek",
+    "type": "city",
+    "commune": "Włocławek",
+    "district": "Włocławek",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.65489507604947,
+    "lng": 19.06549928381647
+  },
+  {
+    "id": 42562,
+    "name": "Łabiszyn",
+    "type": "city",
+    "commune": "Łabiszyn",
+    "district": "żniński",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.95266923397232,
+    "lng": 17.91934213888883
+  },
+  {
+    "id": 42708,
+    "name": "Łasin",
+    "type": "city",
+    "commune": "Łasin",
+    "district": "grudziądzki",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.5179019058172,
+    "lng": 19.088261148239667
+  },
+  {
+    "id": 43802,
+    "name": "Świecie",
+    "type": "city",
+    "commune": "Świecie",
+    "district": "świecki",
+    "province": "kujawsko-pomorskie",
+    "lat": 53.409442406772406,
+    "lng": 18.44735497936689
+  },
+  {
+    "id": 44402,
+    "name": "Żnin",
+    "type": "city",
+    "commune": "Żnin",
+    "district": "żniński",
+    "province": "kujawsko-pomorskie",
+    "lat": 52.849265189056965,
+    "lng": 17.720768882655474
+  }
+]
